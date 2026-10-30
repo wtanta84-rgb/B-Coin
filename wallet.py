@@ -1,49 +1,61 @@
-import json, hashlib, os, secrets
+import json, hashlib, os, time, random
 
-class Wallet:
-    def __init__(self, name="wtanta84"):
-        self.file = f"{name}_wallet.json"
-        if os.path.exists(self.file):
-            with open(self.file) as f:
-                data = json.load(f)
-                self.address = data['address']
-                self.private_key = data['private_key']
-        else:
-            self.private_key = secrets.token_hex(32)
-            self.address = "B" + hashlib.sha256(self.private_key.encode()).hexdigest()[:32]
-            self.save()
-            print(f"=== B-Coin Wallet Created ===")
-            print(f"User: {name}")
-            print(f"Address: {self.address}")
-            print(f"Private Key: {self.private_key[:20]}... (RAHASIA!)")
+WALLETS_FILE = "wallets.json"
+
+def create_wallet(name):
+    # Simple wallet generation
+    private_key = hashlib.sha256(f"{name}{time.time()}{random.random()}".encode()).hexdigest()
+    address = "BCOIN_" + hashlib.sha256(private_key.encode()).hexdigest()[:16].upper()
     
-    def save(self):
-        # Hitung balance dari blockchain.json
-        balance = 0
-        if os.path.exists("blockchain.json"):
-            with open("blockchain.json") as f:
-                chain = json.load(f)
-                for block in chain:
-                    if block['data'].get('to') == 'wtanta84':
-                        balance += block['data'].get('amount', 0)
-        
-        data = {
-            "address": self.address,
-            "private_key": self.private_key,
-            "balance": balance,
-            "created": "2026-10-29 Kalapagenep"
-        }
-        with open(self.file, "w") as f:
-            json.dump(data, f, indent=2)
-        return balance
+    wallets = {}
+    if os.path.exists(WALLETS_FILE):
+        wallets = json.load(open(WALLETS_FILE))
     
-    def get_balance(self):
-        bal = self.save()
-        print(f"\n💰 Wallet: {self.address}")
-        print(f"💰 Balance: {bal} B-Coin")
-        print(f"📦 Blocks: 26+ mined")
-        return bal
+    if name in wallets:
+        print(f"⚠️ Wallet '{name}' already exists!")
+        print(f"   Address: {wallets[name]['address']}")
+        return wallets[name]
+    
+    wallets[name] = {
+        "address": address,
+        "private_key": private_key,
+        "created": int(time.time()*1000)
+    }
+    json.dump(wallets, open(WALLETS_FILE,'w'), indent=2)
+    print(f"✅ Wallet Created!")
+    print(f"   Name: {name}")
+    print(f"   Address: {address}")
+    print(f"   Private Key: {private_key[:12]}... (KEEP SECRET!)")
+    return wallets[name]
+
+def list_wallets():
+    if not os.path.exists(WALLETS_FILE):
+        print("No wallets yet. Create with: python3 wallet.py create <name>")
+        return
+    wallets = json.load(open(WALLETS_FILE))
+    chain = json.load(open('blockchain.json'))
+    # Calculate balances
+    balances = {}
+    for block in chain:
+        d = block['data']
+        if 'to' in d:
+            balances[d['to']] = balances.get(d['to'], 0) + d['amount']
+        if 'from' in d and not d['from'].startswith('miner_') and d['from'] != 'genesis':
+            balances[d['from']] = balances.get(d['from'], 0) - d['amount']
+    
+    print(f"\n💼 Wallets ({len(wallets)}):")
+    for name, w in wallets.items():
+        bal = balances.get(w['address'], balances.get(name, 0))
+        print(f"   {name}: {w['address']} | Balance: {bal} BCOIN")
 
 if __name__ == "__main__":
-    w = Wallet()
-    w.get_balance()
+    import sys
+    if len(sys.argv) < 2:
+        print("Usage:")
+        print("  python3 wallet.py create wtanta84")
+        print("  python3 wallet.py create budi")
+        print("  python3 wallet.py list")
+    elif sys.argv[1] == "create" and len(sys.argv) > 2:
+        create_wallet(sys.argv[2])
+    elif sys.argv[1] == "list":
+        list_wallets()
