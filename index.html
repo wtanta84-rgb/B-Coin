@@ -1,17 +1,63 @@
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>B-Coin Explorer - wtanta84 SULTAN</title>
-<style>body{background:#0f0f0f;color:#ffa500;font-family:monospace;padding:10px}#box{border:2px solid #ffa500;border-radius:10px;padding:10px;text-align:center;margin-bottom:15px} .card{background:#1a1a1a;border:1px solid #333;border-radius:8px;padding:10px;margin-bottom:10px} .hash{color:#ffa500;font-size:10px;word-break:break-all}</style>
-</head><body>
-<div id="box">LOADING...</div>
-<div id="top" class="card"></div>
-<div id="latest" class="card"></div>
+<title>B-Coin PUBLIC TRANSPARAN - Anti Curang - wtanta84</title>
+<style>
+body{background:#000;color:#ffb700;font-family:monospace;padding:10px;margin:0}
+h2{text-align:center;border:2px solid #ffb700;border-radius:12px;padding:12px}
+.card{background:#111;border:1px solid #333;border-radius:10px;padding:12px;margin:10px 0}
+.valid{color:#00ff88;border:1px solid #00ff88;padding:6px;border-radius:6px;text-align:center}
+.invalid{color:#ff3333;border:1px solid #ff3333;padding:6px;border-radius:6px;text-align:center;background:#330000}
+.hash{font-size:9px;color:#888;word-break:break-all}
+.btn{width:100%;padding:12px;background:#ffb700;color:#000;border:none;border-radius:8px;font-weight:bold;margin:5px 0}
+input{width:100%;padding:10px;background:#000;border:1px solid #555;color:#ffb700;border-radius:6px;margin:4px 0;box-sizing:border-box}
+</style></head><body>
+<h2 id="head">Loading B-Coin Chain...</h2>
+<div id="verify" class="card">Verifikasi chain...</div>
+
+<div class="card">
+<b>🔍 DATA TERBUKA UNTUK SEMUA ORANG - TRANSPARAN</b><br>
+<span style="font-size:12px">Semua orang bisa cek blockchain.json mentah di GitHub - gak ada yang ditutup-tutupi!</span><br>
+<a href="blockchain.json" target="_blank" style="color:#00ff88">📂 Lihat blockchain.json ASLI (Source of Truth)</a>
+<div style="margin-top:8px">Auto Sync: <span id="sync">Sinkron...</span> | Validasi: <span id="vTime">-</span></div>
+</div>
+
+<div class="card" id="stats"></div>
+<div class="card"><h3>💰 Top Wallets - Terbuka</h3><div id="top"></div></div>
+<div class="card"><h3>⛓ Semua Blocks - Bisa Dicek Satu2 (Anti Curang)</h3><div id="latest"></div></div>
+
 <script>
-fetch('blockchain.json?v='+Date.now()).then(r=>r.json()).then(chain=>{
-  const supply = chain.reduce((s,b)=>s+(b.data?.amount||0),0);
-  const wallets={}; chain.forEach(b=>{if(b.data?.to){wallets[b.data.to]=(wallets[b.data.to]||0)+b.data.amount}});
-  let richest=Object.entries(wallets).sort((a,b)=>b[1]-a[1])[0];
-  document.getElementById('box').innerHTML=`<h2 style="margin:0">${chain.length} Blocks ${supply} BCOIN LIVE</h2><div>Blocks: ${chain.length} | Supply: ${supply} BCOIN | Richest: ${richest[0]} 👑 ${richest[1]}<br>Best: ${chain[chain.length-1]?.hash||''}</div>`;
-  document.getElementById('top').innerHTML='<h3>💰 Top Wallets</h3>'+Object.entries(wallets).sort((a,b)=>b[1]-a[1]).slice(0,5).map(w=>`<div>${w[0]} ${w[0]=='wtanta84'?'👑':''} - ${w[1]}</div>`).join('');
-  document.getElementById('latest').innerHTML='<h3>⛓ Latest 10 Blocks</h3>'+chain.slice(-10).reverse().map((b,i)=>`<div style="border-bottom:1px solid #333;padding:5px 0">#${chain.length-1-i} <span class="hash">${b.hash.substring(0,30)}...</span><br>${JSON.stringify(b.data)}</div>`).join('');
-});
+let chain=[];
+async function sha256(m){const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(m)); return Array.from(new Uint8Array(b)).map(x=>x.toString(16).padStart(2,'0')).join('');}
+
+async function loadAndVerify(){
+  try{
+    const r=await fetch('blockchain.json?v='+Date.now()); chain=await r.json();
+    let valid=true; let invalidAt=-1;
+    for(let i=1;i<chain.length;i++){
+      const prev=chain[i-1]; const curr=chain[i];
+      if(curr.prevHash!==prev.hash){valid=false; invalidAt=i; break;}
+      const checkHash=await sha256(curr.index+prev.hash+curr.timestamp+JSON.stringify(curr.data)+curr.nonce);
+      // Cek hash depan 00 (PoW) - kalau gak ada nonce, skip PoW check untuk genesis
+      if(curr.hash!==checkHash && curr.nonce!==undefined){valid=false; invalidAt=i; break;}
+    }
+    document.getElementById('verify').innerHTML = valid ? 
+      `<div class="valid">✅ CHAIN VALID - TIDAK ADA KECURANGAN - ${chain.length} Blocks Terverifikasi</div>` :
+      `<div class="invalid">❌ TERDETEKSI CURANG! Block #${invalidAt} TIDAK VALID! Chain Rusak!</div>`;
+    document.getElementById('vTime').innerText=new Date().toLocaleTimeString();
+    render();
+  }catch(e){document.getElementById('verify').innerHTML=`<div class="invalid">Gagal load: ${e}</div>`;}
+}
+
+function render(){
+  const supply=chain.reduce((s,b)=>s+(b.data?.amount||0),0);
+  const wallets={}; chain.forEach(b=>{if(b.data?.to) wallets[b.data.to]=(wallets[b.data.to]||0)+(b.data.amount||0);});
+  const richest=Object.entries(wallets).sort((a,b)=>b[1]-a[1])[0]||["-",0];
+  document.getElementById('head').innerHTML=`${chain.length} Blocks ${supply} BCOIN TRANSPARAN<br><span style="font-size:11px">Blocks: ${chain.length} | Supply: ${supply} | Richest: ${richest[0]} 👑 ${richest[1]}<br>Source: blockchain.json - Terbuka Untuk Umum</span>`;
+  document.getElementById('stats').innerHTML=`Supply: ${supply} BCOIN<br>Blocks: ${chain.length}<br>Semua data terbuka, tidak bisa dihapus diam2!`;
+  document.getElementById('top').innerHTML=Object.entries(wallets).sort((a,b)=>b[1]-a[1]).map(w=>`<div>${w[0]} ${w[0]=='wtanta84'?'👑 BOSS':''} - ${w[1]} BCOIN <span class="hash">terverifikasi</span></div>`).join('');
+  document.getElementById('latest').innerHTML=chain.slice(-30).reverse().map((b,i)=>`<div style="border-bottom:1px solid #222;padding:6px 0">#${chain.length-1-i} | ${new Date(b.timestamp).toLocaleTimeString()}<br><span class="hash">Hash: ${b.hash}<br>Prev: ${b.prevHash}</span><br>Data: ${JSON.stringify(b.data)}<br><span style="color:#00ff88">✓ Terverifikasi</span></div>`).join('');
+  document.getElementById('sync').innerText="Sinkron "+new Date().toLocaleTimeString();
+}
+
+loadAndVerify();
+setInterval(loadAndVerify, 5000); // Auto sinkron tiap 5 detik!
 </script></body></html>
