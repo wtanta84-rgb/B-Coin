@@ -3716,5 +3716,17 @@
     "hash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc",
     "prevHash": "ca70622db4b3b4f3175789d4cadc8b96ea7feccd6746e7d6b811a9b9886ab8f8",
     "nonce": 307
+  },
+  {
+    "index": 308,
+    "timestamp": 1793378041349,
+    "data": {
+      "from": "miner_308",
+      "to": "wtanta84",
+      "amount": 50
+    },
+    "hash": "abbfeb8139456c52483de94221d6d04090d7856b1672aa0ccdc18324bbb98288",
+    "prevHash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc",
+    "nonce": 308
   }
 ]
