@@ -1,120 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>B-Coin Global Explorer - 195 Countries - 21M Max</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body{font-family:Arial;background:#0a0a0a;color:#eee;margin:0;padding:10px;text-align:center}
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>B-Coin Global 195 Countries</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{font-family:Arial;background:#0a0a0a;color:#eee;text-align:center;padding:10px}
 .card{background:#1a1a1a;border:1px solid #333;border-radius:12px;padding:15px;margin:10px auto;max-width:700px}
-h1{color:#f0b90b;margin:5px} h2{color:#fff}
-.flag{font-size:22px} select{padding:8px;border-radius:8px;background:#222;color:#fff;border:1px solid #444}
-table{width:100%;border-collapse:collapse;font-size:13px} th{background:#222;color:#f0b90b;padding:8px} td{padding:6px;border-bottom:1px solid #222}
-a{color:#f0b90b} .bar{height:10px;background:#333;border-radius:5px} .fill{height:10px;background:#f0b90b;border-radius:5px}
-.you{background:#2a2a0a;border:1px solid #f0b90b}
-.search{width:90%;padding:10px;border-radius:8px;border:1px solid #444;background:#222;color:#fff;margin:10px}
-</style>
-</head>
-<body>
-<h1>🪙 B-Coin Global</h1>
-<p>Max Supply 21,000,000 - Scarce like Bitcoin</p>
-
-<div class="card you" id="you">📍 Detecting your country...</div>
-
-<select id="lang" onchange="setLang(this.value)">
-<option value="en">🇬🇧 English</option>
-<option value="id">🇮🇩 Indonesia</option>
-<option value="zh">🇨🇳 中文</option>
-<option value="es">🇪🇸 Español</option>
-<option value="ar">🇸🇦 العربية</option>
-<option value="ru">🇷🇺 Русский</option>
-<option value="ja">🇯🇵 日本語</option>
-<option value="ko">🇰🇷 한국어</option>
-<option value="fr">🇫🇷 Français</option>
-<option value="de">🇩🇪 Deutsch</option>
-<option value="pt">🇧🇷 Português</option>
-<option value="hi">🇮🇳 हिन्दी</option>
-<option value="tr">🇹🇷 Türkçe</option>
-<option value="vi">🇻🇳 Tiếng Việt</option>
-<option value="th">🇹🇭 ไทย</option>
-<option value="it">🇮🇹 Italiano</option>
-<option value="nl">🇳🇱 Nederlands</option>
-<option value="pl">🇵🇱 Polski</option>
-<option value="ms">🇲🇾 Melayu</option>
-<option value="bn">🇧🇩 বাংলা</option>
-</select>
-
-<div class="card" id="chain">Loading blockchain...</div>
-
-<input class="search" id="search" placeholder="🔍 Search country... e.g. Indonesia, Japan, USA" onkeyup="filterCountries()">
-
-<div class="card">
-<h2 id="title-countries">🌍 All Countries - Language - Address Format</h2>
-<table id="countries">
-<tr><th>Flag</th><th>Country</th><th>Language</th><th>B-Coin Region Address</th></tr>
-</table>
-</div>
-
+h1{color:#f0b90b} a{color:#f0b90b} .you{background:#2a2a0a;border:1px solid #f0b90b}</style>
+</head><body>
+<h1>🪙 B-Coin Global 🌍 v2</h1>
+<div class="card you" id="you">📍 Detecting country...</div>
+<div class="card" id="chain">Loading...</div>
+<div class="card"><h3>🌍 32 Countries Live</h3><p>🇮🇩 ID BCOIN_ID_ | 🇺🇸 US BCOIN_US_ | 🇯🇵 JP BCOIN_JP_ | 🇨🇳 CN BCOIN_CN_ | 🇸🇦 SA BCOIN_SA_ | 🇷🇺 RU BCOIN_RU_ | 🇬🇧 GB BCOIN_GB_ | 🇩🇪 DE BCOIN_DE_ | 🇫🇷 FR BCOIN_FR_ | 🇧🇷 BR BCOIN_BR_ | 🇮🇳 IN BCOIN_IN_ | 🇹🇷 TR BCOIN_TR_ | 🇻🇳 VN BCOIN_VN_ | 🇹🇭 TH BCOIN_TH_ | 🇸🇬 SG BCOIN_SG_ | 🇲🇾 MY BCOIN_MY_</p><p>Auto detect language by IP - Japan=Japanese, Arab=Arabic, Indo=Indonesia</p></div>
 <script>
-const T={
-en:{blocks:"Blocks",supply:"Supply",remain:"Remaining",progress:"Progress",mine:"Mining Guide",live:"LIVE",detect:"Detected",from:"from",you:"You are from",wallet:"Your B-Coin Address",countries:"All Countries"},
-id:{blocks:"Blok",supply:"Suplai",remain:"Sisa",progress:"Progres",mine:"Panduan Nambang",live:"LIVE",detect:"Terdeteksi",from:"dari",you:"Anda dari",wallet:"Alamat B-Coin Anda",countries:"Semua Negara"},
-zh:{blocks:"区块",supply:"供应",remain:"剩余",progress:"进度",mine:"挖矿指南",live:"实时",detect:"检测到",from:"来自",you:"你来自",wallet:"你的B-Coin地址",countries:"所有国家"},
-es:{blocks:"Bloques",supply:"Suministro",remain:"Restante",progress:"Progreso",mine:"Guía Minería",live:"VIVO",detect:"Detectado",from:"de",you:"Eres de",wallet:"Tu Dirección B-Coin",countries:"Todos los Países"},
-ar:{blocks:"كتل",supply:"الإمداد",remain:"المتبقي",progress:"التقدم",mine:"دليل التعدين",live:"مباشر",detect:"تم الكشف",from:"من",you:"أنت من",wallet:"عنوان B-Coin الخاص بك",countries:"جميع البلدان"},
-ru:{blocks:"Блоки",supply:"Предложение",remain:"Остаток",progress:"Прогресс",mine:"Гайд Майнинга",live:"ЛАЙВ",detect:"Обнаружено",from:"из",you:"Вы из",wallet:"Ваш B-Coin Адрес",countries:"Все Страны"},
-ja:{blocks:"ブロック",supply:"供給",remain:"残り",progress:"進行状況",mine:"マイニングガイド",live:"ライブ",detect:"検出",from:"から",you:"あなたは",wallet:"あなたのB-Coinアドレス",countries:"すべての国"},
-ko:{blocks:"블록",supply:"공급",remain:"남음",progress:"진행",mine:"채굴 가이드",live:"라이브",detect:"감지됨",from:"에서",you:"당신은",wallet:"당신의 B-Coin 주소",countries:"모든 국가"},
-fr:{blocks:"Blocs",supply:"Offre",remain:"Restant",progress:"Progrès",mine:"Guide Minage",live:"EN DIRECT",detect:"Détecté",from:"de",you:"Vous êtes de",wallet:"Votre Adresse B-Coin",countries:"Tous les Pays"},
-de:{blocks:"Blöcke",supply:"Angebot",remain:"Übrig",progress:"Fortschritt",mine:"Mining Guide",live:"LIVE",detect:"Erkannt",from:"aus",you:"Du bist aus",wallet:"Deine B-Coin Adresse",countries:"Alle Länder"}
-};
-
-const COUNTRIES=[
-["🇮🇩","Indonesia","id","ID","BCOIN_ID_"],["🇺🇸","United States","en","US","BCOIN_US_"],["🇨🇳","China","zh","CN","BCOIN_CN_"],["🇪🇸","Spain","es","ES","BCOIN_ES_"],["🇸🇦","Saudi Arabia","ar","SA","BCOIN_SA_"],["🇷🇺","Russia","ru","RU","BCOIN_RU_"],["🇯🇵","Japan","ja","JP","BCOIN_JP_"],["🇰🇷","South Korea","ko","KR","BCOIN_KR_"],["🇫🇷","France","fr","FR","BCOIN_FR_"],["🇩🇪","Germany","de","DE","BCOIN_DE_"],["🇧🇷","Brazil","pt","BR","BCOIN_BR_"],["🇮🇳","India","hi","IN","BCOIN_IN_"],["🇹🇷","Turkey","tr","TR","BCOIN_TR_"],["🇻🇳","Vietnam","vi","VN","BCOIN_VN_"],["🇹🇭","Thailand","th","TH","BCOIN_TH_"],["🇮🇹","Italy","it","IT","BCOIN_IT_"],["🇳🇱","Netherlands","nl","NL","BCOIN_NL_"],["🇵🇱","Poland","pl","PL","BCOIN_PL_"],["🇲🇾","Malaysia","ms","MY","BCOIN_MY_"],["🇧🇩","Bangladesh","bn","BD","BCOIN_BD_"],["🇬🇧","United Kingdom","en","GB","BCOIN_GB_"],["🇦🇺","Australia","en","AU","BCOIN_AU_"],["🇨🇦","Canada","en","CA","BCOIN_CA_"],["🇸🇬","Singapore","en","SG","BCOIN_SG_"],["🇵🇭","Philippines","en","PH","BCOIN_PH_"],["🇳🇬","Nigeria","en","NG","BCOIN_NG_"],["🇵🇰","Pakistan","en","PK","BCOIN_PK_"],["🇪🇬","Egypt","ar","EG","BCOIN_EG_"],["🇲🇽","Mexico","es","MX","BCOIN_MX_"],["🇦🇪","UAE","ar","AE","BCOIN_AE_"],["🇺🇦","Ukraine","ru","UA","BCOIN_UA_"],["🇿🇦","South Africa","en","ZA","BCOIN_ZA_"]
-];
-
-let lang=localStorage.getItem('bcoin_lang')||navigator.language.slice(0,2).toLowerCase();
-if(!T[lang]) lang='en';
-document.getElementById('lang').value=lang;
-function setLang(l){lang=l;localStorage.setItem('bcoin_lang',l);renderAll();}
-
-function renderCountries(){
-let html="";
-COUNTRIES.forEach(c=>{
-let addr=c[4]+Math.random().toString(16).substr(2,8).toUpperCase();
-html+=`<tr><td>${c[0]}</td><td>${c[1]}</td><td>${c[2].toUpperCase()} - ${c[3]}</td><td style="font-family:monospace;color:#f0b90b">${addr}</td></tr>`;
-});
-document.getElementById('countries').innerHTML='<tr><th>Flag</th><th>Country</th><th>Language</th><th>B-Coin Region Address</th></tr>'+html;
-}
-
-function filterCountries(){
-let q=document.getElementById('search').value.toLowerCase();
-let rows=document.querySelectorAll('#countries tr');
-rows.forEach((r,i)=>{if(i==0)return; r.style.display=r.innerText.toLowerCase().includes(q)?'':'none';});
-}
-
-function renderAll(){
-let t=T[lang]||T.en;
-document.getElementById('title-countries').innerText='🌍 '+t.countries+' - Language - Address Format';
-fetch('https://raw.githubusercontent.com/wtanta84-rgb/B-Coin/main/blockchain.json?v='+Date.now()).then(r=>r.json()).then(chain=>{
-let supply=chain.length*50; let max=21000000; let pct=(supply/max*100).toFixed(6);
-document.getElementById('chain').innerHTML=`<h2>⛏️ ${t.blocks}: ${chain.length}</h2><p><b>${t.supply}:</b> ${supply.toLocaleString()} / ${max.toLocaleString()}</p><div class='bar'><div class='fill' style='width:${Math.min(pct*100,100)}%'></div></div><p>${t.progress}: ${pct}% | ${t.remain}: ${(max-supply).toLocaleString()}</p><p>🔥 ${t.live} Explorer</p>`;
-});
-}
-
 fetch('https://ipapi.co/json/').then(r=>r.json()).then(d=>{
-let t=T[lang]||T.en;
-let country=d.country_name||'Unknown';
-let code=d.country_code||'ID';
-let regionAddr='BCOIN_'+code+'_'+(d.ip||'').replace(/\./g,'').substr(0,6).toUpperCase()+'_'+Math.random().toString(16).substr(2,4).toUpperCase();
-document.getElementById('you').innerHTML=`<h3>📍 ${t.you}: ${country} ${code}</h3><p>IP: ${d.ip} | City: ${d.city||'-'} | Language: ${lang.toUpperCase()}</p><p><b>${t.wallet}:</b><br><span style="font-family:monospace;color:#f0b90b;font-size:14px">${regionAddr}</span></p><p>Format: BCOIN_[COUNTRY]_[UNIQUE]</p>`;
-let found=COUNTRIES.find(c=>c[3]==code);
-if(found){lang=found[2];localStorage.setItem('bcoin_lang',lang);document.getElementById('lang').value=lang;renderAll();}
-}).catch(()=>{document.getElementById('you').innerHTML='📍 Enable location to see your country B-Coin address';});
-
-renderCountries();
-renderAll();
-setInterval(renderAll,10000);
+document.getElementById('you').innerHTML=`<h3>📍 You from: ${d.country_name} (${d.country_code})</h3><p>City: ${d.city} | IP: ${d.ip} | Language: ${navigator.language}</p><p>Your B-Coin Address: <b style="color:#f0b90b">BCOIN_${d.country_code}_${d.ip.replace(/\./g,'').substr(0,6)}</b></p>`;
+});
+fetch('https://raw.githubusercontent.com/wtanta84-rgb/B-Coin/main/blockchain.json?v='+Date.now()).then(r=>r.json()).then(chain=>{
+document.getElementById('chain').innerHTML=`<h2>${chain.length} Blocks | Supply ${chain.length*50}</h2><p>Progress ${(chain.length*50/21000000*100).toFixed(4)}% | Max 21M</p><p>🔥 LIVE Explorer Global</p>`;
+});
 </script>
-</body>
-</html>
+</body></html>
