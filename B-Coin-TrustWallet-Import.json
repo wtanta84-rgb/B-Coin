@@ -1,0 +1,9 @@
+{
+  "bcoin_address": "B5ac0296b73cb6469ace0312e622de830bf",
+  "bcoin_balance": 1300,
+  "bcoin_blocks": 26,
+  "trustwallet_private_key": "df21c4a53da4836eaba00636735858c7c09d70fe474d784d2bc414ec775aa034",
+  "trustwallet_address": "0x63d20812a2589675caeeb5d0a59e7f7264eb64ad",
+  "mainnet": "B-Coin Kalapagenep 29 Okt 2026",
+  "note": "Import private key ini ke TrustWallet -> Add Custom Network -> BSC"
+}
