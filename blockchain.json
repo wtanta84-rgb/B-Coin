@@ -3668,5 +3668,29 @@
     "hash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b",
     "prevHash": "31728589ee4cac5d9d31ee4e8ad4db11b11276f543f76492153a6e941dd31b8c",
     "nonce": 303
+  },
+  {
+    "index": 304,
+    "timestamp": 1793377733369,
+    "data": {
+      "from": "miner_304",
+      "to": "wtanta84",
+      "amount": 50
+    },
+    "hash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c",
+    "prevHash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b",
+    "nonce": 304
+  },
+  {
+    "index": 305,
+    "timestamp": 1793377736395,
+    "data": {
+      "from": "miner_305",
+      "to": "wtanta84",
+      "amount": 50
+    },
+    "hash": "face6c5bde0eaffb16f1ba2b9baeb805ec25e82402e06cf22b3ffa8d8edd744d",
+    "prevHash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c",
+    "nonce": 305
   }
 ]
