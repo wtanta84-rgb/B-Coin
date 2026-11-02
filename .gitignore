@@ -1,5 +1,5 @@
-wtanta84_wallet.json
-B-Coin-TrustWallet-Import.json
+venv/
 __pycache__/
 *.pyc
-bcoin-kalapagenep/
+fix_*.py
+repair.py
