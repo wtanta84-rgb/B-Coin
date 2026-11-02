@@ -1,56 +1,12 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>B-Coin Explorer 451 - TRANSPARAN</title>
-<style>
-*{box-sizing:border-box}
-body{background:#050505;color:#e0e0e0;font-family:Consolas,monospace;margin:0;padding:10px}
-h1{color:#ffb700;text-align:center;margin:8px 0;font-size:22px}
-.box{border:1.5px solid #ffb700;border-radius:12px;padding:12px;margin-bottom:12px;background:#0f0f0f}
-.box.green{border-color:#00ff88;color:#00ff88;text-align:center}
-.box.red{border-color:#ff3344;color:#ff8888}
-.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
-.tab{padding:8px 14px;border:1px solid #ffb700;border-radius:20px;cursor:pointer;background:#111}
-.tab.active{background:#ffb700;color:#000;font-weight:bold}
-table{width:100%;border-collapse:collapse;font-size:13px}
-th{color:#ffb700;text-align:left;border-bottom:1px solid #333;padding:6px}
-td{padding:6px;border-bottom:1px solid #222;word-break:break-all}
-a{color:#00ff88}
-.badge{background:#222;padding:2px 8px;border-radius:10px;font-size:11px}
-.search{width:100%;padding:10px;border-radius:8px;border:1px solid #ffb700;background:#000;color:#fff;margin-bottom:8px}
-</style>
-</head>
-<body>
+<!DOCTYPE html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>B-Coin Explorer 451</title><style>*{box-sizing:border-box}body{background:#050505;color:#e0e0e0;font-family:monospace;margin:0;padding:10px}h1{color:#ffb700;text-align:center} .box{border:1.5px solid #ffb700;border-radius:12px;padding:12px;margin-bottom:12px;background:#0f0f0f}.box.green{border-color:#00ff88;color:#00ff88;text-align:center;font-weight:bold} .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}.tab{padding:8px 14px;border:1px solid #ffb700;border-radius:20px;cursor:pointer;background:#111}.tab.active{background:#ffb700;color:#000;font-weight:bold}table{width:100%;border-collapse:collapse;font-size:13px}th{color:#ffb700;text-align:left;border-bottom:1px solid #333;padding:6px}td{padding:6px;border-bottom:1px solid #222;word-break:break-all}a{color:#00ff88}.search{width:100%;padding:10px;border-radius:8px;border:1px solid #ffb700;background:#000;color:#fff;margin-bottom:8px}</style></head><body>
 <h1>💰 B-COIN EXPLORER</h1>
-<div class="box green" id="summary">Loading blockchain.json...</div>
-
-<div class="box">
-<strong>Source:</strong> ./blockchain.json (Lokal - Pasti Sinkron)<br>
-<strong>Sync:</strong> <span id="syncTime">-</span> | <strong>Status:</strong> <span id="chainStatus">Checking...</span><br>
-<strong>Link Raw:</strong> <a href="./blockchain.json" target="_blank">./blockchain.json</a> | <a href="https://github.com/wtanta84-rgb/B-Coin/blob/main/blockchain.json" target="_blank">Github</a>
-</div>
-
-<div class="tabs">
-<div class="tab active" data-t="wallets">👑 Wallets</div>
-<div class="tab" data-t="mining">⛏️ Mining</div>
-<div class="tab" data-t="transfer">💸 Transfer</div>
-<div class="tab" data-t="blocks">📦 All Blocks</div>
-</div>
-
-<div class="box">
-<input id="search" class="search" placeholder="Cari miner / wallet / hash... (contoh: wtanta84)">
-<div id="content">Loading...</div>
-</div>
-
+<div class="box green" id="summary">Loading ./blockchain.json (451 Blocks)...</div>
+<div class="box">Source: <a href="./blockchain.json" target="_blank">./blockchain.json LOKAL - Sinkron</a> | Sync: <span id="syncTime">-</span> | Status: <span id="chainStatus">Checking</span><br>Raw: <a href="https://github.com/wtanta84-rgb/B-Coin/blob/main/blockchain.json" target="_blank">Github</a></div>
+<div class="tabs"><div class="tab active" data-t="wallets">👑 Wallets</div><div class="tab" data-t="mining">⛏️ Mining</div><div class="tab" data-t="transfer">💸 Transfer</div><div class="tab" data-t="blocks">📦 All Blocks</div></div>
+<div class="box"><input id="search" class="search" placeholder="Cari miner / wallet / hash... wtanta84"><div id="content">Loading...</div></div>
 <script>
-let CHAIN=[];
-let BALANCES={};
-
-async function loadChain(){
-  const url=`./blockchain.json?v=${Date.now()}`;
-  try{
-    const r=await fetch(url,{cache:'no-store'});
-    if(!r
-PY
+let CHAIN=[],BALANCES={};async function loadChain(){try{const r=await fetch('./blockchain.json?v='+Date.now(),{cache:'no-store'});if(!r.ok) throw r.status;CHAIN=await r.json();document.getElementById('syncTime').textContent=new Date().toLocaleString('id-ID');processChain();}catch(e){document.getElementById('summary').innerHTML='❌ GAGAL LOAD ./blockchain.json: '+e;}}
+function processChain(){let valid=true,at=-1;for(let i=1;i<CHAIN.length;i++){if(CHAIN[i].previous_hash!==CHAIN[i-1].hash){valid=false;at=i;break;}}BALANCES={};let mining=[],transfers=[];CHAIN.forEach((b,i)=>{let m=b.miner||'unknown';BALANCES[m]=(BALANCES[m]||0)+50;mining.push({index:i,miner:m,time:b.timestamp||'-',hash:b.hash});transfers.push({block:i,from:'NETWORK (Mining)',to:m,amount:50,type:'mining',hash:b.hash});let txs=b.transactions||[];if(Array.isArray(txs))txs.forEach(tx=>{if(tx.to){transfers.push({block:i,from:tx.from,to:tx.to,amount:tx.amount})}})});});let sup=CHAIN.length*50;let rich=Object.entries(BALANCES).sort((a,b)=>b[1]-a[1])[0];document.getElementById('summary').innerHTML=CHAIN.length+' Blocks | '+sup+' BCOIN SUPPLY | TRANSPARAN VALID 100%<br>Supply: '+sup+' | Richest: '+rich[0]+' 👑 '+rich[1]+'<br><br>'+(valid?'✅ Chain VALID '+CHAIN.length+' blocks terhubung sempurna!':'❌ PUTUS di #'+at);document.getElementById('chainStatus').textContent=valid?'VALID '+CHAIN.length:'INVALID '+at;window._data={mining,transfers};render('wallets');}
+function render(tab){document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.t==tab));let q=(document.getElementById('search').value||'').toLowerCase();let html='';if(tab=='wallets'){let s=Object.entries(BALANCES).sort((a,b)=>b[1]-a[1]).filter(([w])=>!q||w.toLowerCase().includes(q));html='<table><tr><th>Wallet</th><th>Balance</th><th>%</th></tr>';s.forEach(([w,b])=>{html+='<tr><td>'+w+(w.includes('wtanta84')?' 👑 BOSS':'')+'</td><td>'+b+'</td><td>'+((b/(CHAIN.length*50))*100).toFixed(2)+'%</td></tr>'});html+='</table><br>Total Wallets: '+s.length;}else if(tab=='mining'){let r=window._data.mining.filter(m=>!q||m.miner.toLowerCase().includes(q)).reverse();html='<table><tr><th>#</th><th>Miner</th><th>Reward</th><th>Time</th></tr>';r.slice(0,300).forEach(m=>{html+='<tr><td>'+m.index+'</td><td>'+m.miner+'</td><td>+50</td><td>'+String(m.time).substring(0,19)+'</td></tr>'});html+='</table>'}else if(tab=='transfer'){let r=window._data.transfers.filter(t=>!q||t.from.toLowerCase().includes(q)||t.to.toLowerCase().includes(q)).reverse();html='<table><tr><th>Block</th><th>From</th><th>To</th><th>Amount</th></tr>';r.slice(0,400).forEach(t=>{html+='<tr><td>'+t.block+'</td><td>'+t.from+'</td><td>'+t.to+'</td><td>'+t.amount+'</td></tr>'});html+='</table><br>Total Transfer: '+r.length+' (semua mining 50 BCOIN)'}else{let r=CHAIN.filter((b,i)=>!q||String(i).includes(q)||(b.miner||'').toLowerCase().includes(q)||(b.hash||'').toLowerCase().includes(q)).reverse();html='<table><tr><th>#</th><th>Miner</th><th>Hash</th></tr>';r.slice(0,150).forEach(b=>{let idx=CHAIN.indexOf(b);html+='<tr><td>'+idx+'</td><td>'+(b.miner||'-')+'</td><td>'+(b.hash||'').substring(0,22)+'...</td></tr>'});html+='</table>'}document.getElementById('content').innerHTML=html;}
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>render(t.dataset.t)));document.getElementById('search').addEventListener('input',()=>render(document.querySelector('.tab.active').dataset.t));loadChain();setInterval(loadChain,30000);
+</script></body></html>
