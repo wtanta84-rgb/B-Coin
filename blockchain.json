@@ -7,7 +7,8 @@
       "msg": "B-Coin Genesis - Kalapagenep 29 Okt 2026 - by wtanta84"
     },
     "nonce": 4880,
-    "hash": "00000367b374716706c2ebb25bca357a683d4b3f106159ee6c426ad6da5cf7cf"
+    "hash": "00000367b374716706c2ebb25bca357a683d4b3f106159ee6c426ad6da5cf7cf",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 1,
@@ -19,7 +20,8 @@
       "amount": 50
     },
     "nonce": 3419,
-    "hash": "00008689bc6040a99a6d008f05df4a85725592b854f5b53cf1ff0f1c3e2777c3"
+    "hash": "00008689bc6040a99a6d008f05df4a85725592b854f5b53cf1ff0f1c3e2777c3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 2,
@@ -31,7 +33,8 @@
       "amount": 50
     },
     "nonce": 10439,
-    "hash": "0000e5a00a63cc8abeb2ded3fcff8bd203efa1c8fcd46c421d5f98ef2e3afab6"
+    "hash": "0000e5a00a63cc8abeb2ded3fcff8bd203efa1c8fcd46c421d5f98ef2e3afab6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 3,
@@ -43,7 +46,8 @@
       "amount": 50
     },
     "nonce": 102228,
-    "hash": "000034e2ce03e10a55b6ea2163ad5a3181a7f2e1756dfe5a2614291899020c76"
+    "hash": "000034e2ce03e10a55b6ea2163ad5a3181a7f2e1756dfe5a2614291899020c76",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 4,
@@ -55,7 +59,8 @@
       "amount": 50
     },
     "nonce": 16199,
-    "hash": "0000b9190b447c2f447cffee0de8f81ac333a97f91e145f8d864ffb0b8b56d17"
+    "hash": "0000b9190b447c2f447cffee0de8f81ac333a97f91e145f8d864ffb0b8b56d17",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 5,
@@ -67,7 +72,8 @@
       "amount": 50
     },
     "nonce": 12611,
-    "hash": "000041e0183f26ef3631e98a2af4642a5e5cf9735db694672fa153b75fbdc06f"
+    "hash": "000041e0183f26ef3631e98a2af4642a5e5cf9735db694672fa153b75fbdc06f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 6,
@@ -79,7 +85,8 @@
       "amount": 50
     },
     "nonce": 96891,
-    "hash": "0000d102de80ee02537b5159edb4c828cf21f23ff970db9d67141a886772d694"
+    "hash": "0000d102de80ee02537b5159edb4c828cf21f23ff970db9d67141a886772d694",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 7,
@@ -91,7 +98,8 @@
       "amount": 50
     },
     "nonce": 223121,
-    "hash": "0000c6731c898893c98a0758571718cfe8ffb52173c16e327d104c2f35d95d03"
+    "hash": "0000c6731c898893c98a0758571718cfe8ffb52173c16e327d104c2f35d95d03",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 8,
@@ -103,7 +111,8 @@
       "amount": 50
     },
     "nonce": 63844,
-    "hash": "0000ac1548566da6a8ede5727134a7505605ee65212e5fa3b08087bfd44dc16e"
+    "hash": "0000ac1548566da6a8ede5727134a7505605ee65212e5fa3b08087bfd44dc16e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 9,
@@ -115,7 +124,8 @@
       "amount": 50
     },
     "nonce": 100249,
-    "hash": "0000b337d17d9ef35a9c79d43df3a1c3e45af704c8c31c1c745280a0a5af6cb1"
+    "hash": "0000b337d17d9ef35a9c79d43df3a1c3e45af704c8c31c1c745280a0a5af6cb1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 10,
@@ -127,7 +137,8 @@
       "amount": 50
     },
     "nonce": 95001,
-    "hash": "00003db4e8b00f67c7e5949c4e92cca9509a4dd5607168f7b9871f9b71419e92"
+    "hash": "00003db4e8b00f67c7e5949c4e92cca9509a4dd5607168f7b9871f9b71419e92",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 11,
@@ -139,7 +150,8 @@
       "amount": 50
     },
     "nonce": 29087,
-    "hash": "0000bd3827e78d330e7c32416c179e9bc3a29331048098a9985a0980096a1ce9"
+    "hash": "0000bd3827e78d330e7c32416c179e9bc3a29331048098a9985a0980096a1ce9",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 12,
@@ -151,7 +163,8 @@
       "amount": 50
     },
     "nonce": 10307,
-    "hash": "0000f5f99c05f7ef60204be6136cc26280e1497a6e7929038fb7ce2b37198ad9"
+    "hash": "0000f5f99c05f7ef60204be6136cc26280e1497a6e7929038fb7ce2b37198ad9",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 13,
@@ -163,7 +176,8 @@
       "amount": 50
     },
     "nonce": 40004,
-    "hash": "00001db349ad2fbc457ced6bba673cf5784442616bb26efb9b27bf84ea57595a"
+    "hash": "00001db349ad2fbc457ced6bba673cf5784442616bb26efb9b27bf84ea57595a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 14,
@@ -175,7 +189,8 @@
       "amount": 50
     },
     "nonce": 163751,
-    "hash": "0000db042bfda4b01bcbde85aebc94becfb04a35abd4e9128d6cf944ac37b09b"
+    "hash": "0000db042bfda4b01bcbde85aebc94becfb04a35abd4e9128d6cf944ac37b09b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 15,
@@ -187,7 +202,8 @@
       "amount": 50
     },
     "nonce": 583,
-    "hash": "0000c59878936a2009c16b4d8ad8be50569269ebee93b3bc2fc38589ca87800a"
+    "hash": "0000c59878936a2009c16b4d8ad8be50569269ebee93b3bc2fc38589ca87800a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 16,
@@ -199,7 +215,8 @@
       "amount": 50
     },
     "nonce": 97934,
-    "hash": "0000cfcb3fa6822d7f1e15957bb2ad59de8af06837d2d1f8064f0882bad3f321"
+    "hash": "0000cfcb3fa6822d7f1e15957bb2ad59de8af06837d2d1f8064f0882bad3f321",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 17,
@@ -211,7 +228,8 @@
       "amount": 50
     },
     "nonce": 21817,
-    "hash": "000058bf50999b511536959f186368f96f0235c8f1bcfc5cf924d0a7ac1e74a0"
+    "hash": "000058bf50999b511536959f186368f96f0235c8f1bcfc5cf924d0a7ac1e74a0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 18,
@@ -223,7 +241,8 @@
       "amount": 50
     },
     "nonce": 3060,
-    "hash": "0000909597b35b562dd3c4731bcc0d0ea2dcde51f25294d7a87234e8ef361dd8"
+    "hash": "0000909597b35b562dd3c4731bcc0d0ea2dcde51f25294d7a87234e8ef361dd8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 19,
@@ -235,7 +254,8 @@
       "amount": 50
     },
     "nonce": 83393,
-    "hash": "00009d5a0ee1da03ff9f97428e6531b6ee51db0bba6087bfd3d0e43bf3d19496"
+    "hash": "00009d5a0ee1da03ff9f97428e6531b6ee51db0bba6087bfd3d0e43bf3d19496",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 20,
@@ -247,7 +267,8 @@
       "amount": 50
     },
     "nonce": 1349,
-    "hash": "000084611e323610e7a7208673eec9d483cd024df5490fcee49da96e4edb921a"
+    "hash": "000084611e323610e7a7208673eec9d483cd024df5490fcee49da96e4edb921a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 21,
@@ -259,7 +280,8 @@
       "amount": 50
     },
     "nonce": 77752,
-    "hash": "0000ef2a037ed4707fef9ebc48f894a2a4576b62ab62451ce439e04ef8706329"
+    "hash": "0000ef2a037ed4707fef9ebc48f894a2a4576b62ab62451ce439e04ef8706329",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 22,
@@ -271,7 +293,8 @@
       "amount": 50
     },
     "nonce": 43577,
-    "hash": "0000a5219948ba017a7111f2475f108e8cf045d354b1f46917577b99ae4305be"
+    "hash": "0000a5219948ba017a7111f2475f108e8cf045d354b1f46917577b99ae4305be",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 23,
@@ -283,7 +306,8 @@
       "amount": 50
     },
     "nonce": 41329,
-    "hash": "00007354560cfd867af4d20e1d3b132012eb93812a0b165faaf7111b7cd03be5"
+    "hash": "00007354560cfd867af4d20e1d3b132012eb93812a0b165faaf7111b7cd03be5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 24,
@@ -295,7 +319,8 @@
       "amount": 50
     },
     "nonce": 27729,
-    "hash": "00009e2ffe9fe660a47906922961b1dd54e63b1d639c7a7c781c1b107972bf80"
+    "hash": "00009e2ffe9fe660a47906922961b1dd54e63b1d639c7a7c781c1b107972bf80",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 25,
@@ -307,7 +332,8 @@
       "amount": 50
     },
     "nonce": 12274,
-    "hash": "0000eda7f5566f8ae392365bd78ae5177ac17125fa2fceaee649ef7906f3778b"
+    "hash": "0000eda7f5566f8ae392365bd78ae5177ac17125fa2fceaee649ef7906f3778b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 26,
@@ -319,7 +345,8 @@
       "amount": 50
     },
     "nonce": 68110,
-    "hash": "0000d632adb4fee92d843b0f270aa090f671b9bd343605b46e8bfb0f8461184a"
+    "hash": "0000d632adb4fee92d843b0f270aa090f671b9bd343605b46e8bfb0f8461184a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 27,
@@ -331,7 +358,8 @@
       "amount": 50
     },
     "nonce": 94255,
-    "hash": "0000c96202f5a08022c34b2d5eb56e652d400a69893dd16ab96ef08f6aa2a55f"
+    "hash": "0000c96202f5a08022c34b2d5eb56e652d400a69893dd16ab96ef08f6aa2a55f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 28,
@@ -343,7 +371,8 @@
       "amount": 50
     },
     "nonce": 2755,
-    "hash": "0000936b1201a00b4579d4379c77ce536a5049672054ff3108d566d38b84dba5"
+    "hash": "0000936b1201a00b4579d4379c77ce536a5049672054ff3108d566d38b84dba5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 29,
@@ -355,7 +384,8 @@
       "amount": 50
     },
     "nonce": 29378,
-    "hash": "0000037e5eefb5daa75de56ef2d7471c43f5e4cd0deb659ca957e38dfbb1dc9b"
+    "hash": "0000037e5eefb5daa75de56ef2d7471c43f5e4cd0deb659ca957e38dfbb1dc9b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 30,
@@ -367,7 +397,8 @@
       "amount": 50
     },
     "nonce": 48548,
-    "hash": "0000cc5c38c415eca001c1c3ac4427d97a004d5a16fc2e5e749299d1e9d1b65a"
+    "hash": "0000cc5c38c415eca001c1c3ac4427d97a004d5a16fc2e5e749299d1e9d1b65a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 31,
@@ -379,7 +410,8 @@
       "amount": 50
     },
     "nonce": 42164,
-    "hash": "000004f727a35ffcf3248b59a1332014e13b9c0d79399ea1efb54aaa78d7a840"
+    "hash": "000004f727a35ffcf3248b59a1332014e13b9c0d79399ea1efb54aaa78d7a840",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 32,
@@ -391,7 +423,8 @@
       "amount": 50
     },
     "nonce": 40652,
-    "hash": "000001b2a2de3ca67860045ad7a8c545e34cb9f316273f4d3dc22cfc80b0af23"
+    "hash": "000001b2a2de3ca67860045ad7a8c545e34cb9f316273f4d3dc22cfc80b0af23",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 33,
@@ -403,7 +436,8 @@
       "amount": 50
     },
     "nonce": 58533,
-    "hash": "0000a9b3df31408c4af032325de4f6d282ba13268812d2bb5bc6e19376a33ec5"
+    "hash": "0000a9b3df31408c4af032325de4f6d282ba13268812d2bb5bc6e19376a33ec5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 34,
@@ -415,7 +449,8 @@
       "amount": 50
     },
     "nonce": 56008,
-    "hash": "00004f26f726d96c0c1111cf826427b8855e088e2b1ec99e2a6d1334599429aa"
+    "hash": "00004f26f726d96c0c1111cf826427b8855e088e2b1ec99e2a6d1334599429aa",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 35,
@@ -427,7 +462,8 @@
       "amount": 50
     },
     "nonce": 29964,
-    "hash": "0000934d262485e45265e0746fb9ffef3650dcff0e30a9fccd66b50291c4a84b"
+    "hash": "0000934d262485e45265e0746fb9ffef3650dcff0e30a9fccd66b50291c4a84b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 36,
@@ -439,7 +475,8 @@
       "amount": 50
     },
     "nonce": 1962,
-    "hash": "0000133decb4b562b512215342961bf69eb94c215ebc1ee65eb0ced275f8bfef"
+    "hash": "0000133decb4b562b512215342961bf69eb94c215ebc1ee65eb0ced275f8bfef",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 37,
@@ -451,7 +488,8 @@
       "amount": 50
     },
     "nonce": 26163,
-    "hash": "00006a6223d64b4a0da17f630fa801badf35d8525cda81ba8351009790347b9f"
+    "hash": "00006a6223d64b4a0da17f630fa801badf35d8525cda81ba8351009790347b9f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 38,
@@ -463,7 +501,8 @@
       "amount": 50
     },
     "nonce": 85843,
-    "hash": "000021d61dc53e7616f210a1f4625223a563143cbfcf0f71e3596cc8dadc3563"
+    "hash": "000021d61dc53e7616f210a1f4625223a563143cbfcf0f71e3596cc8dadc3563",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 39,
@@ -475,7 +514,8 @@
       "amount": 50
     },
     "nonce": 60087,
-    "hash": "0000cffc9b1257053f10ef4ef7afb08b02c4e60205289c48e60a2ef2cf8d6754"
+    "hash": "0000cffc9b1257053f10ef4ef7afb08b02c4e60205289c48e60a2ef2cf8d6754",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 40,
@@ -487,7 +527,8 @@
       "amount": 50
     },
     "nonce": 159665,
-    "hash": "0000b1cfc6564e66b79ff17c1b21beceff3de664b6ea6406a31b78441a695657"
+    "hash": "0000b1cfc6564e66b79ff17c1b21beceff3de664b6ea6406a31b78441a695657",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 41,
@@ -499,7 +540,8 @@
       "amount": 50
     },
     "nonce": 84907,
-    "hash": "0000c00ba80cb66c546b0bb86ee032b95d23cb05971f54d9e76b74eeedf9cff5"
+    "hash": "0000c00ba80cb66c546b0bb86ee032b95d23cb05971f54d9e76b74eeedf9cff5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 42,
@@ -511,7 +553,8 @@
       "amount": 50
     },
     "nonce": 69915,
-    "hash": "000079d6eca34baf25d3ba9860417dcdd270a2e7c00d5d95c977075dcc915f39"
+    "hash": "000079d6eca34baf25d3ba9860417dcdd270a2e7c00d5d95c977075dcc915f39",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 43,
@@ -523,7 +566,8 @@
       "amount": 50
     },
     "nonce": 112448,
-    "hash": "00003debfe941832e16544720ea90d1922af065418fe6e8ef92bb45bc59928f1"
+    "hash": "00003debfe941832e16544720ea90d1922af065418fe6e8ef92bb45bc59928f1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 44,
@@ -535,7 +579,8 @@
       "amount": 50
     },
     "nonce": 29909,
-    "hash": "00002c4a164cfc3ad4ba9c843402769dadbc54977491be685b526491b1e9081e"
+    "hash": "00002c4a164cfc3ad4ba9c843402769dadbc54977491be685b526491b1e9081e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 45,
@@ -547,7 +592,8 @@
       "amount": 50
     },
     "nonce": 127267,
-    "hash": "0000d06e8683e5afa0bc73e8a9a3b29c7d7f45b0bcd4ad1e23ae203cc0b968bf"
+    "hash": "0000d06e8683e5afa0bc73e8a9a3b29c7d7f45b0bcd4ad1e23ae203cc0b968bf",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 46,
@@ -559,7 +605,8 @@
       "amount": 50
     },
     "nonce": 67287,
-    "hash": "00007179a54c787e5e2aab21b5bdaed560bf67386f444fe61e6599ef01e3f695"
+    "hash": "00007179a54c787e5e2aab21b5bdaed560bf67386f444fe61e6599ef01e3f695",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 47,
@@ -571,7 +618,8 @@
       "amount": 50
     },
     "nonce": 21758,
-    "hash": "000073723be1756cc2f21dca2ec066a5401c3760ace5425fdcbd9a1c4b3ff81f"
+    "hash": "000073723be1756cc2f21dca2ec066a5401c3760ace5425fdcbd9a1c4b3ff81f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 48,
@@ -583,7 +631,8 @@
       "amount": 50
     },
     "nonce": 1802,
-    "hash": "0000613307312e15c7cbafd19565c087de449fc714fab76ac9bb7c31911d7d28"
+    "hash": "0000613307312e15c7cbafd19565c087de449fc714fab76ac9bb7c31911d7d28",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 49,
@@ -595,7 +644,8 @@
       "amount": 50
     },
     "nonce": 187,
-    "hash": "0000ed75c0908d677e95f83a1f830070ed805f08589b4c23566122ad862c1a81"
+    "hash": "0000ed75c0908d677e95f83a1f830070ed805f08589b4c23566122ad862c1a81",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 50,
@@ -607,7 +657,8 @@
       "amount": 50
     },
     "nonce": 34484,
-    "hash": "0000c923322abfe5b408c51a3deb4ccfc293d29b3a20874a62e627ea44c2f8a4"
+    "hash": "0000c923322abfe5b408c51a3deb4ccfc293d29b3a20874a62e627ea44c2f8a4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 51,
@@ -619,7 +670,8 @@
       "amount": 50
     },
     "nonce": 69454,
-    "hash": "0000a832112b172de46e7e797be1e9e26efc4cfca107e6bdd560c46c09dcc610"
+    "hash": "0000a832112b172de46e7e797be1e9e26efc4cfca107e6bdd560c46c09dcc610",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 52,
@@ -631,7 +683,8 @@
       "amount": 50
     },
     "nonce": 25964,
-    "hash": "0000637c4a47528936cd6ac803cfd6f7358df9646bcbb170399bed76fa74fab1"
+    "hash": "0000637c4a47528936cd6ac803cfd6f7358df9646bcbb170399bed76fa74fab1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 53,
@@ -643,7 +696,8 @@
       "amount": 50
     },
     "nonce": 91442,
-    "hash": "00005ce9c227e36ded4718e17afc51a1ab0c9212345440b7b793f197ddb1bb90"
+    "hash": "00005ce9c227e36ded4718e17afc51a1ab0c9212345440b7b793f197ddb1bb90",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 54,
@@ -655,7 +709,8 @@
       "amount": 50
     },
     "nonce": 19893,
-    "hash": "0000de7ba7d797ef438f4d5f903cd611c2f765c34d6fb31aadf5cd2eaf242b04"
+    "hash": "0000de7ba7d797ef438f4d5f903cd611c2f765c34d6fb31aadf5cd2eaf242b04",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 55,
@@ -667,7 +722,8 @@
       "amount": 50
     },
     "nonce": 38573,
-    "hash": "00000b2e6027277ceac3bb6feba1853da4fd40da0c31110a9438013e535dec4e"
+    "hash": "00000b2e6027277ceac3bb6feba1853da4fd40da0c31110a9438013e535dec4e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 56,
@@ -679,7 +735,8 @@
       "amount": 50
     },
     "nonce": 206978,
-    "hash": "00008870f0bc3041b941fd409a1c92251cd172507418e1f566e720c5dbd45333"
+    "hash": "00008870f0bc3041b941fd409a1c92251cd172507418e1f566e720c5dbd45333",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 57,
@@ -691,7 +748,8 @@
       "amount": 50
     },
     "nonce": 295388,
-    "hash": "00004ad03b108d3e9314a336633b34d7d425a84b27ad9411a30fc39a026ce5a5"
+    "hash": "00004ad03b108d3e9314a336633b34d7d425a84b27ad9411a30fc39a026ce5a5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 58,
@@ -703,7 +761,8 @@
       "amount": 50
     },
     "nonce": 72429,
-    "hash": "0000f11117bf0435438d39f60e857092744c74c9d0c047087e7e54757cbfe376"
+    "hash": "0000f11117bf0435438d39f60e857092744c74c9d0c047087e7e54757cbfe376",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 59,
@@ -715,7 +774,8 @@
       "amount": 50
     },
     "nonce": 24806,
-    "hash": "00008a89b8ca18e93914dbb3e7f29a31e5a7945f6c8161b38bd14abc5d6e934d"
+    "hash": "00008a89b8ca18e93914dbb3e7f29a31e5a7945f6c8161b38bd14abc5d6e934d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 60,
@@ -727,7 +787,8 @@
       "amount": 50
     },
     "nonce": 2486,
-    "hash": "00005d6e2cfb5336881ed8e471ef4a0d4dc4e0aac1aa02b7c0659b854c7aa223"
+    "hash": "00005d6e2cfb5336881ed8e471ef4a0d4dc4e0aac1aa02b7c0659b854c7aa223",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 61,
@@ -739,7 +800,8 @@
       "amount": 50
     },
     "nonce": 2878,
-    "hash": "00006af009ed21936e3a44b97922d8e44a86fade55c3bcffd69a6de6f830577c"
+    "hash": "00006af009ed21936e3a44b97922d8e44a86fade55c3bcffd69a6de6f830577c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 62,
@@ -751,7 +813,8 @@
       "amount": 50
     },
     "nonce": 12464,
-    "hash": "0000db9f67d9a596b0c2e78115e194f023b669a2d6acdc07070b91b075e0f686"
+    "hash": "0000db9f67d9a596b0c2e78115e194f023b669a2d6acdc07070b91b075e0f686",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 63,
@@ -763,7 +826,8 @@
       "amount": 50
     },
     "nonce": 91312,
-    "hash": "00004a5fa4f917b4505248548a1b64be24b198d8f956e3dafa28c91606a1b504"
+    "hash": "00004a5fa4f917b4505248548a1b64be24b198d8f956e3dafa28c91606a1b504",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 64,
@@ -775,7 +839,8 @@
       "amount": 50
     },
     "nonce": 35632,
-    "hash": "00004b8e856b3a4b49dfaa6dc706a484be28654b156ff2e6007407a2c5841dd3"
+    "hash": "00004b8e856b3a4b49dfaa6dc706a484be28654b156ff2e6007407a2c5841dd3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 65,
@@ -787,7 +852,8 @@
       "amount": 50
     },
     "nonce": 34671,
-    "hash": "0000a1f59bac3085a9a9d4938c17abc24343cc30a0e77fb4e4d3e78722ca8f6b"
+    "hash": "0000a1f59bac3085a9a9d4938c17abc24343cc30a0e77fb4e4d3e78722ca8f6b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 66,
@@ -799,7 +865,8 @@
       "amount": 50
     },
     "nonce": 31128,
-    "hash": "0000d512a9de3daabfc1fba760fe5ca7179116787644ddfedb370386c1fc9fe8"
+    "hash": "0000d512a9de3daabfc1fba760fe5ca7179116787644ddfedb370386c1fc9fe8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 67,
@@ -811,7 +878,8 @@
       "amount": 50
     },
     "nonce": 94093,
-    "hash": "00005c9d110abb72851900fad507aafb0554c993d7ebacc8c3125e7260d0789b"
+    "hash": "00005c9d110abb72851900fad507aafb0554c993d7ebacc8c3125e7260d0789b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 68,
@@ -823,7 +891,8 @@
       "amount": 50
     },
     "nonce": 23974,
-    "hash": "0000fd6f1bb3ed1e50ef8d711ac3787255bdc3c0fedae6831ad6cbe74698081c"
+    "hash": "0000fd6f1bb3ed1e50ef8d711ac3787255bdc3c0fedae6831ad6cbe74698081c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 69,
@@ -835,7 +904,8 @@
       "amount": 50
     },
     "nonce": 66812,
-    "hash": "0000f3e9db319ec1db3c48e1d4c805628a7a28fee303cc4e33d4e5dbe7ef3240"
+    "hash": "0000f3e9db319ec1db3c48e1d4c805628a7a28fee303cc4e33d4e5dbe7ef3240",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 70,
@@ -847,7 +917,8 @@
       "amount": 50
     },
     "nonce": 163874,
-    "hash": "0000f91888d3247bc1dd216b6ea514ffbc11399a0751ef17fd47a70f34eadd51"
+    "hash": "0000f91888d3247bc1dd216b6ea514ffbc11399a0751ef17fd47a70f34eadd51",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 71,
@@ -859,7 +930,8 @@
       "amount": 50
     },
     "nonce": 23828,
-    "hash": "000026aedd7a4745462cc0f492d65267bf3956bd3191a850053945416f0ce095"
+    "hash": "000026aedd7a4745462cc0f492d65267bf3956bd3191a850053945416f0ce095",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 72,
@@ -871,7 +943,8 @@
       "amount": 50
     },
     "nonce": 21892,
-    "hash": "000073cbedcd3da08c1b611048421c7275f033325cbf5c3bd32d7c28bf5d5cdf"
+    "hash": "000073cbedcd3da08c1b611048421c7275f033325cbf5c3bd32d7c28bf5d5cdf",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 73,
@@ -885,7 +958,8 @@
       "note": "Transfer B-Coin Kalapagenep"
     },
     "nonce": 8065,
-    "hash": "000007b5c36c04643e0d77138c51eabba5295b5e00c457b8673b0532c00959c0"
+    "hash": "000007b5c36c04643e0d77138c51eabba5295b5e00c457b8673b0532c00959c0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 74,
@@ -898,7 +972,8 @@
       "type": "reward"
     },
     "nonce": 39792,
-    "hash": "0000d690c89223615d5eaa41f8b9e51e2bae291668acfe81a1900c5911f195c4"
+    "hash": "0000d690c89223615d5eaa41f8b9e51e2bae291668acfe81a1900c5911f195c4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 75,
@@ -911,7 +986,8 @@
       "type": "reward"
     },
     "nonce": 19454,
-    "hash": "0000bb7aaeb9d393b44e3575d701438fe0dc8e72d6af5adf9e44cf016f3877b4"
+    "hash": "0000bb7aaeb9d393b44e3575d701438fe0dc8e72d6af5adf9e44cf016f3877b4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 76,
@@ -924,7 +1000,8 @@
       "type": "reward"
     },
     "nonce": 24399,
-    "hash": "000047646c438027d79a382d1081a385498c8042cf03b2b1bc802d8f2538630c"
+    "hash": "000047646c438027d79a382d1081a385498c8042cf03b2b1bc802d8f2538630c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 77,
@@ -937,7 +1014,8 @@
       "type": "reward"
     },
     "nonce": 307697,
-    "hash": "000059498f3fc11a93dd3910e89e0c4914c77e565a14885bacdc8a954c937a35"
+    "hash": "000059498f3fc11a93dd3910e89e0c4914c77e565a14885bacdc8a954c937a35",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 78,
@@ -950,7 +1028,8 @@
       "type": "reward"
     },
     "nonce": 10181,
-    "hash": "0000bc72b485b04878d9b633873b80728533a2724873292ca631fae75113ed09"
+    "hash": "0000bc72b485b04878d9b633873b80728533a2724873292ca631fae75113ed09",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 79,
@@ -963,7 +1042,8 @@
       "type": "reward"
     },
     "nonce": 107413,
-    "hash": "00007529bfd121d248635c492ca4ea4113ded377356ec003901e4174ff1cc85c"
+    "hash": "00007529bfd121d248635c492ca4ea4113ded377356ec003901e4174ff1cc85c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 80,
@@ -976,7 +1056,8 @@
       "type": "reward"
     },
     "nonce": 60218,
-    "hash": "000091f9a926f35b681ad764901d61c37165238663599ead44e5f412bdd8b81d"
+    "hash": "000091f9a926f35b681ad764901d61c37165238663599ead44e5f412bdd8b81d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 81,
@@ -989,7 +1070,8 @@
       "type": "reward"
     },
     "nonce": 18974,
-    "hash": "0000e3392502d9330ad755d05433c54c979cd514d27a6d5f2fc5bbccf7ef85ee"
+    "hash": "0000e3392502d9330ad755d05433c54c979cd514d27a6d5f2fc5bbccf7ef85ee",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 82,
@@ -1002,7 +1084,8 @@
       "type": "reward"
     },
     "nonce": 21782,
-    "hash": "00004191fd1b3d12e8cc312a22d5051241d23ac9ef60b7ccaaf5a65b5a5c42a3"
+    "hash": "00004191fd1b3d12e8cc312a22d5051241d23ac9ef60b7ccaaf5a65b5a5c42a3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 83,
@@ -1015,7 +1098,8 @@
       "type": "reward"
     },
     "nonce": 24252,
-    "hash": "0000c57275c9ced5395da12fea342e5361bc7f31de01da86959aa8a4c1137943"
+    "hash": "0000c57275c9ced5395da12fea342e5361bc7f31de01da86959aa8a4c1137943",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 84,
@@ -1028,7 +1112,8 @@
       "type": "reward"
     },
     "nonce": 13617,
-    "hash": "00005980adb68f25abf309abe3339e8b56d5597e0cf32779be83a0a957429e7e"
+    "hash": "00005980adb68f25abf309abe3339e8b56d5597e0cf32779be83a0a957429e7e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 85,
@@ -1041,7 +1126,8 @@
       "type": "reward"
     },
     "nonce": 18200,
-    "hash": "0000d333ec026e96a39367c2c3b42431934b359f55b2c24d63fc2a9032ee21ec"
+    "hash": "0000d333ec026e96a39367c2c3b42431934b359f55b2c24d63fc2a9032ee21ec",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 86,
@@ -1054,7 +1140,8 @@
       "type": "reward"
     },
     "nonce": 109315,
-    "hash": "0000675e42670e3aa7565201ad0ef117c5b941560c8845cecd4099db4ccbe435"
+    "hash": "0000675e42670e3aa7565201ad0ef117c5b941560c8845cecd4099db4ccbe435",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 87,
@@ -1067,7 +1154,8 @@
       "type": "reward"
     },
     "nonce": 51532,
-    "hash": "0000ad3e60a8587a4e3e9983c6a13a6a6bbce5a858382a148fb9c52b7600f074"
+    "hash": "0000ad3e60a8587a4e3e9983c6a13a6a6bbce5a858382a148fb9c52b7600f074",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 88,
@@ -1080,7 +1168,8 @@
       "type": "reward"
     },
     "nonce": 24785,
-    "hash": "00006c886e05e5f6820393094c8d5fced126c54ffef61b859e0d6dc1c7015b90"
+    "hash": "00006c886e05e5f6820393094c8d5fced126c54ffef61b859e0d6dc1c7015b90",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 89,
@@ -1093,7 +1182,8 @@
       "type": "reward"
     },
     "nonce": 36898,
-    "hash": "0000335b26d5832be0878cd9371d9bc71253a26a96204f96f6f9e7d1c687510f"
+    "hash": "0000335b26d5832be0878cd9371d9bc71253a26a96204f96f6f9e7d1c687510f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 90,
@@ -1106,7 +1196,8 @@
       "type": "reward"
     },
     "nonce": 15299,
-    "hash": "0000cfd8acf9a772235a5c38f7afcdeac04dbdf070a463bfe5d17e4091de7018"
+    "hash": "0000cfd8acf9a772235a5c38f7afcdeac04dbdf070a463bfe5d17e4091de7018",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 91,
@@ -1119,7 +1210,8 @@
       "type": "reward"
     },
     "nonce": 79670,
-    "hash": "00003bccfd6d5001281ab952e5131291ce6144b57a360f4ce2a66d6844571259"
+    "hash": "00003bccfd6d5001281ab952e5131291ce6144b57a360f4ce2a66d6844571259",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 92,
@@ -1132,7 +1224,8 @@
       "type": "reward"
     },
     "nonce": 7349,
-    "hash": "0000d6822f12fc0fa5dfec7112cc25aafeb967e3e612b936fb819d70cdac9964"
+    "hash": "0000d6822f12fc0fa5dfec7112cc25aafeb967e3e612b936fb819d70cdac9964",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 93,
@@ -1145,7 +1238,8 @@
       "type": "reward"
     },
     "nonce": 18003,
-    "hash": "0000166f5b9e2547d42d41bb2eabb62f69fbe31a60e2faa6d1f52f0110bbaf14"
+    "hash": "0000166f5b9e2547d42d41bb2eabb62f69fbe31a60e2faa6d1f52f0110bbaf14",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 94,
@@ -1158,7 +1252,8 @@
       "type": "reward"
     },
     "nonce": 80224,
-    "hash": "00007aa41907b108756b0fa9c257bf1d2a054c8dc0e8ff8e7e8bb45246462629"
+    "hash": "00007aa41907b108756b0fa9c257bf1d2a054c8dc0e8ff8e7e8bb45246462629",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 95,
@@ -1171,7 +1266,8 @@
       "type": "reward"
     },
     "nonce": 1927,
-    "hash": "0000cb406303aedcb443ba9710b4d45dc75277b87da503219fc21abd2999f868"
+    "hash": "0000cb406303aedcb443ba9710b4d45dc75277b87da503219fc21abd2999f868",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 96,
@@ -1183,7 +1279,8 @@
       "amount": 50
     },
     "nonce": 44102,
-    "hash": "00004ddd1245ac4d1a8810dfbb01a97be7b3546eb7c6dc1f95ba7b01128605ac"
+    "hash": "00004ddd1245ac4d1a8810dfbb01a97be7b3546eb7c6dc1f95ba7b01128605ac",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 97,
@@ -1195,7 +1292,8 @@
       "amount": 50
     },
     "nonce": 39510,
-    "hash": "0000b097b98ef804fef3a808f723f1b7bbd1aab8e69940ed0206e8a0d64ce2a6"
+    "hash": "0000b097b98ef804fef3a808f723f1b7bbd1aab8e69940ed0206e8a0d64ce2a6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 98,
@@ -1207,7 +1305,8 @@
       "amount": 50
     },
     "nonce": 139464,
-    "hash": "00005ecc75fe432196f24def98e3849ad1a449fc6a8a50d1990a21b6d6d62b90"
+    "hash": "00005ecc75fe432196f24def98e3849ad1a449fc6a8a50d1990a21b6d6d62b90",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 99,
@@ -1219,7 +1318,8 @@
       "amount": 50
     },
     "nonce": 5838,
-    "hash": "0000f046b5284a433ed22daf16b2604d1fc19a33c448eb327372fa8f6bcc3ce0"
+    "hash": "0000f046b5284a433ed22daf16b2604d1fc19a33c448eb327372fa8f6bcc3ce0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 100,
@@ -1231,7 +1331,8 @@
       "amount": 50
     },
     "nonce": 75043,
-    "hash": "00005baeebe41e063396b827f147e3a07a83e3c98353c7637b75a5011374afb2"
+    "hash": "00005baeebe41e063396b827f147e3a07a83e3c98353c7637b75a5011374afb2",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 101,
@@ -1243,7 +1344,8 @@
       "amount": 50
     },
     "nonce": 43981,
-    "hash": "000011226d3ca34247cbf8af3c7d6513c0454116374820fc8f467f2bfc46f074"
+    "hash": "000011226d3ca34247cbf8af3c7d6513c0454116374820fc8f467f2bfc46f074",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 102,
@@ -1255,7 +1357,8 @@
       "amount": 50
     },
     "nonce": 9237,
-    "hash": "0000d4fd570c7b6f520095a9b3f943670d6f521977b2f2d7744cafba2e29b37a"
+    "hash": "0000d4fd570c7b6f520095a9b3f943670d6f521977b2f2d7744cafba2e29b37a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 103,
@@ -1267,7 +1370,8 @@
       "amount": 50
     },
     "nonce": 68576,
-    "hash": "0000fc77e1a1e248534f9be9a6edaf6ae00d7596d60a0b40b654709df9554f6e"
+    "hash": "0000fc77e1a1e248534f9be9a6edaf6ae00d7596d60a0b40b654709df9554f6e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 104,
@@ -1279,7 +1383,8 @@
       "amount": 50
     },
     "nonce": 30169,
-    "hash": "00008240a2d85974f9afe034f5b5fc95cfbee8951856d729964b4061b628c34e"
+    "hash": "00008240a2d85974f9afe034f5b5fc95cfbee8951856d729964b4061b628c34e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 105,
@@ -1291,7 +1396,8 @@
       "amount": 50
     },
     "nonce": 40930,
-    "hash": "0000a07fa16480971628b2888982dbc619742feec8ffd44a6e8bb5443f8e7533"
+    "hash": "0000a07fa16480971628b2888982dbc619742feec8ffd44a6e8bb5443f8e7533",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 106,
@@ -1303,7 +1409,8 @@
       "amount": 50
     },
     "nonce": 12127,
-    "hash": "00007c3b95d0900e4d6f1a1b51ec6ad998dd55a57afb294d1dace8bc24e9f7f6"
+    "hash": "00007c3b95d0900e4d6f1a1b51ec6ad998dd55a57afb294d1dace8bc24e9f7f6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 107,
@@ -1315,7 +1422,8 @@
       "amount": 50
     },
     "nonce": 205203,
-    "hash": "00002def254f2ca3957f12c0ce74d441403b9ba16e0f9d47e156901994de3340"
+    "hash": "00002def254f2ca3957f12c0ce74d441403b9ba16e0f9d47e156901994de3340",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 108,
@@ -1327,7 +1435,8 @@
       "amount": 50
     },
     "nonce": 54858,
-    "hash": "00000919644d83e23c5a80a6b2bb0b9e396fbef74b837810a12487f272accb89"
+    "hash": "00000919644d83e23c5a80a6b2bb0b9e396fbef74b837810a12487f272accb89",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 109,
@@ -1339,7 +1448,8 @@
       "amount": 50
     },
     "nonce": 54038,
-    "hash": "0000e2fd2ba42882f142a9aa144e47c7bdd874ce70a8761e68f0e13fee5dc393"
+    "hash": "0000e2fd2ba42882f142a9aa144e47c7bdd874ce70a8761e68f0e13fee5dc393",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 110,
@@ -1351,7 +1461,8 @@
       "amount": 50
     },
     "nonce": 94246,
-    "hash": "000099d4261403da406d8deb9fd504a082df4772046fd1147c266496f02945e4"
+    "hash": "000099d4261403da406d8deb9fd504a082df4772046fd1147c266496f02945e4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 111,
@@ -1363,7 +1474,8 @@
       "amount": 50
     },
     "nonce": 25235,
-    "hash": "000036323594ba1fce3d7f67afdbbe97c2db677b0bd0fae7a548d63d72b67e5f"
+    "hash": "000036323594ba1fce3d7f67afdbbe97c2db677b0bd0fae7a548d63d72b67e5f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 112,
@@ -1375,7 +1487,8 @@
       "amount": 50
     },
     "nonce": 203343,
-    "hash": "0000ae6941322aa55ce7edb36eac4906a78fd011f5706b6b2fe19555c92c5296"
+    "hash": "0000ae6941322aa55ce7edb36eac4906a78fd011f5706b6b2fe19555c92c5296",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 113,
@@ -1387,7 +1500,8 @@
       "amount": 50
     },
     "nonce": 19549,
-    "hash": "000093377cd1da82a11b1a5b7ffbdbeb9046b7e202eed9b1fb849884af26a6fc"
+    "hash": "000093377cd1da82a11b1a5b7ffbdbeb9046b7e202eed9b1fb849884af26a6fc",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 114,
@@ -1399,7 +1513,8 @@
       "amount": 50
     },
     "nonce": 101339,
-    "hash": "000043d31993fbd1ccca85e93f08af5a57c17f6cbe6b1b361c50fc1ff7834949"
+    "hash": "000043d31993fbd1ccca85e93f08af5a57c17f6cbe6b1b361c50fc1ff7834949",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 115,
@@ -1411,7 +1526,8 @@
       "amount": 50
     },
     "nonce": 22190,
-    "hash": "00006617fa48eadd6a014a407a5ada890388dfc443b30d20e9e597bb1d4c38e8"
+    "hash": "00006617fa48eadd6a014a407a5ada890388dfc443b30d20e9e597bb1d4c38e8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 116,
@@ -1423,7 +1539,8 @@
       "amount": 50
     },
     "nonce": 36409,
-    "hash": "000082928955b61e1ae67ee0bcb7b57e443ef6cc8abbf337c94e6e1dbb2d7b0f"
+    "hash": "000082928955b61e1ae67ee0bcb7b57e443ef6cc8abbf337c94e6e1dbb2d7b0f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 117,
@@ -1435,7 +1552,8 @@
       "amount": 50
     },
     "nonce": 77074,
-    "hash": "0000fce0b7fcb39f38a4b29fe1c6674c5771c320d0dd6532d5601a27f69039c2"
+    "hash": "0000fce0b7fcb39f38a4b29fe1c6674c5771c320d0dd6532d5601a27f69039c2",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 118,
@@ -1447,7 +1565,8 @@
       "amount": 50
     },
     "nonce": 10375,
-    "hash": "000064ef384e9b1402c3b39dd28763a4fe0d29ee6466c586ced8192c78c06985"
+    "hash": "000064ef384e9b1402c3b39dd28763a4fe0d29ee6466c586ced8192c78c06985",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 119,
@@ -1459,7 +1578,8 @@
       "amount": 50
     },
     "nonce": 165473,
-    "hash": "0000256e50f3d9ab9c0ad2da143498057c929beefafe7071f8b9595fe9117d51"
+    "hash": "0000256e50f3d9ab9c0ad2da143498057c929beefafe7071f8b9595fe9117d51",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 120,
@@ -1471,7 +1591,8 @@
       "amount": 50
     },
     "nonce": 957,
-    "hash": "0000606f28768f375cd6b44a31a74c080e62b1ffd65979816ef37982cce98196"
+    "hash": "0000606f28768f375cd6b44a31a74c080e62b1ffd65979816ef37982cce98196",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 121,
@@ -1483,7 +1604,8 @@
       "amount": 50
     },
     "nonce": 124805,
-    "hash": "0000d0cbc8b4d5fa533391184fdd96b62eb6ced340e01b9ddf07790761913f7f"
+    "hash": "0000d0cbc8b4d5fa533391184fdd96b62eb6ced340e01b9ddf07790761913f7f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 122,
@@ -1495,7 +1617,8 @@
       "amount": 50
     },
     "nonce": 216509,
-    "hash": "00003e3552140bca63b4abeb9dc36e2ee6c2967dcb623b6b8d9878c063a3cf48"
+    "hash": "00003e3552140bca63b4abeb9dc36e2ee6c2967dcb623b6b8d9878c063a3cf48",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 123,
@@ -1507,7 +1630,8 @@
       "amount": 50
     },
     "nonce": 154047,
-    "hash": "0000381de8fbedb074453c238e84dad5734e393519f1419ba4f8e8fd893adfad"
+    "hash": "0000381de8fbedb074453c238e84dad5734e393519f1419ba4f8e8fd893adfad",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 124,
@@ -1519,7 +1643,8 @@
       "amount": 50
     },
     "nonce": 3095,
-    "hash": "0000f2d0d297b0bd42bef22e12c68ca985a8717d4bf562158b13b64ed2361895"
+    "hash": "0000f2d0d297b0bd42bef22e12c68ca985a8717d4bf562158b13b64ed2361895",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 125,
@@ -1531,7 +1656,8 @@
       "amount": 50
     },
     "nonce": 72623,
-    "hash": "00007d5eea21dd2a07340ed937bd47fe3fb5ba6fb477fd9c9da975fcc5e26e5f"
+    "hash": "00007d5eea21dd2a07340ed937bd47fe3fb5ba6fb477fd9c9da975fcc5e26e5f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 126,
@@ -1543,7 +1669,8 @@
       "amount": 50
     },
     "nonce": 62312,
-    "hash": "0000b9827f0ba740b54466e5e7f3a6902fae95cd81f42748b164bc47481e13a1"
+    "hash": "0000b9827f0ba740b54466e5e7f3a6902fae95cd81f42748b164bc47481e13a1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 127,
@@ -1555,7 +1682,8 @@
       "amount": 50
     },
     "nonce": 128516,
-    "hash": "0000b5a709cd2fddf41c2995727278389ba5c316b3109892fbbc07071f15bb4b"
+    "hash": "0000b5a709cd2fddf41c2995727278389ba5c316b3109892fbbc07071f15bb4b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 128,
@@ -1567,7 +1695,8 @@
       "amount": 50
     },
     "nonce": 15665,
-    "hash": "000001ebcf451497a14e028f4bf2f85b42e7fffe30cc4189a8e768a93732bea3"
+    "hash": "000001ebcf451497a14e028f4bf2f85b42e7fffe30cc4189a8e768a93732bea3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 129,
@@ -1579,7 +1708,8 @@
       "amount": 50
     },
     "nonce": 33873,
-    "hash": "000040f3ee7c19d89303f81a1e5d5e4e8d5ee2ff4cbce29fb535ea90fbe54201"
+    "hash": "000040f3ee7c19d89303f81a1e5d5e4e8d5ee2ff4cbce29fb535ea90fbe54201",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 130,
@@ -1591,7 +1721,8 @@
       "amount": 50
     },
     "nonce": 28057,
-    "hash": "00001070005242e269efa1af928f560d146cec5b7d2b382d656340f937293189"
+    "hash": "00001070005242e269efa1af928f560d146cec5b7d2b382d656340f937293189",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 131,
@@ -1603,7 +1734,8 @@
       "amount": 50
     },
     "nonce": 27239,
-    "hash": "0000f7d2dd65d3ff67c25cbb7a0e166b0142e73e65b5eed9c0b08e0bf178a74a"
+    "hash": "0000f7d2dd65d3ff67c25cbb7a0e166b0142e73e65b5eed9c0b08e0bf178a74a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 132,
@@ -1615,7 +1747,8 @@
       "amount": 50
     },
     "nonce": 6732,
-    "hash": "0000b0fae5685832832f09bca2ea1eefe82c5973d843068835840c2bd40ac30a"
+    "hash": "0000b0fae5685832832f09bca2ea1eefe82c5973d843068835840c2bd40ac30a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 133,
@@ -1627,7 +1760,8 @@
       "amount": 50
     },
     "nonce": 119416,
-    "hash": "000062006f19604a029d5be39dd17daa1497ff1288dd1695746e08d567ef6a90"
+    "hash": "000062006f19604a029d5be39dd17daa1497ff1288dd1695746e08d567ef6a90",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 134,
@@ -1639,7 +1773,8 @@
       "amount": 50
     },
     "nonce": 2951,
-    "hash": "00002423da54e746e50c4530d40fdc06b3a341167947a8bc4b0334901d2e4e54"
+    "hash": "00002423da54e746e50c4530d40fdc06b3a341167947a8bc4b0334901d2e4e54",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 135,
@@ -1651,7 +1786,8 @@
       "amount": 50
     },
     "nonce": 179329,
-    "hash": "00002a571b0b8b244680ad8cadef58673d6343fc746a485e81b7386d9734735e"
+    "hash": "00002a571b0b8b244680ad8cadef58673d6343fc746a485e81b7386d9734735e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 136,
@@ -1663,7 +1799,8 @@
       "amount": 50
     },
     "nonce": 161709,
-    "hash": "0000b0aed1bc231ff2427e1d756caa3b7b4282bf28ea317a39bfc0130e0c6cdc"
+    "hash": "0000b0aed1bc231ff2427e1d756caa3b7b4282bf28ea317a39bfc0130e0c6cdc",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 137,
@@ -1675,7 +1812,8 @@
       "amount": 50
     },
     "nonce": 134047,
-    "hash": "000052b4cd0ff2a74bf3573c20b756fc37618520d6517b5a54837332819bbe1a"
+    "hash": "000052b4cd0ff2a74bf3573c20b756fc37618520d6517b5a54837332819bbe1a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 138,
@@ -1687,7 +1825,8 @@
       "amount": 50
     },
     "nonce": 299230,
-    "hash": "0000204ad9b09bb39752b7ea250bfecf84d88617762a6c0ea3c5933edebfff1f"
+    "hash": "0000204ad9b09bb39752b7ea250bfecf84d88617762a6c0ea3c5933edebfff1f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 139,
@@ -1699,7 +1838,8 @@
       "amount": 50
     },
     "nonce": 294359,
-    "hash": "0000372016cc447816b295899759a2e272c38deabae59e6208dbe07270b25d24"
+    "hash": "0000372016cc447816b295899759a2e272c38deabae59e6208dbe07270b25d24",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 140,
@@ -1711,7 +1851,8 @@
       "amount": 50
     },
     "nonce": 13624,
-    "hash": "00005bcd9f3f9653dcbd27735eae8553822305c6aad3c1f271c3434356f9b9ac"
+    "hash": "00005bcd9f3f9653dcbd27735eae8553822305c6aad3c1f271c3434356f9b9ac",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 141,
@@ -1723,7 +1864,8 @@
       "amount": 50
     },
     "nonce": 121759,
-    "hash": "0000271871e41067e441725d4877b2c993b989e08ee54f3d2075e0320fd92450"
+    "hash": "0000271871e41067e441725d4877b2c993b989e08ee54f3d2075e0320fd92450",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 142,
@@ -1735,7 +1877,8 @@
       "amount": 50
     },
     "nonce": 65324,
-    "hash": "00009510d926613f0e3a98e65d81358ca1ff5fa75cdf9e8d0d3c5e5f5a567b3c"
+    "hash": "00009510d926613f0e3a98e65d81358ca1ff5fa75cdf9e8d0d3c5e5f5a567b3c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 143,
@@ -1747,7 +1890,8 @@
       "amount": 50
     },
     "nonce": 18399,
-    "hash": "0000edfefb34157f09e96c6da7ab25148aa8b805c2b78a4a83b84f19b8692511"
+    "hash": "0000edfefb34157f09e96c6da7ab25148aa8b805c2b78a4a83b84f19b8692511",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 144,
@@ -1759,7 +1903,8 @@
       "amount": 50
     },
     "nonce": 572,
-    "hash": "00009bd6d4c539ecb84d0332835efe6d49b867ab578a819829fcb3cc5d07221b"
+    "hash": "00009bd6d4c539ecb84d0332835efe6d49b867ab578a819829fcb3cc5d07221b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 145,
@@ -1771,7 +1916,8 @@
       "amount": 50
     },
     "nonce": 19239,
-    "hash": "0000f7f32c3e221134d68270044cc81ac1deb70d7b808711196dcbf04abe0534"
+    "hash": "0000f7f32c3e221134d68270044cc81ac1deb70d7b808711196dcbf04abe0534",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 146,
@@ -1783,7 +1929,8 @@
       "amount": 50
     },
     "nonce": 153642,
-    "hash": "00006c4860c441abbb26cf48811ee6d9b779370bf403481cc344d7369cc4f777"
+    "hash": "00006c4860c441abbb26cf48811ee6d9b779370bf403481cc344d7369cc4f777",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 147,
@@ -1795,7 +1942,8 @@
       "amount": 50
     },
     "nonce": 2371,
-    "hash": "000097c4a244e1bbccadd7543583b91f750491d52d1304342348730572cad690"
+    "hash": "000097c4a244e1bbccadd7543583b91f750491d52d1304342348730572cad690",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 148,
@@ -1807,7 +1955,8 @@
       "amount": 50
     },
     "nonce": 28938,
-    "hash": "00003298c05e1c0c1c2930c115badf4da5ea55d993291d3b779bc4d2014af05b"
+    "hash": "00003298c05e1c0c1c2930c115badf4da5ea55d993291d3b779bc4d2014af05b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 149,
@@ -1819,7 +1968,8 @@
       "amount": 50
     },
     "nonce": 248826,
-    "hash": "00007e0e2099ea8328a8ddbac9efc4787e3c7d59745587952a1edef747b40ccf"
+    "hash": "00007e0e2099ea8328a8ddbac9efc4787e3c7d59745587952a1edef747b40ccf",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 150,
@@ -1831,7 +1981,8 @@
       "amount": 50
     },
     "nonce": 55797,
-    "hash": "0000257f8159f9dadb2eca77974a3b66519807d4ab02799ca2d83778535db331"
+    "hash": "0000257f8159f9dadb2eca77974a3b66519807d4ab02799ca2d83778535db331",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 151,
@@ -1843,7 +1994,8 @@
       "amount": 50
     },
     "nonce": 54108,
-    "hash": "0000c1eda32dd6b4325d47021062542a58b914ae420dfd01e9a9cf9c46e41e9e"
+    "hash": "0000c1eda32dd6b4325d47021062542a58b914ae420dfd01e9a9cf9c46e41e9e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 152,
@@ -1855,7 +2007,8 @@
       "amount": 50
     },
     "nonce": 22026,
-    "hash": "000000e4db2e610011eef0d3a836e5a81dc6567413f9cc6e084de17b90c04169"
+    "hash": "000000e4db2e610011eef0d3a836e5a81dc6567413f9cc6e084de17b90c04169",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 153,
@@ -1867,7 +2020,8 @@
       "amount": 50
     },
     "nonce": 18298,
-    "hash": "0000469f741fed0c77dc9a7da75cf0dc147746a5630ac3fd39c8c7d8e00e70c4"
+    "hash": "0000469f741fed0c77dc9a7da75cf0dc147746a5630ac3fd39c8c7d8e00e70c4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 154,
@@ -1879,7 +2033,8 @@
       "amount": 50
     },
     "nonce": 246532,
-    "hash": "00004d59824ff58d0d536b5bcd6ae7f81bee5be061ad24f1f97fe92e600e776d"
+    "hash": "00004d59824ff58d0d536b5bcd6ae7f81bee5be061ad24f1f97fe92e600e776d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 155,
@@ -1891,7 +2046,8 @@
       "amount": 50
     },
     "nonce": 174128,
-    "hash": "000004ef900e650893801c135aabac023fb06c260c3bf1032a537abe6fc1291b"
+    "hash": "000004ef900e650893801c135aabac023fb06c260c3bf1032a537abe6fc1291b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 156,
@@ -1903,7 +2059,8 @@
       "amount": 50
     },
     "nonce": 10644,
-    "hash": "00001d125ef58c4302e88918798d6f73ccb1f999923d94f7358626c15815afe7"
+    "hash": "00001d125ef58c4302e88918798d6f73ccb1f999923d94f7358626c15815afe7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 157,
@@ -1915,7 +2072,8 @@
       "amount": 50
     },
     "nonce": 226797,
-    "hash": "00001ca6c08f5f37e5044295a3509379d445c0a88be444e645297ae62e4bb1d5"
+    "hash": "00001ca6c08f5f37e5044295a3509379d445c0a88be444e645297ae62e4bb1d5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 158,
@@ -1927,7 +2085,8 @@
       "amount": 50
     },
     "nonce": 4713,
-    "hash": "0000328ed1fbda528d5c79f5ab7e2a5a9105364015f955a131183df4f158c07e"
+    "hash": "0000328ed1fbda528d5c79f5ab7e2a5a9105364015f955a131183df4f158c07e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 159,
@@ -1939,7 +2098,8 @@
       "amount": 50
     },
     "nonce": 13226,
-    "hash": "000001b8278354404dc9c3c51fb5856cd232329b84cef7dda5d6458a36750824"
+    "hash": "000001b8278354404dc9c3c51fb5856cd232329b84cef7dda5d6458a36750824",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 160,
@@ -1951,7 +2111,8 @@
       "amount": 50
     },
     "nonce": 4150,
-    "hash": "00004bd2aaaea6c148ba326f44f2096dcfd0f475209a79f68054edccb6cc9e4c"
+    "hash": "00004bd2aaaea6c148ba326f44f2096dcfd0f475209a79f68054edccb6cc9e4c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 161,
@@ -1963,7 +2124,8 @@
       "amount": 50
     },
     "nonce": 58824,
-    "hash": "000046ecb260251d7a93501eefd3b5b914f3a652e8b8852f8fbf5230e1a56ce7"
+    "hash": "000046ecb260251d7a93501eefd3b5b914f3a652e8b8852f8fbf5230e1a56ce7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 162,
@@ -1975,7 +2137,8 @@
       "amount": 50
     },
     "nonce": 1713,
-    "hash": "0000380153696ddb5adbb171a4e5ed1acf4683e939ec3b36dccb5fb788822427"
+    "hash": "0000380153696ddb5adbb171a4e5ed1acf4683e939ec3b36dccb5fb788822427",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 163,
@@ -1987,7 +2150,8 @@
       "amount": 50
     },
     "nonce": 950,
-    "hash": "0000b2e907a8d3e0029b35705e66090edec652cd36aede71995049905d25cb8a"
+    "hash": "0000b2e907a8d3e0029b35705e66090edec652cd36aede71995049905d25cb8a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 164,
@@ -1999,7 +2163,8 @@
       "amount": 50
     },
     "nonce": 183270,
-    "hash": "000029354c7554f3ac92b7707789f60c5155075441baebf3d2ba3330d1985c19"
+    "hash": "000029354c7554f3ac92b7707789f60c5155075441baebf3d2ba3330d1985c19",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 165,
@@ -2011,7 +2176,8 @@
       "amount": 50
     },
     "nonce": 124690,
-    "hash": "0000ee87e22d30a3c4e771970feabfebda91fe4a2ca7c35fac8742cbd5f85397"
+    "hash": "0000ee87e22d30a3c4e771970feabfebda91fe4a2ca7c35fac8742cbd5f85397",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 166,
@@ -2023,7 +2189,8 @@
       "amount": 50
     },
     "nonce": 44780,
-    "hash": "00008a025166db398dca4c8615e8f6ccf8e153780f9c41d3118a8585fc588fc0"
+    "hash": "00008a025166db398dca4c8615e8f6ccf8e153780f9c41d3118a8585fc588fc0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 167,
@@ -2035,7 +2202,8 @@
       "amount": 50
     },
     "nonce": 88948,
-    "hash": "00007c53dfeaab3acce64ecdf1ddf80424b2855e90a3f0e7d3ce660df9de0d75"
+    "hash": "00007c53dfeaab3acce64ecdf1ddf80424b2855e90a3f0e7d3ce660df9de0d75",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 168,
@@ -2047,7 +2215,8 @@
       "amount": 50
     },
     "nonce": 57844,
-    "hash": "0000f43dc1b09e8e1d7eb5b7bf9f8398564ed8b19d35c26c8eea08ba8ea92763"
+    "hash": "0000f43dc1b09e8e1d7eb5b7bf9f8398564ed8b19d35c26c8eea08ba8ea92763",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 169,
@@ -2059,7 +2228,8 @@
       "amount": 50
     },
     "nonce": 18229,
-    "hash": "0000b71d880b0e55bc8b97f95412b573ed5d2ca9cba8275351a8d52de5a29908"
+    "hash": "0000b71d880b0e55bc8b97f95412b573ed5d2ca9cba8275351a8d52de5a29908",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 170,
@@ -2071,7 +2241,8 @@
       "amount": 50
     },
     "nonce": 8465,
-    "hash": "0000eb3329978ac8e6a2492ec0e27f793003ea67c347a88a276cf15dc4a547b4"
+    "hash": "0000eb3329978ac8e6a2492ec0e27f793003ea67c347a88a276cf15dc4a547b4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 171,
@@ -2083,7 +2254,8 @@
       "amount": 50
     },
     "nonce": 56156,
-    "hash": "0000c578a18712464d52ce89abb80caffc55bcdc68e372e5dbda387dbac9281b"
+    "hash": "0000c578a18712464d52ce89abb80caffc55bcdc68e372e5dbda387dbac9281b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 172,
@@ -2095,7 +2267,8 @@
       "amount": 50
     },
     "nonce": 46033,
-    "hash": "000071bf2599a59c04620a9280bc9597d0cf9390ee35aecaa63b36b8bc347117"
+    "hash": "000071bf2599a59c04620a9280bc9597d0cf9390ee35aecaa63b36b8bc347117",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 173,
@@ -2107,7 +2280,8 @@
       "amount": 50
     },
     "nonce": 30634,
-    "hash": "00005bcb39f959f18276346b0d08b3b3d29efacfd1733c7dc0a1a0153c3522da"
+    "hash": "00005bcb39f959f18276346b0d08b3b3d29efacfd1733c7dc0a1a0153c3522da",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 174,
@@ -2119,7 +2293,8 @@
       "amount": 50
     },
     "nonce": 21419,
-    "hash": "00000f49b525ee8c546fff671143310fd908b6cdbccd224f49b3d5b5cff59b54"
+    "hash": "00000f49b525ee8c546fff671143310fd908b6cdbccd224f49b3d5b5cff59b54",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 175,
@@ -2131,7 +2306,8 @@
       "amount": 50
     },
     "nonce": 39730,
-    "hash": "0000d71146561dc5fbe08a9983a29ba1b1fc6b133b94449444b3b16377107865"
+    "hash": "0000d71146561dc5fbe08a9983a29ba1b1fc6b133b94449444b3b16377107865",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 176,
@@ -2143,7 +2319,8 @@
       "amount": 50
     },
     "nonce": 36406,
-    "hash": "0000e4a868831d8e23063e861987a01bd0c75f85f1410fcc78aba27d0c2c7175"
+    "hash": "0000e4a868831d8e23063e861987a01bd0c75f85f1410fcc78aba27d0c2c7175",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 177,
@@ -2155,7 +2332,8 @@
       "amount": 50
     },
     "nonce": 131897,
-    "hash": "0000add93f427844022c595d2343edce61c850d1993e42541307758da066b749"
+    "hash": "0000add93f427844022c595d2343edce61c850d1993e42541307758da066b749",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 178,
@@ -2167,7 +2345,8 @@
       "amount": 50
     },
     "nonce": 16153,
-    "hash": "0000ce042c96022a455349df983e8544cedfbcb7fdf12fd8baa76ba1e261eb85"
+    "hash": "0000ce042c96022a455349df983e8544cedfbcb7fdf12fd8baa76ba1e261eb85",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 179,
@@ -2179,7 +2358,8 @@
       "amount": 50
     },
     "nonce": 109130,
-    "hash": "0000025fde2bf5fdf328430489bc59acce506aeb739203d7e220ee30ff69cbc7"
+    "hash": "0000025fde2bf5fdf328430489bc59acce506aeb739203d7e220ee30ff69cbc7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 180,
@@ -2191,7 +2371,8 @@
       "amount": 50
     },
     "nonce": 125056,
-    "hash": "0000f0151e690acebadb2249cc3be716809aab9ef796b74915b5ec9417ecc733"
+    "hash": "0000f0151e690acebadb2249cc3be716809aab9ef796b74915b5ec9417ecc733",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 181,
@@ -2203,7 +2384,8 @@
       "amount": 50
     },
     "nonce": 84692,
-    "hash": "0000bb2f088eef630ba8df3732a63467b4d3f88be78d530952a19af30f299290"
+    "hash": "0000bb2f088eef630ba8df3732a63467b4d3f88be78d530952a19af30f299290",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 182,
@@ -2215,7 +2397,8 @@
       "amount": 50
     },
     "nonce": 71429,
-    "hash": "00001039e60538d8b3786c2c96269643875f2aa89443ec1c9eb321ac52069097"
+    "hash": "00001039e60538d8b3786c2c96269643875f2aa89443ec1c9eb321ac52069097",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 183,
@@ -2227,7 +2410,8 @@
       "amount": 50
     },
     "nonce": 15950,
-    "hash": "0000a3e21a9afd04432114b41766f535ff31162a211c809e6024f544a34ee772"
+    "hash": "0000a3e21a9afd04432114b41766f535ff31162a211c809e6024f544a34ee772",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 184,
@@ -2239,7 +2423,8 @@
       "amount": 50
     },
     "nonce": 72311,
-    "hash": "00004c60d74f221ae53da957d7b6d1b723692c0df22328bf2e7ed8d1fba7c288"
+    "hash": "00004c60d74f221ae53da957d7b6d1b723692c0df22328bf2e7ed8d1fba7c288",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 185,
@@ -2251,7 +2436,8 @@
       "amount": 50
     },
     "nonce": 16191,
-    "hash": "000046d78325226d577ca4fc038d26bb08caeced0140d1ba5fb02cfb6b442979"
+    "hash": "000046d78325226d577ca4fc038d26bb08caeced0140d1ba5fb02cfb6b442979",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 186,
@@ -2263,7 +2449,8 @@
       "amount": 50
     },
     "nonce": 4406,
-    "hash": "0000615f89b470bebfd1d38a8fe41a137bc812dd007ebd7a3e23759a4db0c8df"
+    "hash": "0000615f89b470bebfd1d38a8fe41a137bc812dd007ebd7a3e23759a4db0c8df",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 187,
@@ -2275,7 +2462,8 @@
       "amount": 50
     },
     "nonce": 1544,
-    "hash": "00002fb0ab8b1d8805a7992902f11263ae1d17771369679aa9641d9f39283316"
+    "hash": "00002fb0ab8b1d8805a7992902f11263ae1d17771369679aa9641d9f39283316",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 188,
@@ -2287,7 +2475,8 @@
       "amount": 50
     },
     "nonce": 115766,
-    "hash": "00001f4979c3942e514dfe346479b41847ff7f992ccc562ba450fc97f59127bb"
+    "hash": "00001f4979c3942e514dfe346479b41847ff7f992ccc562ba450fc97f59127bb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 189,
@@ -2299,7 +2488,8 @@
       "amount": 50
     },
     "nonce": 223005,
-    "hash": "0000568eb902c2c820b1d23b63eaadb4438d8e478aad688e5416f2bdc7fe2aa7"
+    "hash": "0000568eb902c2c820b1d23b63eaadb4438d8e478aad688e5416f2bdc7fe2aa7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 190,
@@ -2311,7 +2501,8 @@
       "amount": 50
     },
     "nonce": 164876,
-    "hash": "0000b0e5292038d8d8520bafbf3641ddcb829b5cc8abc2300b6af1f9583580eb"
+    "hash": "0000b0e5292038d8d8520bafbf3641ddcb829b5cc8abc2300b6af1f9583580eb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 191,
@@ -2323,7 +2514,8 @@
       "amount": 50
     },
     "nonce": 340916,
-    "hash": "0000e9bf0236a53417a03880c4c2692af9ba2cdf89378cb5b8a192b98c6e72cb"
+    "hash": "0000e9bf0236a53417a03880c4c2692af9ba2cdf89378cb5b8a192b98c6e72cb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 192,
@@ -2335,7 +2527,8 @@
       "amount": 50
     },
     "nonce": 103717,
-    "hash": "00008a6b3fb0b844c509ede4c2c4daaaa472de0f37ec8af5aeeb126f511fadd1"
+    "hash": "00008a6b3fb0b844c509ede4c2c4daaaa472de0f37ec8af5aeeb126f511fadd1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 193,
@@ -2347,7 +2540,8 @@
       "amount": 50
     },
     "nonce": 10551,
-    "hash": "0000eb568e2c09da12b0779aa07f4ee0d180c15d6983f27548bcff825ca3e882"
+    "hash": "0000eb568e2c09da12b0779aa07f4ee0d180c15d6983f27548bcff825ca3e882",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 194,
@@ -2359,7 +2553,8 @@
       "amount": 50
     },
     "nonce": 19177,
-    "hash": "000004eda8dbd93a95af510bc239ef0caad71664258edd1e8cf097452142d658"
+    "hash": "000004eda8dbd93a95af510bc239ef0caad71664258edd1e8cf097452142d658",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 195,
@@ -2371,7 +2566,8 @@
       "amount": 50
     },
     "nonce": 15914,
-    "hash": "00008af8721e1bbd0f9d39415ab9ba76838847cc77de6edc7af4cbc59f07423c"
+    "hash": "00008af8721e1bbd0f9d39415ab9ba76838847cc77de6edc7af4cbc59f07423c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 196,
@@ -2383,7 +2579,8 @@
       "amount": 50
     },
     "nonce": 128934,
-    "hash": "000000076869430bd9673901ad773b2ad9c4e9a8f0db75546cb198a4c02bd39d"
+    "hash": "000000076869430bd9673901ad773b2ad9c4e9a8f0db75546cb198a4c02bd39d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 197,
@@ -2395,7 +2592,8 @@
       "amount": 50
     },
     "nonce": 41992,
-    "hash": "00001a6f132ab3d7bf0721cecd062a8f368875d505edd20b07aee3f24dfe0181"
+    "hash": "00001a6f132ab3d7bf0721cecd062a8f368875d505edd20b07aee3f24dfe0181",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 198,
@@ -2407,7 +2605,8 @@
       "amount": 50
     },
     "nonce": 2942,
-    "hash": "0000fe9f4e783e7d069bf43c6ff63f80fd83def314fd6ab86b24ae0e850cd7b5"
+    "hash": "0000fe9f4e783e7d069bf43c6ff63f80fd83def314fd6ab86b24ae0e850cd7b5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 199,
@@ -2419,7 +2618,8 @@
       "amount": 50
     },
     "nonce": 38767,
-    "hash": "00001bd315b7e772ccdbb51c65a7b39a271eb0ab054dae9b6c7f42fcea01b5b1"
+    "hash": "00001bd315b7e772ccdbb51c65a7b39a271eb0ab054dae9b6c7f42fcea01b5b1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 200,
@@ -2431,7 +2631,8 @@
       "amount": 50
     },
     "nonce": 46095,
-    "hash": "00004f3f610d6c71f3f5bd37c1c02eb7c8dec13829bf6e5732c912ad7393265a"
+    "hash": "00004f3f610d6c71f3f5bd37c1c02eb7c8dec13829bf6e5732c912ad7393265a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 201,
@@ -2443,7 +2644,8 @@
       "amount": 50
     },
     "nonce": 71334,
-    "hash": "000081cd56477c2f2091457dfa52736fd323236236d2ee6dcdc723b4c84ec2d1"
+    "hash": "000081cd56477c2f2091457dfa52736fd323236236d2ee6dcdc723b4c84ec2d1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 202,
@@ -2455,7 +2657,8 @@
       "amount": 50
     },
     "nonce": 51100,
-    "hash": "00008229c198212556df29db53d7c7ffc7fcae300c06a14c3ef08e1818b1032f"
+    "hash": "00008229c198212556df29db53d7c7ffc7fcae300c06a14c3ef08e1818b1032f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 203,
@@ -2467,7 +2670,8 @@
       "amount": 50
     },
     "nonce": 111079,
-    "hash": "0000661a133bad34f2cbb05b6f9423bc506cd7980b4e04f22140b01c7ad87bab"
+    "hash": "0000661a133bad34f2cbb05b6f9423bc506cd7980b4e04f22140b01c7ad87bab",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 204,
@@ -2479,7 +2683,8 @@
       "amount": 50
     },
     "nonce": 358181,
-    "hash": "00005291bfa17ee9e4e3e04571ea7824d32d45f95d19ff7f48e99908393d884e"
+    "hash": "00005291bfa17ee9e4e3e04571ea7824d32d45f95d19ff7f48e99908393d884e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 205,
@@ -2491,7 +2696,8 @@
       "amount": 50
     },
     "nonce": 79936,
-    "hash": "000043d81eafc2f90fd4a0ff3ab55de27c719e0f7f04e27ea4eb569f2f78c413"
+    "hash": "000043d81eafc2f90fd4a0ff3ab55de27c719e0f7f04e27ea4eb569f2f78c413",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 206,
@@ -2503,7 +2709,8 @@
       "amount": 50
     },
     "nonce": 10002,
-    "hash": "0000ec87e5718e995be2074d7d6b564eda863b15f6d2ab9f941eb2eee7af4c42"
+    "hash": "0000ec87e5718e995be2074d7d6b564eda863b15f6d2ab9f941eb2eee7af4c42",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 207,
@@ -2515,7 +2722,8 @@
       "amount": 50
     },
     "nonce": 8239,
-    "hash": "00004d469eb7842f4dabae65c7b0eadd71a08d5d5327206bbee853fbcd794225"
+    "hash": "00004d469eb7842f4dabae65c7b0eadd71a08d5d5327206bbee853fbcd794225",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 208,
@@ -2527,7 +2735,8 @@
       "amount": 50
     },
     "nonce": 226409,
-    "hash": "000098112e2d93768d0793c3df172ec9d59d1668585b941d22bc62e47a76aea1"
+    "hash": "000098112e2d93768d0793c3df172ec9d59d1668585b941d22bc62e47a76aea1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 209,
@@ -2539,7 +2748,8 @@
       "amount": 50
     },
     "nonce": 86117,
-    "hash": "0000b549117a3c6637cababd8cdec196b3f02fb6598a7867270806e05b9dbba2"
+    "hash": "0000b549117a3c6637cababd8cdec196b3f02fb6598a7867270806e05b9dbba2",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 210,
@@ -2551,7 +2761,8 @@
       "amount": 50
     },
     "nonce": 44115,
-    "hash": "00009cb04e78dd7a034b3c4e9e300c45647d26c119a68273247e52befd1116f2"
+    "hash": "00009cb04e78dd7a034b3c4e9e300c45647d26c119a68273247e52befd1116f2",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 211,
@@ -2563,7 +2774,8 @@
       "amount": 50
     },
     "nonce": 47014,
-    "hash": "00009963cad7a0c461756525d1c6d0879e770234e341cdac02c12b90e8b131d4"
+    "hash": "00009963cad7a0c461756525d1c6d0879e770234e341cdac02c12b90e8b131d4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 212,
@@ -2575,7 +2787,8 @@
       "amount": 50
     },
     "nonce": 8327,
-    "hash": "000033930cb5d98438dbc659dd78f74fbb68da6cb06cbf11b99267993f0cee54"
+    "hash": "000033930cb5d98438dbc659dd78f74fbb68da6cb06cbf11b99267993f0cee54",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 213,
@@ -2587,7 +2800,8 @@
       "amount": 50
     },
     "nonce": 146735,
-    "hash": "0000095b845541f313eb4bf4882e31fc60a8d3434cef20a9d486fa769d31eb04"
+    "hash": "0000095b845541f313eb4bf4882e31fc60a8d3434cef20a9d486fa769d31eb04",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 214,
@@ -2599,7 +2813,8 @@
       "amount": 50
     },
     "nonce": 97249,
-    "hash": "00008a2fd04082883cd08220af6fccd3c56b19247ac9bcd5b94b0808d5dbc99f"
+    "hash": "00008a2fd04082883cd08220af6fccd3c56b19247ac9bcd5b94b0808d5dbc99f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 215,
@@ -2611,7 +2826,8 @@
       "amount": 50
     },
     "nonce": 91919,
-    "hash": "00003dc1cb3de7fd6f5edfa36d781099fc227e70ac68d99c49d8439599dd5aa8"
+    "hash": "00003dc1cb3de7fd6f5edfa36d781099fc227e70ac68d99c49d8439599dd5aa8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 216,
@@ -2623,7 +2839,8 @@
       "amount": 50
     },
     "nonce": 113866,
-    "hash": "0000fa242fee4886de87e44f635a55690f4fbf5af8d1af6cb40c96d217efe89d"
+    "hash": "0000fa242fee4886de87e44f635a55690f4fbf5af8d1af6cb40c96d217efe89d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 217,
@@ -2635,7 +2852,8 @@
       "amount": 50
     },
     "nonce": 71647,
-    "hash": "00002150d56d23bb062b377c2fe9d3d70ef8c60c3299777b35e60a2049e7b9d0"
+    "hash": "00002150d56d23bb062b377c2fe9d3d70ef8c60c3299777b35e60a2049e7b9d0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 218,
@@ -2647,7 +2865,8 @@
       "amount": 50
     },
     "nonce": 83794,
-    "hash": "000046494c44521f9869f15cc9285e48082be37fdb7316a467b037a69125a4d6"
+    "hash": "000046494c44521f9869f15cc9285e48082be37fdb7316a467b037a69125a4d6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 219,
@@ -2659,7 +2878,8 @@
       "amount": 50
     },
     "nonce": 58155,
-    "hash": "0000ee1189002027855cae2e6a116a0241b46118a9f590980f536708e4445798"
+    "hash": "0000ee1189002027855cae2e6a116a0241b46118a9f590980f536708e4445798",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 220,
@@ -2671,7 +2891,8 @@
       "amount": 50
     },
     "nonce": 176352,
-    "hash": "00008cf5847be96f6e9d0eec57d4c33a09932bbd7b603db61a7e54fb17ab771e"
+    "hash": "00008cf5847be96f6e9d0eec57d4c33a09932bbd7b603db61a7e54fb17ab771e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 221,
@@ -2683,7 +2904,8 @@
       "amount": 50
     },
     "nonce": 138031,
-    "hash": "0000129d79b68602b441122dfae1395f018b93051c48b342f641614dba287ffd"
+    "hash": "0000129d79b68602b441122dfae1395f018b93051c48b342f641614dba287ffd",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 222,
@@ -2695,7 +2917,8 @@
       "amount": 50
     },
     "nonce": 177741,
-    "hash": "0000734b854839b4eef26193c2594e6a872de89c97b0bfbeb26ba527e49033a3"
+    "hash": "0000734b854839b4eef26193c2594e6a872de89c97b0bfbeb26ba527e49033a3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 223,
@@ -2707,7 +2930,8 @@
       "amount": 50
     },
     "nonce": 40524,
-    "hash": "000059f4e2c505b1e7d4d3bdf9f0e9f629d7a7d6c61cd19644a5659c064bea22"
+    "hash": "000059f4e2c505b1e7d4d3bdf9f0e9f629d7a7d6c61cd19644a5659c064bea22",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 224,
@@ -2719,7 +2943,8 @@
       "amount": 50
     },
     "nonce": 116921,
-    "hash": "0000fff5f9a1d4110b7cc21753ec786a8f835f7bdd622c55c896fc42c98ba00e"
+    "hash": "0000fff5f9a1d4110b7cc21753ec786a8f835f7bdd622c55c896fc42c98ba00e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 225,
@@ -2731,7 +2956,8 @@
       "amount": 50
     },
     "nonce": 78537,
-    "hash": "0000b07296a068d05c607e2de1960bab8f0ca4ef482ce965a36c4d51c87e319f"
+    "hash": "0000b07296a068d05c607e2de1960bab8f0ca4ef482ce965a36c4d51c87e319f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 226,
@@ -2743,7 +2969,8 @@
       "amount": 50
     },
     "nonce": 64330,
-    "hash": "00005502d7a1f81bf9f1b889b48e6f66bbb224fc873f66c1edc0b7ea09f27c28"
+    "hash": "00005502d7a1f81bf9f1b889b48e6f66bbb224fc873f66c1edc0b7ea09f27c28",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 227,
@@ -2755,7 +2982,8 @@
       "amount": 50
     },
     "nonce": 42811,
-    "hash": "0000585b0cf2d001b82c65b9cd5421a4ce9b96404792e54992087f946d21353d"
+    "hash": "0000585b0cf2d001b82c65b9cd5421a4ce9b96404792e54992087f946d21353d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 228,
@@ -2767,7 +2995,8 @@
       "amount": 50
     },
     "nonce": 27549,
-    "hash": "00003bd97189af286e528b125d65b157100cb44bc97b8c88e6650b04d7ac5f6b"
+    "hash": "00003bd97189af286e528b125d65b157100cb44bc97b8c88e6650b04d7ac5f6b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 229,
@@ -2779,7 +3008,8 @@
       "amount": 50
     },
     "nonce": 155179,
-    "hash": "00001942a893ef728fb0614e9e7a41081f18fda8130c8920d811e1cb333e2587"
+    "hash": "00001942a893ef728fb0614e9e7a41081f18fda8130c8920d811e1cb333e2587",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 230,
@@ -2791,7 +3021,8 @@
       "amount": 50
     },
     "nonce": 2952,
-    "hash": "000051f9c2f555881c75f179f329e39baff1baccc5ef236aa72c3135ea116066"
+    "hash": "000051f9c2f555881c75f179f329e39baff1baccc5ef236aa72c3135ea116066",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 231,
@@ -2803,7 +3034,8 @@
       "amount": 50
     },
     "nonce": 53017,
-    "hash": "000083aeec4a17be9e43e6bad1125d4a65802b32f1371eaa99c215b2b9d09261"
+    "hash": "000083aeec4a17be9e43e6bad1125d4a65802b32f1371eaa99c215b2b9d09261",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 232,
@@ -2815,7 +3047,8 @@
       "amount": 50
     },
     "nonce": 140033,
-    "hash": "00009e103c24a022b32b36f2c8dc61f5687983253f3135e9a6ea8ce1ca777b3e"
+    "hash": "00009e103c24a022b32b36f2c8dc61f5687983253f3135e9a6ea8ce1ca777b3e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 233,
@@ -2827,7 +3060,8 @@
       "amount": 50
     },
     "nonce": 55525,
-    "hash": "0000647f1145fc32b2a9fe8c21ab7ac2903d2988bc1e7b003209bf8b139d8fba"
+    "hash": "0000647f1145fc32b2a9fe8c21ab7ac2903d2988bc1e7b003209bf8b139d8fba",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 234,
@@ -2839,7 +3073,8 @@
       "amount": 50
     },
     "nonce": 89371,
-    "hash": "000071e23ce2b433da3a7f1842f6c4b3a44754a3713b8f3c9d8df630a292f60f"
+    "hash": "000071e23ce2b433da3a7f1842f6c4b3a44754a3713b8f3c9d8df630a292f60f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 235,
@@ -2851,7 +3086,8 @@
       "amount": 50
     },
     "nonce": 30890,
-    "hash": "00000a53245664595926ce5d37cfb055881d389353941e79b53cf02c79f9eec2"
+    "hash": "00000a53245664595926ce5d37cfb055881d389353941e79b53cf02c79f9eec2",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 236,
@@ -2863,7 +3099,8 @@
       "amount": 50
     },
     "nonce": 1502,
-    "hash": "0000acc916f44099875b157f04166940d27987c3e784625481f8a44585f33fb8"
+    "hash": "0000acc916f44099875b157f04166940d27987c3e784625481f8a44585f33fb8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 237,
@@ -2875,7 +3112,8 @@
       "amount": 50
     },
     "nonce": 4666,
-    "hash": "0000c6e620b4b3fbcbaaa826ea5d7d97dc553b265c334d7010e53f0ef5c55346"
+    "hash": "0000c6e620b4b3fbcbaaa826ea5d7d97dc553b265c334d7010e53f0ef5c55346",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 238,
@@ -2887,7 +3125,8 @@
       "amount": 50
     },
     "nonce": 133235,
-    "hash": "00006eba2b7b069f9966d65922086f9c44886c2092e70d0e8a58751509dafda0"
+    "hash": "00006eba2b7b069f9966d65922086f9c44886c2092e70d0e8a58751509dafda0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 239,
@@ -2899,7 +3138,8 @@
       "amount": 50
     },
     "nonce": 23190,
-    "hash": "000092cd07cab905786cacc5d07f5960d9b532cc6b48b6803a827bf89c128021"
+    "hash": "000092cd07cab905786cacc5d07f5960d9b532cc6b48b6803a827bf89c128021",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 240,
@@ -2911,7 +3151,8 @@
       "amount": 50
     },
     "nonce": 81138,
-    "hash": "000072dac96b7a338a4578be8c25a05fa7045ddf190ba2deab06b7be2acbe349"
+    "hash": "000072dac96b7a338a4578be8c25a05fa7045ddf190ba2deab06b7be2acbe349",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 241,
@@ -2923,7 +3164,8 @@
       "amount": 50
     },
     "nonce": 42035,
-    "hash": "0000a748efce493d95b5d5ade5b2bfd2ba87f2a1f36b7dce94e0868609c75684"
+    "hash": "0000a748efce493d95b5d5ade5b2bfd2ba87f2a1f36b7dce94e0868609c75684",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 242,
@@ -2935,7 +3177,8 @@
       "amount": 50
     },
     "nonce": 18541,
-    "hash": "0000391da50e5dc0f9ed5bda0e0b443ac0dc69c560a2dffa1f6f097580a96733"
+    "hash": "0000391da50e5dc0f9ed5bda0e0b443ac0dc69c560a2dffa1f6f097580a96733",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 243,
@@ -2947,7 +3190,8 @@
       "amount": 50
     },
     "nonce": 40995,
-    "hash": "000062d1904b7d45b5ef4737a1669a456f084cb29ddf71ae3f21d12231a716fb"
+    "hash": "000062d1904b7d45b5ef4737a1669a456f084cb29ddf71ae3f21d12231a716fb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 244,
@@ -2959,7 +3203,8 @@
       "amount": 50
     },
     "nonce": 180729,
-    "hash": "00006bd47c2750a1c707914d3039e6f5a09316d46b5d559b483fcc9b9acfaa53"
+    "hash": "00006bd47c2750a1c707914d3039e6f5a09316d46b5d559b483fcc9b9acfaa53",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 245,
@@ -2971,7 +3216,8 @@
       "amount": 50
     },
     "nonce": 41420,
-    "hash": "000018f6f2a400f1500d9d4189ee2b3a0d4b270b6bdb7b681fb0bf184d3c2fe7"
+    "hash": "000018f6f2a400f1500d9d4189ee2b3a0d4b270b6bdb7b681fb0bf184d3c2fe7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 246,
@@ -2983,7 +3229,8 @@
       "amount": 50
     },
     "nonce": 182983,
-    "hash": "0000082febf705c2f3c0ce796c002f4bf4e0c0c8c0eebc63686c341e07f09d9e"
+    "hash": "0000082febf705c2f3c0ce796c002f4bf4e0c0c8c0eebc63686c341e07f09d9e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 247,
@@ -2995,7 +3242,8 @@
       "amount": 50
     },
     "nonce": 79130,
-    "hash": "00005c3cbd1df7f60073561f042703486e01870d73bb01bfe7a652a285eeb3f1"
+    "hash": "00005c3cbd1df7f60073561f042703486e01870d73bb01bfe7a652a285eeb3f1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 248,
@@ -3007,7 +3255,8 @@
       "amount": 50
     },
     "nonce": 71889,
-    "hash": "000006c8c27fbf172bf8cfbe44f611f4f04951a9954820d9f7561c1f5b94a555"
+    "hash": "000006c8c27fbf172bf8cfbe44f611f4f04951a9954820d9f7561c1f5b94a555",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 249,
@@ -3019,7 +3268,8 @@
       "amount": 50
     },
     "nonce": 16199,
-    "hash": "000096a3d905ac8b8bdc410436898c2b889294ea3a63b02bc802670867255590"
+    "hash": "000096a3d905ac8b8bdc410436898c2b889294ea3a63b02bc802670867255590",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 250,
@@ -3031,7 +3281,8 @@
       "amount": 50
     },
     "nonce": 21488,
-    "hash": "0000d61c9b53ef2c0d693ba75594abf1cb60487c9555ce3cff931ed1364529b9"
+    "hash": "0000d61c9b53ef2c0d693ba75594abf1cb60487c9555ce3cff931ed1364529b9",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 251,
@@ -3043,7 +3294,8 @@
       "amount": 50
     },
     "nonce": 50767,
-    "hash": "0000499698e19c3be48761ed7bf4f4463ac8382729f8dd75dd4b0f001963fa30"
+    "hash": "0000499698e19c3be48761ed7bf4f4463ac8382729f8dd75dd4b0f001963fa30",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 252,
@@ -3055,7 +3307,8 @@
       "amount": 50
     },
     "nonce": 2604,
-    "hash": "000007e76df7d4e59534bf9a45d277fe67db9e059d8053d3a608ec5334fbe37f"
+    "hash": "000007e76df7d4e59534bf9a45d277fe67db9e059d8053d3a608ec5334fbe37f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 253,
@@ -3067,7 +3320,8 @@
       "amount": 50
     },
     "nonce": 152067,
-    "hash": "00002fec8acce5ba8d859febe819fc780876c3008b85747eebdb0af760640f50"
+    "hash": "00002fec8acce5ba8d859febe819fc780876c3008b85747eebdb0af760640f50",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 254,
@@ -3079,7 +3333,8 @@
       "amount": 50
     },
     "nonce": 59627,
-    "hash": "0000da52af8691f7b119258193f3370f6814408ca360c830efa60e59481e28e4"
+    "hash": "0000da52af8691f7b119258193f3370f6814408ca360c830efa60e59481e28e4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 255,
@@ -3091,7 +3346,8 @@
       "amount": 50
     },
     "nonce": 57763,
-    "hash": "0000c66f8c5c54a9fabe742846ecd3f15e593f0a4b97e0a30a6f6d0ac630ec22"
+    "hash": "0000c66f8c5c54a9fabe742846ecd3f15e593f0a4b97e0a30a6f6d0ac630ec22",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 256,
@@ -3103,7 +3359,8 @@
       "amount": 50
     },
     "nonce": 153367,
-    "hash": "0000684b7ac9363f07e85b3105926d13c5fca6fc2b86cba0d304658ad84c273c"
+    "hash": "0000684b7ac9363f07e85b3105926d13c5fca6fc2b86cba0d304658ad84c273c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 257,
@@ -3115,7 +3372,8 @@
       "amount": 50
     },
     "nonce": 10860,
-    "hash": "000001d7c03638f2882604bcdff989486534261003f088f1850ba62f3edbe6f7"
+    "hash": "000001d7c03638f2882604bcdff989486534261003f088f1850ba62f3edbe6f7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 258,
@@ -3127,7 +3385,8 @@
       "amount": 50
     },
     "nonce": 84771,
-    "hash": "00005b4fa9f28185bdbc6b0e2cf36888c2c4a40c3cc1d0648fbc51fca5abb3bb"
+    "hash": "00005b4fa9f28185bdbc6b0e2cf36888c2c4a40c3cc1d0648fbc51fca5abb3bb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 259,
@@ -3139,7 +3398,8 @@
       "amount": 50
     },
     "nonce": 184312,
-    "hash": "000011776a44c4e531f989ba614faa1c1fc73190c4eb3460e9a9b47fc1a41d2a"
+    "hash": "000011776a44c4e531f989ba614faa1c1fc73190c4eb3460e9a9b47fc1a41d2a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 260,
@@ -3151,7 +3411,8 @@
       "amount": 50
     },
     "nonce": 193348,
-    "hash": "00001afe6e2951b0ab828b7f6130f3299d16f378a832d7328a220a7d76541856"
+    "hash": "00001afe6e2951b0ab828b7f6130f3299d16f378a832d7328a220a7d76541856",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 261,
@@ -3163,7 +3424,8 @@
       "amount": 50
     },
     "nonce": 79455,
-    "hash": "0000cf167792548110be82c517e3466e4edfdf050bf88c068fd1f7d34f1490f5"
+    "hash": "0000cf167792548110be82c517e3466e4edfdf050bf88c068fd1f7d34f1490f5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 262,
@@ -3175,7 +3437,8 @@
       "amount": 50
     },
     "nonce": 58310,
-    "hash": "000085ecf98a8ebbf4a8408aae855262675167f9c79b42cd02dc05972be60244"
+    "hash": "000085ecf98a8ebbf4a8408aae855262675167f9c79b42cd02dc05972be60244",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 263,
@@ -3187,7 +3450,8 @@
       "amount": 50
     },
     "nonce": 105741,
-    "hash": "00000e3a8fbf1d1c53c8fcdcc38d094dc32e9c5127138a10b6aa2eb3f174fd55"
+    "hash": "00000e3a8fbf1d1c53c8fcdcc38d094dc32e9c5127138a10b6aa2eb3f174fd55",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 264,
@@ -3199,7 +3463,8 @@
       "amount": 50
     },
     "nonce": 167994,
-    "hash": "0000714afcbf4350eec29210b91e1db3027044e8f3161d866e7b0d2a77b75291"
+    "hash": "0000714afcbf4350eec29210b91e1db3027044e8f3161d866e7b0d2a77b75291",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 265,
@@ -3212,7 +3477,8 @@
     "hash": "c848e32e8603508f41e9f099c0baadeba88d22ac07ada7cfa560cdf9fb64b48a",
     "prevHash": "0000714afcbf4350eec29210b91e1db3027044e8f3161d866e7b0d2a77b75291",
     "nonce": 265,
-    "prev_hash": "0000714afcbf4350eec29210b91e1db3027044e8f3161d866e7b0d2a77b75291"
+    "prev_hash": "0000714afcbf4350eec29210b91e1db3027044e8f3161d866e7b0d2a77b75291",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 266,
@@ -3225,7 +3491,8 @@
     "hash": "a4b80006e42cf9d304baabb2523c76cc73947993ea655775fe58c16fc3b7233d",
     "prevHash": "c848e32e8603508f41e9f099c0baadeba88d22ac07ada7cfa560cdf9fb64b48a",
     "nonce": 266,
-    "prev_hash": "c848e32e8603508f41e9f099c0baadeba88d22ac07ada7cfa560cdf9fb64b48a"
+    "prev_hash": "c848e32e8603508f41e9f099c0baadeba88d22ac07ada7cfa560cdf9fb64b48a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 267,
@@ -3238,7 +3505,8 @@
     "hash": "c7070f8f82135975dee135e558c84300adba0515116b518b42a00c22094a273d",
     "prevHash": "a4b80006e42cf9d304baabb2523c76cc73947993ea655775fe58c16fc3b7233d",
     "nonce": 267,
-    "prev_hash": "a4b80006e42cf9d304baabb2523c76cc73947993ea655775fe58c16fc3b7233d"
+    "prev_hash": "a4b80006e42cf9d304baabb2523c76cc73947993ea655775fe58c16fc3b7233d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 268,
@@ -3251,7 +3519,8 @@
     "hash": "0c91caa2e4d23a3a986b9090a9fa5ef8a4188ad782a7ab0714d59f38d4273e35",
     "prevHash": "c7070f8f82135975dee135e558c84300adba0515116b518b42a00c22094a273d",
     "nonce": 268,
-    "prev_hash": "c7070f8f82135975dee135e558c84300adba0515116b518b42a00c22094a273d"
+    "prev_hash": "c7070f8f82135975dee135e558c84300adba0515116b518b42a00c22094a273d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 269,
@@ -3264,7 +3533,8 @@
     "hash": "335eb0d1ad692009a365289a12eaec39171b356e55898ac719191fed520dd111",
     "prevHash": "0c91caa2e4d23a3a986b9090a9fa5ef8a4188ad782a7ab0714d59f38d4273e35",
     "nonce": 269,
-    "prev_hash": "0c91caa2e4d23a3a986b9090a9fa5ef8a4188ad782a7ab0714d59f38d4273e35"
+    "prev_hash": "0c91caa2e4d23a3a986b9090a9fa5ef8a4188ad782a7ab0714d59f38d4273e35",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 270,
@@ -3277,7 +3547,8 @@
     "hash": "9f36bb04df8d7e2f3db84988c763111285723c37c3c07d304ce8e829b598ffc5",
     "prevHash": "335eb0d1ad692009a365289a12eaec39171b356e55898ac719191fed520dd111",
     "nonce": 270,
-    "prev_hash": "335eb0d1ad692009a365289a12eaec39171b356e55898ac719191fed520dd111"
+    "prev_hash": "335eb0d1ad692009a365289a12eaec39171b356e55898ac719191fed520dd111",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 271,
@@ -3290,7 +3561,8 @@
     "hash": "39c36aa4a1f8a6bb3f3ee80158af6b79498645a30b310b7417599d2368ea2211",
     "prevHash": "9f36bb04df8d7e2f3db84988c763111285723c37c3c07d304ce8e829b598ffc5",
     "nonce": 271,
-    "prev_hash": "9f36bb04df8d7e2f3db84988c763111285723c37c3c07d304ce8e829b598ffc5"
+    "prev_hash": "9f36bb04df8d7e2f3db84988c763111285723c37c3c07d304ce8e829b598ffc5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 272,
@@ -3303,7 +3575,8 @@
     "hash": "9e88a4a9207e5cb47e35ecb518d3b17c77fb8927c396ef17452695972b22fa45",
     "prevHash": "39c36aa4a1f8a6bb3f3ee80158af6b79498645a30b310b7417599d2368ea2211",
     "nonce": 272,
-    "prev_hash": "39c36aa4a1f8a6bb3f3ee80158af6b79498645a30b310b7417599d2368ea2211"
+    "prev_hash": "39c36aa4a1f8a6bb3f3ee80158af6b79498645a30b310b7417599d2368ea2211",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 273,
@@ -3316,7 +3589,8 @@
     "hash": "0019e9740b333bb153aa5a3a709a92120f98f10563fef2ec040d2388d1dbe1f6",
     "prevHash": "9e88a4a9207e5cb47e35ecb518d3b17c77fb8927c396ef17452695972b22fa45",
     "nonce": 273,
-    "prev_hash": "9e88a4a9207e5cb47e35ecb518d3b17c77fb8927c396ef17452695972b22fa45"
+    "prev_hash": "9e88a4a9207e5cb47e35ecb518d3b17c77fb8927c396ef17452695972b22fa45",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 274,
@@ -3329,7 +3603,8 @@
     "hash": "8985115f3171381d8319f7b9a916c7019b1bbf0cfe31b9205bcbad00c5938f28",
     "prevHash": "0019e9740b333bb153aa5a3a709a92120f98f10563fef2ec040d2388d1dbe1f6",
     "nonce": 274,
-    "prev_hash": "0019e9740b333bb153aa5a3a709a92120f98f10563fef2ec040d2388d1dbe1f6"
+    "prev_hash": "0019e9740b333bb153aa5a3a709a92120f98f10563fef2ec040d2388d1dbe1f6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 275,
@@ -3342,7 +3617,8 @@
     "hash": "2d68aa38cfa91e04dc217c01208a434d673058614b55e00d2deefb9c63a1547c",
     "prevHash": "8985115f3171381d8319f7b9a916c7019b1bbf0cfe31b9205bcbad00c5938f28",
     "nonce": 275,
-    "prev_hash": "8985115f3171381d8319f7b9a916c7019b1bbf0cfe31b9205bcbad00c5938f28"
+    "prev_hash": "8985115f3171381d8319f7b9a916c7019b1bbf0cfe31b9205bcbad00c5938f28",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 276,
@@ -3355,7 +3631,8 @@
     "hash": "04bbf1db018d0d97c3e435938b93e6e99a1f61bb19c4232b50539c8e3c41d11d",
     "prevHash": "2d68aa38cfa91e04dc217c01208a434d673058614b55e00d2deefb9c63a1547c",
     "nonce": 276,
-    "prev_hash": "2d68aa38cfa91e04dc217c01208a434d673058614b55e00d2deefb9c63a1547c"
+    "prev_hash": "2d68aa38cfa91e04dc217c01208a434d673058614b55e00d2deefb9c63a1547c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 277,
@@ -3368,7 +3645,8 @@
     "hash": "88f217d581f7387d9d70df94b9c764ee49271849247ec5a6cb043d4a0df97d9b",
     "prevHash": "04bbf1db018d0d97c3e435938b93e6e99a1f61bb19c4232b50539c8e3c41d11d",
     "nonce": 277,
-    "prev_hash": "04bbf1db018d0d97c3e435938b93e6e99a1f61bb19c4232b50539c8e3c41d11d"
+    "prev_hash": "04bbf1db018d0d97c3e435938b93e6e99a1f61bb19c4232b50539c8e3c41d11d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 278,
@@ -3381,7 +3659,8 @@
     "hash": "21dbdf5773491cc2c84b632de6fee00951a027aee4663a7171baa23f92f57f4a",
     "prevHash": "88f217d581f7387d9d70df94b9c764ee49271849247ec5a6cb043d4a0df97d9b",
     "nonce": 278,
-    "prev_hash": "88f217d581f7387d9d70df94b9c764ee49271849247ec5a6cb043d4a0df97d9b"
+    "prev_hash": "88f217d581f7387d9d70df94b9c764ee49271849247ec5a6cb043d4a0df97d9b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 279,
@@ -3394,7 +3673,8 @@
     "hash": "8cc5a553167eefd2d2e45c91c65a7f149d6e1bc823b62cf596d91e51eb09cb9d",
     "prevHash": "21dbdf5773491cc2c84b632de6fee00951a027aee4663a7171baa23f92f57f4a",
     "nonce": 279,
-    "prev_hash": "21dbdf5773491cc2c84b632de6fee00951a027aee4663a7171baa23f92f57f4a"
+    "prev_hash": "21dbdf5773491cc2c84b632de6fee00951a027aee4663a7171baa23f92f57f4a",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 280,
@@ -3407,7 +3687,8 @@
     "hash": "8fae9789c573cd48c222c9fbe1b1956a068edb6e32efb62f451c67dfdb45b268",
     "prevHash": "8cc5a553167eefd2d2e45c91c65a7f149d6e1bc823b62cf596d91e51eb09cb9d",
     "nonce": 280,
-    "prev_hash": "8cc5a553167eefd2d2e45c91c65a7f149d6e1bc823b62cf596d91e51eb09cb9d"
+    "prev_hash": "8cc5a553167eefd2d2e45c91c65a7f149d6e1bc823b62cf596d91e51eb09cb9d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 281,
@@ -3420,7 +3701,8 @@
     "hash": "2a378ec9b6cb4205c37d9b78dc6cb0651a70a08adf74d8dd93ddcaa1363a3dc0",
     "prevHash": "8fae9789c573cd48c222c9fbe1b1956a068edb6e32efb62f451c67dfdb45b268",
     "nonce": 281,
-    "prev_hash": "8fae9789c573cd48c222c9fbe1b1956a068edb6e32efb62f451c67dfdb45b268"
+    "prev_hash": "8fae9789c573cd48c222c9fbe1b1956a068edb6e32efb62f451c67dfdb45b268",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 282,
@@ -3433,7 +3715,8 @@
     "hash": "40c5a5710379527b3b1cfd33a978ae11cda4141338f9bcdb80b436ab58c5e1d5",
     "prevHash": "2a378ec9b6cb4205c37d9b78dc6cb0651a70a08adf74d8dd93ddcaa1363a3dc0",
     "nonce": 282,
-    "prev_hash": "2a378ec9b6cb4205c37d9b78dc6cb0651a70a08adf74d8dd93ddcaa1363a3dc0"
+    "prev_hash": "2a378ec9b6cb4205c37d9b78dc6cb0651a70a08adf74d8dd93ddcaa1363a3dc0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 283,
@@ -3446,7 +3729,8 @@
     "hash": "0eb60164669ce7bf19c7a21e6d05b7622308cac41b22a7ef27d97280be4fa1d0",
     "prevHash": "40c5a5710379527b3b1cfd33a978ae11cda4141338f9bcdb80b436ab58c5e1d5",
     "nonce": 283,
-    "prev_hash": "40c5a5710379527b3b1cfd33a978ae11cda4141338f9bcdb80b436ab58c5e1d5"
+    "prev_hash": "40c5a5710379527b3b1cfd33a978ae11cda4141338f9bcdb80b436ab58c5e1d5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 284,
@@ -3459,7 +3743,8 @@
     "hash": "30fadbb7b4e18de09e6afd24f55d4a17c89eb8beab27e04d2b99d4831b610bf6",
     "prevHash": "0eb60164669ce7bf19c7a21e6d05b7622308cac41b22a7ef27d97280be4fa1d0",
     "nonce": 284,
-    "prev_hash": "0eb60164669ce7bf19c7a21e6d05b7622308cac41b22a7ef27d97280be4fa1d0"
+    "prev_hash": "0eb60164669ce7bf19c7a21e6d05b7622308cac41b22a7ef27d97280be4fa1d0",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 285,
@@ -3472,7 +3757,8 @@
     "hash": "ae2c43945342be14cf0779d874f5c476a16455fe9bcf5fe6ddc1ee7406669ef7",
     "prevHash": "30fadbb7b4e18de09e6afd24f55d4a17c89eb8beab27e04d2b99d4831b610bf6",
     "nonce": 285,
-    "prev_hash": "30fadbb7b4e18de09e6afd24f55d4a17c89eb8beab27e04d2b99d4831b610bf6"
+    "prev_hash": "30fadbb7b4e18de09e6afd24f55d4a17c89eb8beab27e04d2b99d4831b610bf6",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 286,
@@ -3485,7 +3771,8 @@
     "hash": "8d1b35dc64408a8cffd781932455bd89f73edd91f2a4b87859a891d24059f749",
     "prevHash": "ae2c43945342be14cf0779d874f5c476a16455fe9bcf5fe6ddc1ee7406669ef7",
     "nonce": 286,
-    "prev_hash": "ae2c43945342be14cf0779d874f5c476a16455fe9bcf5fe6ddc1ee7406669ef7"
+    "prev_hash": "ae2c43945342be14cf0779d874f5c476a16455fe9bcf5fe6ddc1ee7406669ef7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 287,
@@ -3498,7 +3785,8 @@
     "hash": "40ab9b89ab61c9a93363f82d46a3a922bdfdcd8d89b6bc7ccde054bedb9a17f7",
     "prevHash": "8d1b35dc64408a8cffd781932455bd89f73edd91f2a4b87859a891d24059f749",
     "nonce": 287,
-    "prev_hash": "8d1b35dc64408a8cffd781932455bd89f73edd91f2a4b87859a891d24059f749"
+    "prev_hash": "8d1b35dc64408a8cffd781932455bd89f73edd91f2a4b87859a891d24059f749",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 288,
@@ -3511,7 +3799,8 @@
     "hash": "842b787b70fe0b703a6b0e741896d966812859396cc1e343d99cdde171b514ee",
     "prevHash": "40ab9b89ab61c9a93363f82d46a3a922bdfdcd8d89b6bc7ccde054bedb9a17f7",
     "nonce": 288,
-    "prev_hash": "40ab9b89ab61c9a93363f82d46a3a922bdfdcd8d89b6bc7ccde054bedb9a17f7"
+    "prev_hash": "40ab9b89ab61c9a93363f82d46a3a922bdfdcd8d89b6bc7ccde054bedb9a17f7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 289,
@@ -3524,7 +3813,8 @@
     "hash": "7a5fe38f1616cb37e5f394a53a005b8165e6faec800f9b24c37fa8bc9be7ad4c",
     "prevHash": "842b787b70fe0b703a6b0e741896d966812859396cc1e343d99cdde171b514ee",
     "nonce": 289,
-    "prev_hash": "842b787b70fe0b703a6b0e741896d966812859396cc1e343d99cdde171b514ee"
+    "prev_hash": "842b787b70fe0b703a6b0e741896d966812859396cc1e343d99cdde171b514ee",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 290,
@@ -3537,7 +3827,8 @@
     "hash": "038cbe96418c9dec71c356191d15e81ee44b191b66b09168bb9be3955f06c76b",
     "prevHash": "7a5fe38f1616cb37e5f394a53a005b8165e6faec800f9b24c37fa8bc9be7ad4c",
     "nonce": 290,
-    "prev_hash": "7a5fe38f1616cb37e5f394a53a005b8165e6faec800f9b24c37fa8bc9be7ad4c"
+    "prev_hash": "7a5fe38f1616cb37e5f394a53a005b8165e6faec800f9b24c37fa8bc9be7ad4c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 291,
@@ -3550,7 +3841,8 @@
     "hash": "51db2ddcfb4c3489c7127b16d15a92bd9b08bce55fd87cbb764ed015d25825eb",
     "prevHash": "038cbe96418c9dec71c356191d15e81ee44b191b66b09168bb9be3955f06c76b",
     "nonce": 291,
-    "prev_hash": "038cbe96418c9dec71c356191d15e81ee44b191b66b09168bb9be3955f06c76b"
+    "prev_hash": "038cbe96418c9dec71c356191d15e81ee44b191b66b09168bb9be3955f06c76b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 292,
@@ -3563,7 +3855,8 @@
     "hash": "fd88dfd90573e8574ced7384a5bcf6c5a8461560c1cc7ae92822a07a013d53e7",
     "prevHash": "51db2ddcfb4c3489c7127b16d15a92bd9b08bce55fd87cbb764ed015d25825eb",
     "nonce": 292,
-    "prev_hash": "51db2ddcfb4c3489c7127b16d15a92bd9b08bce55fd87cbb764ed015d25825eb"
+    "prev_hash": "51db2ddcfb4c3489c7127b16d15a92bd9b08bce55fd87cbb764ed015d25825eb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 293,
@@ -3576,7 +3869,8 @@
     "hash": "a312afbe3b8b01aba5e1a6bf0c6c0d1c5b00bc4d33e089f9ad297b7eca111b44",
     "prevHash": "fd88dfd90573e8574ced7384a5bcf6c5a8461560c1cc7ae92822a07a013d53e7",
     "nonce": 293,
-    "prev_hash": "fd88dfd90573e8574ced7384a5bcf6c5a8461560c1cc7ae92822a07a013d53e7"
+    "prev_hash": "fd88dfd90573e8574ced7384a5bcf6c5a8461560c1cc7ae92822a07a013d53e7",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 294,
@@ -3589,7 +3883,8 @@
     "hash": "d5638270c9bcdb613af1e0730d61165b3f0917499888e0e8af6a4f73f3a22810",
     "prevHash": "a312afbe3b8b01aba5e1a6bf0c6c0d1c5b00bc4d33e089f9ad297b7eca111b44",
     "nonce": 294,
-    "prev_hash": "a312afbe3b8b01aba5e1a6bf0c6c0d1c5b00bc4d33e089f9ad297b7eca111b44"
+    "prev_hash": "a312afbe3b8b01aba5e1a6bf0c6c0d1c5b00bc4d33e089f9ad297b7eca111b44",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 295,
@@ -3602,7 +3897,8 @@
     "hash": "3507580abe6ed0340977dedd603ec04e9544f08b9fe01d5ef8cf7b700a29e1b5",
     "prevHash": "d5638270c9bcdb613af1e0730d61165b3f0917499888e0e8af6a4f73f3a22810",
     "nonce": 295,
-    "prev_hash": "d5638270c9bcdb613af1e0730d61165b3f0917499888e0e8af6a4f73f3a22810"
+    "prev_hash": "d5638270c9bcdb613af1e0730d61165b3f0917499888e0e8af6a4f73f3a22810",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 296,
@@ -3615,7 +3911,8 @@
     "hash": "a1a05fbcfa4341e513b2a3effaa04a2ab6db640deea14fce83fb18d51a95bf5e",
     "prevHash": "3507580abe6ed0340977dedd603ec04e9544f08b9fe01d5ef8cf7b700a29e1b5",
     "nonce": 296,
-    "prev_hash": "3507580abe6ed0340977dedd603ec04e9544f08b9fe01d5ef8cf7b700a29e1b5"
+    "prev_hash": "3507580abe6ed0340977dedd603ec04e9544f08b9fe01d5ef8cf7b700a29e1b5",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 297,
@@ -3628,7 +3925,8 @@
     "hash": "cbf7bb2f48905b18f1e394b94dc192272210b2427ba57367a0739acac569c98c",
     "prevHash": "a1a05fbcfa4341e513b2a3effaa04a2ab6db640deea14fce83fb18d51a95bf5e",
     "nonce": 297,
-    "prev_hash": "a1a05fbcfa4341e513b2a3effaa04a2ab6db640deea14fce83fb18d51a95bf5e"
+    "prev_hash": "a1a05fbcfa4341e513b2a3effaa04a2ab6db640deea14fce83fb18d51a95bf5e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 298,
@@ -3641,7 +3939,8 @@
     "hash": "fa94eee259e29bbe19a0e59d4f8e156ebea7a94a1a5d82da2aea2bc5a58826fb",
     "prevHash": "cbf7bb2f48905b18f1e394b94dc192272210b2427ba57367a0739acac569c98c",
     "nonce": 298,
-    "prev_hash": "cbf7bb2f48905b18f1e394b94dc192272210b2427ba57367a0739acac569c98c"
+    "prev_hash": "cbf7bb2f48905b18f1e394b94dc192272210b2427ba57367a0739acac569c98c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 299,
@@ -3654,7 +3953,8 @@
     "hash": "da12867545fdfdd3cf3b0801b626bd4ea3bccf41334d372f1f4956731d4ddd9c",
     "prevHash": "fa94eee259e29bbe19a0e59d4f8e156ebea7a94a1a5d82da2aea2bc5a58826fb",
     "nonce": 299,
-    "prev_hash": "fa94eee259e29bbe19a0e59d4f8e156ebea7a94a1a5d82da2aea2bc5a58826fb"
+    "prev_hash": "fa94eee259e29bbe19a0e59d4f8e156ebea7a94a1a5d82da2aea2bc5a58826fb",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 300,
@@ -3667,7 +3967,8 @@
     "hash": "5c32b8ba632b221a6b8cb49e81f467f8d9eb8ff21a356346cee2803476ec39d4",
     "prevHash": "da12867545fdfdd3cf3b0801b626bd4ea3bccf41334d372f1f4956731d4ddd9c",
     "nonce": 300,
-    "prev_hash": "da12867545fdfdd3cf3b0801b626bd4ea3bccf41334d372f1f4956731d4ddd9c"
+    "prev_hash": "da12867545fdfdd3cf3b0801b626bd4ea3bccf41334d372f1f4956731d4ddd9c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 301,
@@ -3680,7 +3981,8 @@
     "hash": "5a11bd6c63f6671fad37776e92ea2cca917ffa73de12193b8d0a4f3297781891",
     "prevHash": "5c32b8ba632b221a6b8cb49e81f467f8d9eb8ff21a356346cee2803476ec39d4",
     "nonce": 301,
-    "prev_hash": "5c32b8ba632b221a6b8cb49e81f467f8d9eb8ff21a356346cee2803476ec39d4"
+    "prev_hash": "5c32b8ba632b221a6b8cb49e81f467f8d9eb8ff21a356346cee2803476ec39d4",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 302,
@@ -3693,7 +3995,8 @@
     "hash": "31728589ee4cac5d9d31ee4e8ad4db11b11276f543f76492153a6e941dd31b8c",
     "prevHash": "5a11bd6c63f6671fad37776e92ea2cca917ffa73de12193b8d0a4f3297781891",
     "nonce": 302,
-    "prev_hash": "5a11bd6c63f6671fad37776e92ea2cca917ffa73de12193b8d0a4f3297781891"
+    "prev_hash": "5a11bd6c63f6671fad37776e92ea2cca917ffa73de12193b8d0a4f3297781891",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 303,
@@ -3706,7 +4009,8 @@
     "hash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b",
     "prevHash": "31728589ee4cac5d9d31ee4e8ad4db11b11276f543f76492153a6e941dd31b8c",
     "nonce": 303,
-    "prev_hash": "31728589ee4cac5d9d31ee4e8ad4db11b11276f543f76492153a6e941dd31b8c"
+    "prev_hash": "31728589ee4cac5d9d31ee4e8ad4db11b11276f543f76492153a6e941dd31b8c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 304,
@@ -3719,7 +4023,8 @@
     "hash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c",
     "prevHash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b",
     "nonce": 304,
-    "prev_hash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b"
+    "prev_hash": "4876e233fa6c83ec4d648e2ff92ee2c25164326a91cb63fc0b2e580e9615d74b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 305,
@@ -3732,7 +4037,8 @@
     "hash": "face6c5bde0eaffb16f1ba2b9baeb805ec25e82402e06cf22b3ffa8d8edd744d",
     "prevHash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c",
     "nonce": 305,
-    "prev_hash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c"
+    "prev_hash": "1968911af4c39f715d13d90d2bde1ba2562cd48d0445961e152b477d8929c25c",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 306,
@@ -3745,7 +4051,8 @@
     "hash": "ca70622db4b3b4f3175789d4cadc8b96ea7feccd6746e7d6b811a9b9886ab8f8",
     "prevHash": "face6c5bde0eaffb16f1ba2b9baeb805ec25e82402e06cf22b3ffa8d8edd744d",
     "nonce": 306,
-    "prev_hash": "face6c5bde0eaffb16f1ba2b9baeb805ec25e82402e06cf22b3ffa8d8edd744d"
+    "prev_hash": "face6c5bde0eaffb16f1ba2b9baeb805ec25e82402e06cf22b3ffa8d8edd744d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 307,
@@ -3758,7 +4065,8 @@
     "hash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc",
     "prevHash": "ca70622db4b3b4f3175789d4cadc8b96ea7feccd6746e7d6b811a9b9886ab8f8",
     "nonce": 307,
-    "prev_hash": "ca70622db4b3b4f3175789d4cadc8b96ea7feccd6746e7d6b811a9b9886ab8f8"
+    "prev_hash": "ca70622db4b3b4f3175789d4cadc8b96ea7feccd6746e7d6b811a9b9886ab8f8",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 308,
@@ -3771,7 +4079,8 @@
     "hash": "abbfeb8139456c52483de94221d6d04090d7856b1672aa0ccdc18324bbb98288",
     "prevHash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc",
     "nonce": 308,
-    "prev_hash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc"
+    "prev_hash": "bd9b02533111231e7f3e3ebb58e0bacfa04b8346903e541c6633a35da171a7bc",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 309,
@@ -3784,7 +4093,8 @@
     "hash": "d67fd2122c52ef156d5c6d1f919628d3b5f4d2514c6b2dbc53b94593eee36920",
     "prevHash": "abbfeb8139456c52483de94221d6d04090d7856b1672aa0ccdc18324bbb98288",
     "nonce": 309,
-    "prev_hash": "abbfeb8139456c52483de94221d6d04090d7856b1672aa0ccdc18324bbb98288"
+    "prev_hash": "abbfeb8139456c52483de94221d6d04090d7856b1672aa0ccdc18324bbb98288",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 310,
@@ -3797,7 +4107,8 @@
     "hash": "25eb3569c8677e7d67b69e56a45567d0cf65735cacfd87a6ff6f467b97446eee",
     "prevHash": "d67fd2122c52ef156d5c6d1f919628d3b5f4d2514c6b2dbc53b94593eee36920",
     "nonce": 310,
-    "prev_hash": "d67fd2122c52ef156d5c6d1f919628d3b5f4d2514c6b2dbc53b94593eee36920"
+    "prev_hash": "d67fd2122c52ef156d5c6d1f919628d3b5f4d2514c6b2dbc53b94593eee36920",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 311,
@@ -3810,7 +4121,8 @@
     "hash": "08d2a5a1a5ceac834ed7ab7e031a1a2874d287a2de4047a1457a83aa10bddb3e",
     "prevHash": "25eb3569c8677e7d67b69e56a45567d0cf65735cacfd87a6ff6f467b97446eee",
     "nonce": 311,
-    "prev_hash": "25eb3569c8677e7d67b69e56a45567d0cf65735cacfd87a6ff6f467b97446eee"
+    "prev_hash": "25eb3569c8677e7d67b69e56a45567d0cf65735cacfd87a6ff6f467b97446eee",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 312,
@@ -3823,7 +4135,8 @@
     "hash": "0c920205e6c910f307e7fd77db232920965532e4e2317a946766128d565b5a03",
     "prevHash": "08d2a5a1a5ceac834ed7ab7e031a1a2874d287a2de4047a1457a83aa10bddb3e",
     "nonce": 312,
-    "prev_hash": "08d2a5a1a5ceac834ed7ab7e031a1a2874d287a2de4047a1457a83aa10bddb3e"
+    "prev_hash": "08d2a5a1a5ceac834ed7ab7e031a1a2874d287a2de4047a1457a83aa10bddb3e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 313,
@@ -3836,7 +4149,8 @@
     "hash": "6cdaffc86dbd28a44933232c46735060a4bac60ee52b0d3f03f7541db5e7921b",
     "prevHash": "0c920205e6c910f307e7fd77db232920965532e4e2317a946766128d565b5a03",
     "nonce": 313,
-    "prev_hash": "0c920205e6c910f307e7fd77db232920965532e4e2317a946766128d565b5a03"
+    "prev_hash": "0c920205e6c910f307e7fd77db232920965532e4e2317a946766128d565b5a03",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 314,
@@ -3849,7 +4163,8 @@
     "hash": "a1ffb541dafa763dc3c89ebcde2df4e48c5cc3b387b30702a9a354cc57e20b83",
     "prevHash": "6cdaffc86dbd28a44933232c46735060a4bac60ee52b0d3f03f7541db5e7921b",
     "nonce": 314,
-    "prev_hash": "6cdaffc86dbd28a44933232c46735060a4bac60ee52b0d3f03f7541db5e7921b"
+    "prev_hash": "6cdaffc86dbd28a44933232c46735060a4bac60ee52b0d3f03f7541db5e7921b",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 315,
@@ -3862,7 +4177,8 @@
     "hash": "ae34664798b202c09967a8b13103f493e4255343c02b78878c919bf909a54d02",
     "prevHash": "a1ffb541dafa763dc3c89ebcde2df4e48c5cc3b387b30702a9a354cc57e20b83",
     "nonce": 315,
-    "prev_hash": "a1ffb541dafa763dc3c89ebcde2df4e48c5cc3b387b30702a9a354cc57e20b83"
+    "prev_hash": "a1ffb541dafa763dc3c89ebcde2df4e48c5cc3b387b30702a9a354cc57e20b83",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 316,
@@ -3875,7 +4191,8 @@
     "hash": "79cd6f448c03f1371199c53b535c5cbf60f076b57b683678e767a06c945923af",
     "prevHash": "ae34664798b202c09967a8b13103f493e4255343c02b78878c919bf909a54d02",
     "nonce": 316,
-    "prev_hash": "ae34664798b202c09967a8b13103f493e4255343c02b78878c919bf909a54d02"
+    "prev_hash": "ae34664798b202c09967a8b13103f493e4255343c02b78878c919bf909a54d02",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 317,
@@ -3888,7 +4205,8 @@
     "hash": "d6116620d2ef19d4f5efd951a33b01c9abc1cd3cefa5549654ed993949dce47d",
     "prevHash": "79cd6f448c03f1371199c53b535c5cbf60f076b57b683678e767a06c945923af",
     "nonce": 317,
-    "prev_hash": "79cd6f448c03f1371199c53b535c5cbf60f076b57b683678e767a06c945923af"
+    "prev_hash": "79cd6f448c03f1371199c53b535c5cbf60f076b57b683678e767a06c945923af",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 318,
@@ -3901,7 +4219,8 @@
     "hash": "0aa35d55f60bebaf0f77fb66efd03f3b30ec4cb1d4eaee309f4becb9e5db15b3",
     "prevHash": "d6116620d2ef19d4f5efd951a33b01c9abc1cd3cefa5549654ed993949dce47d",
     "nonce": 318,
-    "prev_hash": "d6116620d2ef19d4f5efd951a33b01c9abc1cd3cefa5549654ed993949dce47d"
+    "prev_hash": "d6116620d2ef19d4f5efd951a33b01c9abc1cd3cefa5549654ed993949dce47d",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 319,
@@ -3914,7 +4233,8 @@
     "hash": "a105748ece0be95d16bab7c0a823d1eb2062a98347cdb3830278670da0837eed",
     "prevHash": "0aa35d55f60bebaf0f77fb66efd03f3b30ec4cb1d4eaee309f4becb9e5db15b3",
     "nonce": 319,
-    "prev_hash": "0aa35d55f60bebaf0f77fb66efd03f3b30ec4cb1d4eaee309f4becb9e5db15b3"
+    "prev_hash": "0aa35d55f60bebaf0f77fb66efd03f3b30ec4cb1d4eaee309f4becb9e5db15b3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 320,
@@ -3927,7 +4247,8 @@
     "hash": "455e97b03b9592b7aa873f9785c65dd96362ff45e4c04077cc80d05fe8f20ab1",
     "prevHash": "a105748ece0be95d16bab7c0a823d1eb2062a98347cdb3830278670da0837eed",
     "nonce": 320,
-    "prev_hash": "a105748ece0be95d16bab7c0a823d1eb2062a98347cdb3830278670da0837eed"
+    "prev_hash": "a105748ece0be95d16bab7c0a823d1eb2062a98347cdb3830278670da0837eed",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 321,
@@ -3940,7 +4261,8 @@
     "hash": "5fa9b836c94077ac7fbf9838c25497c5ae30679ca12f2e1d89bf5e0d35f53b8f",
     "prevHash": "455e97b03b9592b7aa873f9785c65dd96362ff45e4c04077cc80d05fe8f20ab1",
     "nonce": 321,
-    "prev_hash": "455e97b03b9592b7aa873f9785c65dd96362ff45e4c04077cc80d05fe8f20ab1"
+    "prev_hash": "455e97b03b9592b7aa873f9785c65dd96362ff45e4c04077cc80d05fe8f20ab1",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 322,
@@ -3953,7 +4275,8 @@
     "hash": "55210ba4ca1b7c536beb202d740cc968567d2120af0bc5d7a4f584d01ba848ff",
     "prevHash": "5fa9b836c94077ac7fbf9838c25497c5ae30679ca12f2e1d89bf5e0d35f53b8f",
     "nonce": 322,
-    "prev_hash": "5fa9b836c94077ac7fbf9838c25497c5ae30679ca12f2e1d89bf5e0d35f53b8f"
+    "prev_hash": "5fa9b836c94077ac7fbf9838c25497c5ae30679ca12f2e1d89bf5e0d35f53b8f",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 323,
@@ -3966,7 +4289,8 @@
     "hash": "9251d5833e3ad4ca0478fffa652a9834669e588cbcb4732f580e7a307eeb2cd3",
     "prevHash": "55210ba4ca1b7c536beb202d740cc968567d2120af0bc5d7a4f584d01ba848ff",
     "nonce": 323,
-    "prev_hash": "55210ba4ca1b7c536beb202d740cc968567d2120af0bc5d7a4f584d01ba848ff"
+    "prev_hash": "55210ba4ca1b7c536beb202d740cc968567d2120af0bc5d7a4f584d01ba848ff",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 324,
@@ -3979,7 +4303,8 @@
     "hash": "e849406f5d379859ba9dc56f177f8dccbff083b228b24c812e74ea2ac580ec6e",
     "prevHash": "9251d5833e3ad4ca0478fffa652a9834669e588cbcb4732f580e7a307eeb2cd3",
     "nonce": 324,
-    "prev_hash": "9251d5833e3ad4ca0478fffa652a9834669e588cbcb4732f580e7a307eeb2cd3"
+    "prev_hash": "9251d5833e3ad4ca0478fffa652a9834669e588cbcb4732f580e7a307eeb2cd3",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 325,
@@ -3992,7 +4317,8 @@
     "hash": "6de9aa6b971c4e29c55b355495adcfd7f5fd868a35a6481b53c046536cb3b0d8",
     "prevHash": "e849406f5d379859ba9dc56f177f8dccbff083b228b24c812e74ea2ac580ec6e",
     "nonce": 325,
-    "prev_hash": "e849406f5d379859ba9dc56f177f8dccbff083b228b24c812e74ea2ac580ec6e"
+    "prev_hash": "e849406f5d379859ba9dc56f177f8dccbff083b228b24c812e74ea2ac580ec6e",
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 326,
@@ -4005,7 +4331,8 @@
     },
     "hash": "c4a8613f4dbf2487816ad79d5ddbbc1d01dc7e4874c4851b657164462f1728b4",
     "prevHash": "6de9aa6b971c4e29c55b355495adcfd7f5fd868a35a6481b53c046536cb3b0d8",
-    "nonce": 326
+    "nonce": 326,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 327,
@@ -4018,7 +4345,8 @@
     },
     "hash": "b8e1df199f7c8012e97e2d446b6e02e722ace01f1c7850867c3f0424a7c09da2",
     "prevHash": "c4a8613f4dbf2487816ad79d5ddbbc1d01dc7e4874c4851b657164462f1728b4",
-    "nonce": 327
+    "nonce": 327,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 328,
@@ -4031,7 +4359,8 @@
     },
     "hash": "6b629617c549588a15aa655d1a65b72e932c3238fd58beacc1eb7e0301b8097d",
     "prevHash": "b8e1df199f7c8012e97e2d446b6e02e722ace01f1c7850867c3f0424a7c09da2",
-    "nonce": 328
+    "nonce": 328,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 329,
@@ -4044,7 +4373,8 @@
     },
     "hash": "acab12ba711e603d65f3be4575d9e510b98c3d684e1d6f1a80d6b954c2acd9b2",
     "prevHash": "6b629617c549588a15aa655d1a65b72e932c3238fd58beacc1eb7e0301b8097d",
-    "nonce": 329
+    "nonce": 329,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 330,
@@ -4057,7 +4387,8 @@
     },
     "hash": "3a8721ee3bcd90276550306782ac1fa6926e2da89c907752360ccf7c04c51776",
     "prevHash": "acab12ba711e603d65f3be4575d9e510b98c3d684e1d6f1a80d6b954c2acd9b2",
-    "nonce": 330
+    "nonce": 330,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 331,
@@ -4070,7 +4401,8 @@
     },
     "hash": "15b7a269a833a068d20601eee86200a5347c734de6c28df6c4a9d543dec0f39f",
     "prevHash": "3a8721ee3bcd90276550306782ac1fa6926e2da89c907752360ccf7c04c51776",
-    "nonce": 331
+    "nonce": 331,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 332,
@@ -4083,7 +4415,8 @@
     },
     "hash": "37faf7b2bfa26fd64eb71fb869b907c79e02ac81a9c13de2ed8c3cd01d329540",
     "prevHash": "15b7a269a833a068d20601eee86200a5347c734de6c28df6c4a9d543dec0f39f",
-    "nonce": 332
+    "nonce": 332,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 333,
@@ -4096,7 +4429,8 @@
     },
     "hash": "aeaae9cfa7a60a9101be86f0cf831a29b8820e539e2179fd463707d3f3dd74d7",
     "prevHash": "37faf7b2bfa26fd64eb71fb869b907c79e02ac81a9c13de2ed8c3cd01d329540",
-    "nonce": 333
+    "nonce": 333,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 334,
@@ -4109,7 +4443,8 @@
     },
     "hash": "7a1ba1ec944b1debb629cc15999d54ec01a35b031a7ac8d4a8602184ad6c8a01",
     "prevHash": "aeaae9cfa7a60a9101be86f0cf831a29b8820e539e2179fd463707d3f3dd74d7",
-    "nonce": 334
+    "nonce": 334,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 335,
@@ -4122,7 +4457,8 @@
     },
     "hash": "45e94486c80837fb753ed9d252187d69f8044ba1b28126c570453591d9c59b5c",
     "prevHash": "7a1ba1ec944b1debb629cc15999d54ec01a35b031a7ac8d4a8602184ad6c8a01",
-    "nonce": 335
+    "nonce": 335,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 336,
@@ -4135,7 +4471,8 @@
     },
     "hash": "3dc3fab7e5cb8261ea8582cf9c80fb6091bf7093b97f5de0d0e03ad070fb7c87",
     "prevHash": "45e94486c80837fb753ed9d252187d69f8044ba1b28126c570453591d9c59b5c",
-    "nonce": 336
+    "nonce": 336,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 337,
@@ -4148,7 +4485,8 @@
     },
     "hash": "274529e32cc08b14aff6784bcad229b39ce2f56ac78a621f9dec236f1ece0c34",
     "prevHash": "3dc3fab7e5cb8261ea8582cf9c80fb6091bf7093b97f5de0d0e03ad070fb7c87",
-    "nonce": 337
+    "nonce": 337,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 338,
@@ -4161,7 +4499,8 @@
     },
     "hash": "b6d5e21376b27f13896cfcc2ad4b7ed9d73ac159500e32101a29a5409a0882a8",
     "prevHash": "274529e32cc08b14aff6784bcad229b39ce2f56ac78a621f9dec236f1ece0c34",
-    "nonce": 338
+    "nonce": 338,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 339,
@@ -4174,7 +4513,8 @@
     },
     "hash": "f23225d28b4ca987ef32e88ed3aa7b7f728a1e357d8f02aed77e339368710d76",
     "prevHash": "b6d5e21376b27f13896cfcc2ad4b7ed9d73ac159500e32101a29a5409a0882a8",
-    "nonce": 339
+    "nonce": 339,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 340,
@@ -4187,7 +4527,8 @@
     },
     "hash": "ed4e18a6ef2cae662b7e9e70a81f718394b5ec7f1c8b366e920a07bde897fd95",
     "prevHash": "f23225d28b4ca987ef32e88ed3aa7b7f728a1e357d8f02aed77e339368710d76",
-    "nonce": 340
+    "nonce": 340,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 341,
@@ -4200,7 +4541,8 @@
     },
     "hash": "8dbabf4c0442849f70ddf1579669f3f3b1075e8a5e3dbe21cef7dc08a516b950",
     "prevHash": "ed4e18a6ef2cae662b7e9e70a81f718394b5ec7f1c8b366e920a07bde897fd95",
-    "nonce": 341
+    "nonce": 341,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 342,
@@ -4213,7 +4555,8 @@
     },
     "hash": "18e66b2d7ce91004a7b2a503911d50ba2086cf3d8d3077f97d0cd91298238593",
     "prevHash": "8dbabf4c0442849f70ddf1579669f3f3b1075e8a5e3dbe21cef7dc08a516b950",
-    "nonce": 342
+    "nonce": 342,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 343,
@@ -4226,7 +4569,8 @@
     },
     "hash": "5db29c55f03f51ba9b7e0027c5ebe1a08decf27180a8351f139cd0fc72249341",
     "prevHash": "18e66b2d7ce91004a7b2a503911d50ba2086cf3d8d3077f97d0cd91298238593",
-    "nonce": 343
+    "nonce": 343,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 344,
@@ -4239,7 +4583,8 @@
     },
     "hash": "0c338fd7b49ca398f467fbdabf373e7a6ef304ac478f94e7064b073070a62afd",
     "prevHash": "5db29c55f03f51ba9b7e0027c5ebe1a08decf27180a8351f139cd0fc72249341",
-    "nonce": 344
+    "nonce": 344,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 345,
@@ -4252,7 +4597,8 @@
     },
     "hash": "dbe8791f020aae9220f14392cfb666e5e4f1994eab3ff11e62536fb78bcd6d9d",
     "prevHash": "0c338fd7b49ca398f467fbdabf373e7a6ef304ac478f94e7064b073070a62afd",
-    "nonce": 345
+    "nonce": 345,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 346,
@@ -4265,7 +4611,8 @@
     },
     "hash": "96bc7950bd2634e4fb1e79f8fbcfeaabc03b4a2e1f054e82f02e1dd4fda0167e",
     "prevHash": "dbe8791f020aae9220f14392cfb666e5e4f1994eab3ff11e62536fb78bcd6d9d",
-    "nonce": 346
+    "nonce": 346,
+    "miner": "wtanta84-rgb"
   },
   {
     "index": 347,
@@ -4278,6 +4625,934 @@
     },
     "hash": "183259ca93912e6c0aed6df6bf6819e86221d09f9a55a356d07e0402d4a35c16",
     "prevHash": "96bc7950bd2634e4fb1e79f8fbcfeaabc03b4a2e1f054e82f02e1dd4fda0167e",
-    "nonce": 347
+    "nonce": 347,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 348,
+    "timestamp": "2026-11-02T12:49:13.347904",
+    "data": "B-Coin Block 348",
+    "previous_hash": "183259ca93912e6c0aed6df6bf6819e86221d09f9a55a356d07e0402d4a35c16",
+    "hash": "0ea52db1ee035dd485aca3844c8a915dd8ff4f6c3b87509f7bb401a61b17ccbe",
+    "nonce": 10,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 349,
+    "timestamp": "2026-11-02T12:49:13.852360",
+    "data": "B-Coin Block 349",
+    "previous_hash": "0ea52db1ee035dd485aca3844c8a915dd8ff4f6c3b87509f7bb401a61b17ccbe",
+    "hash": "0df0f92f4a21f0cde19dd776a532fa9a1de908a7ea9414d3a5bb57b3768d32c3",
+    "nonce": 14,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 350,
+    "timestamp": "2026-11-02T12:49:14.357991",
+    "data": "B-Coin Block 350",
+    "previous_hash": "0df0f92f4a21f0cde19dd776a532fa9a1de908a7ea9414d3a5bb57b3768d32c3",
+    "hash": "0125dbc03366b8f165ad7a1514cc0871e2b76adb5886b797832f87b56966f1a9",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 351,
+    "timestamp": "2026-11-02T12:49:14.862114",
+    "data": "B-Coin Block 351",
+    "previous_hash": "0125dbc03366b8f165ad7a1514cc0871e2b76adb5886b797832f87b56966f1a9",
+    "hash": "08e217fd9202e1e1e8c53b645c7bc478c09c059090fe6b8c609b0a4fe683f4e4",
+    "nonce": 54,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 352,
+    "timestamp": "2026-11-02T12:49:15.366415",
+    "data": "B-Coin Block 352",
+    "previous_hash": "08e217fd9202e1e1e8c53b645c7bc478c09c059090fe6b8c609b0a4fe683f4e4",
+    "hash": "05a6b2989784a2b9a1f17f88857552f7a98ed99d36432e5067047dacd389c2fb",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 353,
+    "timestamp": "2026-11-02T12:49:15.871024",
+    "data": "B-Coin Block 353",
+    "previous_hash": "05a6b2989784a2b9a1f17f88857552f7a98ed99d36432e5067047dacd389c2fb",
+    "hash": "05b974d12701bc860cab18b64305b24ea1b7d4aa02597b524252ed7c1b046311",
+    "nonce": 7,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 354,
+    "timestamp": "2026-11-02T12:49:16.375673",
+    "data": "B-Coin Block 354",
+    "previous_hash": "05b974d12701bc860cab18b64305b24ea1b7d4aa02597b524252ed7c1b046311",
+    "hash": "026458efcf4d48203a3f10d2bcfd3a6b30fb5cf4fb8d2cfc8ef449fdcf02eb59",
+    "nonce": 17,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 355,
+    "timestamp": "2026-11-02T12:49:16.881888",
+    "data": "B-Coin Block 355",
+    "previous_hash": "026458efcf4d48203a3f10d2bcfd3a6b30fb5cf4fb8d2cfc8ef449fdcf02eb59",
+    "hash": "0718ad72efce8348991ea278aa3dec1ad6f4ddb0a2a7e068f27b89c12a70c292",
+    "nonce": 16,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 356,
+    "timestamp": "2026-11-02T12:49:17.387439",
+    "data": "B-Coin Block 356",
+    "previous_hash": "0718ad72efce8348991ea278aa3dec1ad6f4ddb0a2a7e068f27b89c12a70c292",
+    "hash": "03c6169342475c813432722c6a96987199a62e4d9a2ded854b78d469bb2462df",
+    "nonce": 10,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 357,
+    "timestamp": "2026-11-02T12:49:17.892795",
+    "data": "B-Coin Block 357",
+    "previous_hash": "03c6169342475c813432722c6a96987199a62e4d9a2ded854b78d469bb2462df",
+    "hash": "0761f71e84b291da73bd7edddea2de7ed4be27948ff2e7dca1e93853dd84f33e",
+    "nonce": 12,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 358,
+    "timestamp": "2026-11-02T12:49:18.398945",
+    "data": "B-Coin Block 358",
+    "previous_hash": "0761f71e84b291da73bd7edddea2de7ed4be27948ff2e7dca1e93853dd84f33e",
+    "hash": "03339129dc5eee816a2eb036bd24205d11a24a4674780863ac0f56a3f5e485f9",
+    "nonce": 35,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 359,
+    "timestamp": "2026-11-02T12:49:18.905139",
+    "data": "B-Coin Block 359",
+    "previous_hash": "03339129dc5eee816a2eb036bd24205d11a24a4674780863ac0f56a3f5e485f9",
+    "hash": "01cd89b7ae0aef6296d9ed29510cc6c4969abf4ad8513671be0bdd1eee751c90",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 360,
+    "timestamp": "2026-11-02T12:49:19.410822",
+    "data": "B-Coin Block 360",
+    "previous_hash": "01cd89b7ae0aef6296d9ed29510cc6c4969abf4ad8513671be0bdd1eee751c90",
+    "hash": "0b18af334a053a921696fe677f87febf041740705a640333c8f8c959d3107db0",
+    "nonce": 18,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 361,
+    "timestamp": "2026-11-02T12:49:19.916273",
+    "data": "B-Coin Block 361",
+    "previous_hash": "0b18af334a053a921696fe677f87febf041740705a640333c8f8c959d3107db0",
+    "hash": "05e9c6fe693ac6bfed8319adb0a41d006e007a4570d3ce651520a79836967d46",
+    "nonce": 28,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 362,
+    "timestamp": "2026-11-02T12:49:20.421877",
+    "data": "B-Coin Block 362",
+    "previous_hash": "05e9c6fe693ac6bfed8319adb0a41d006e007a4570d3ce651520a79836967d46",
+    "hash": "068b6b7e93872ec1cb6d46288d9dba1e7c595dd178795eb266a136b808487976",
+    "nonce": 23,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 363,
+    "timestamp": "2026-11-02T12:49:20.927934",
+    "data": "B-Coin Block 363",
+    "previous_hash": "068b6b7e93872ec1cb6d46288d9dba1e7c595dd178795eb266a136b808487976",
+    "hash": "00d9321251031b03c265bd0365abf3ec6b18ae980e187ae74ab831d0bd5ebaf6",
+    "nonce": 30,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 364,
+    "timestamp": "2026-11-02T12:49:21.433556",
+    "data": "B-Coin Block 364",
+    "previous_hash": "00d9321251031b03c265bd0365abf3ec6b18ae980e187ae74ab831d0bd5ebaf6",
+    "hash": "0916f758c333804b7a219646206d2096390e19e50edf48cd7bbf1c8f1fde3d1d",
+    "nonce": 3,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 365,
+    "timestamp": "2026-11-02T12:49:21.939083",
+    "data": "B-Coin Block 365",
+    "previous_hash": "0916f758c333804b7a219646206d2096390e19e50edf48cd7bbf1c8f1fde3d1d",
+    "hash": "0bd26e2fbfc2e834d0f726eefd10f86a672c170b1bca1e4362598259465db04e",
+    "nonce": 5,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 366,
+    "timestamp": "2026-11-02T12:49:22.444525",
+    "data": "B-Coin Block 366",
+    "previous_hash": "0bd26e2fbfc2e834d0f726eefd10f86a672c170b1bca1e4362598259465db04e",
+    "hash": "07f84daf5a65e84774fbc3a346cb0539add40413451cbf043ee5fd2f9141a8d8",
+    "nonce": 2,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 367,
+    "timestamp": "2026-11-02T12:49:22.949605",
+    "data": "B-Coin Block 367",
+    "previous_hash": "07f84daf5a65e84774fbc3a346cb0539add40413451cbf043ee5fd2f9141a8d8",
+    "hash": "0de0eefa9cfaa6ea6f2013ce6bd525450f94e7d68920d8e36e628177957b352d",
+    "nonce": 10,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 368,
+    "timestamp": "2026-11-02T12:49:23.454977",
+    "data": "B-Coin Block 368",
+    "previous_hash": "0de0eefa9cfaa6ea6f2013ce6bd525450f94e7d68920d8e36e628177957b352d",
+    "hash": "0b0b28c38048a87d08e972bf209796e5b34c3181a4b6fcb47c8f0f85c63aeb53",
+    "nonce": 2,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 369,
+    "timestamp": "2026-11-02T12:49:23.960339",
+    "data": "B-Coin Block 369",
+    "previous_hash": "0b0b28c38048a87d08e972bf209796e5b34c3181a4b6fcb47c8f0f85c63aeb53",
+    "hash": "02497cd048436aaa4c034f3ef01c8e7b1cd2e8941c9fc081b64cb757db845ba7",
+    "nonce": 38,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 370,
+    "timestamp": "2026-11-02T12:49:24.466923",
+    "data": "B-Coin Block 370",
+    "previous_hash": "02497cd048436aaa4c034f3ef01c8e7b1cd2e8941c9fc081b64cb757db845ba7",
+    "hash": "0a1b8c456fbaafa311ba3be395986a2f812c4a5492abef81834c9c759f5c067a",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 371,
+    "timestamp": "2026-11-02T12:49:24.973200",
+    "data": "B-Coin Block 371",
+    "previous_hash": "0a1b8c456fbaafa311ba3be395986a2f812c4a5492abef81834c9c759f5c067a",
+    "hash": "076d098c20557b3df45ff3c72d0e7408cf634433e4316ccbcd93149a080e18f0",
+    "nonce": 4,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 372,
+    "timestamp": "2026-11-02T12:49:25.479835",
+    "data": "B-Coin Block 372",
+    "previous_hash": "076d098c20557b3df45ff3c72d0e7408cf634433e4316ccbcd93149a080e18f0",
+    "hash": "05fc585ceee0d7ea0bca74c5880715a311684617fba245b841923cce05fb8cd9",
+    "nonce": 5,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 373,
+    "timestamp": "2026-11-02T12:49:25.985786",
+    "data": "B-Coin Block 373",
+    "previous_hash": "05fc585ceee0d7ea0bca74c5880715a311684617fba245b841923cce05fb8cd9",
+    "hash": "083715c00798a0617d7ccf01b5c291115a318a80c1b92464f80827023fc1cb6c",
+    "nonce": 12,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 374,
+    "timestamp": "2026-11-02T12:49:26.492363",
+    "data": "B-Coin Block 374",
+    "previous_hash": "083715c00798a0617d7ccf01b5c291115a318a80c1b92464f80827023fc1cb6c",
+    "hash": "0aee11ea9982fa1da479872ca83a01b339109d99d999b1ee53a475a1880c79a6",
+    "nonce": 4,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 375,
+    "timestamp": "2026-11-02T12:49:27.001553",
+    "data": "B-Coin Block 375",
+    "previous_hash": "0aee11ea9982fa1da479872ca83a01b339109d99d999b1ee53a475a1880c79a6",
+    "hash": "089bcb07de02a1f981dc996dff306cb65ebea40d53a765cda322813a34a6ef30",
+    "nonce": 12,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 376,
+    "timestamp": "2026-11-02T12:49:27.508764",
+    "data": "B-Coin Block 376",
+    "previous_hash": "089bcb07de02a1f981dc996dff306cb65ebea40d53a765cda322813a34a6ef30",
+    "hash": "0a47164018ca3d07150c2f42c564e37242c0c4d9d9d62d0d411479df26f445bf",
+    "nonce": 12,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 377,
+    "timestamp": "2026-11-02T12:49:28.015295",
+    "data": "B-Coin Block 377",
+    "previous_hash": "0a47164018ca3d07150c2f42c564e37242c0c4d9d9d62d0d411479df26f445bf",
+    "hash": "0217147d9ce96d38cefe8d788854b04a6373dcec29e71a6622d582a3d2f3ec06",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 378,
+    "timestamp": "2026-11-02T12:49:28.521064",
+    "data": "B-Coin Block 378",
+    "previous_hash": "0217147d9ce96d38cefe8d788854b04a6373dcec29e71a6622d582a3d2f3ec06",
+    "hash": "01b6a09067fc5b0b6dd32c164cf9c378650315466715435f9feece0b7e812bb2",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 379,
+    "timestamp": "2026-11-02T12:49:29.027320",
+    "data": "B-Coin Block 379",
+    "previous_hash": "01b6a09067fc5b0b6dd32c164cf9c378650315466715435f9feece0b7e812bb2",
+    "hash": "0cd2b260ced8a08031d7cdf05235d9d9396fc4b7b9fedb3ad4e90ae67d49b943",
+    "nonce": 20,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 380,
+    "timestamp": "2026-11-02T12:49:29.533676",
+    "data": "B-Coin Block 380",
+    "previous_hash": "0cd2b260ced8a08031d7cdf05235d9d9396fc4b7b9fedb3ad4e90ae67d49b943",
+    "hash": "0a55e03bc3ec1358e81929d5515edd4d717b71939b582c576e9688f1c97ac778",
+    "nonce": 24,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 381,
+    "timestamp": "2026-11-02T12:49:30.039540",
+    "data": "B-Coin Block 381",
+    "previous_hash": "0a55e03bc3ec1358e81929d5515edd4d717b71939b582c576e9688f1c97ac778",
+    "hash": "0d99d6627a87f55e1d15282aeaf0f486d9fd9eb7445d1feccedb82c095dadc93",
+    "nonce": 5,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 382,
+    "timestamp": "2026-11-02T12:49:30.545781",
+    "data": "B-Coin Block 382",
+    "previous_hash": "0d99d6627a87f55e1d15282aeaf0f486d9fd9eb7445d1feccedb82c095dadc93",
+    "hash": "074756808e1f1162fe22462875eb5492eb34c47e75d69541ffc0e6c0f9e9a8d6",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 383,
+    "timestamp": "2026-11-02T12:49:31.051354",
+    "data": "B-Coin Block 383",
+    "previous_hash": "074756808e1f1162fe22462875eb5492eb34c47e75d69541ffc0e6c0f9e9a8d6",
+    "hash": "0014a1bef7037a1718d54fe207fbd970fabc9eb246b5daf302d6749fbb86ac84",
+    "nonce": 16,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 384,
+    "timestamp": "2026-11-02T12:49:31.556796",
+    "data": "B-Coin Block 384",
+    "previous_hash": "0014a1bef7037a1718d54fe207fbd970fabc9eb246b5daf302d6749fbb86ac84",
+    "hash": "07f5a3b7fca98ae8fd9578e8c902bf68c10fff26a9c2ffc5014267833adbc47a",
+    "nonce": 17,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 385,
+    "timestamp": "2026-11-02T12:49:32.062850",
+    "data": "B-Coin Block 385",
+    "previous_hash": "07f5a3b7fca98ae8fd9578e8c902bf68c10fff26a9c2ffc5014267833adbc47a",
+    "hash": "0a7ddfb805d8e3f0dca67594e6310b0fc7df2bc9c05309ae48e6825a461c7f8f",
+    "nonce": 78,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 386,
+    "timestamp": "2026-11-02T12:49:32.569314",
+    "data": "B-Coin Block 386",
+    "previous_hash": "0a7ddfb805d8e3f0dca67594e6310b0fc7df2bc9c05309ae48e6825a461c7f8f",
+    "hash": "0bb9ff48de7ba44200f758f48fc839ed48dd5cadc15b7fe54393fb99ff7b1fc8",
+    "nonce": 2,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 387,
+    "timestamp": "2026-11-02T12:49:33.075093",
+    "data": "B-Coin Block 387",
+    "previous_hash": "0bb9ff48de7ba44200f758f48fc839ed48dd5cadc15b7fe54393fb99ff7b1fc8",
+    "hash": "0992f9ab7ff40f2d8d2d6c9bf2ace1d669a570e6eca7b3a9701ad0027d9b0217",
+    "nonce": 7,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 388,
+    "timestamp": "2026-11-02T12:49:33.580825",
+    "data": "B-Coin Block 388",
+    "previous_hash": "0992f9ab7ff40f2d8d2d6c9bf2ace1d669a570e6eca7b3a9701ad0027d9b0217",
+    "hash": "03541d4d6afa60e9d08e69ee64d0fbc7eb93b14494ae0078ef249aac0739ad8b",
+    "nonce": 49,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 389,
+    "timestamp": "2026-11-02T12:49:34.086570",
+    "data": "B-Coin Block 389",
+    "previous_hash": "03541d4d6afa60e9d08e69ee64d0fbc7eb93b14494ae0078ef249aac0739ad8b",
+    "hash": "0b7174f30e1d13ae87ff4be0e6d4cd68c16612b0b3edf2489ddd45ee079247be",
+    "nonce": 4,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 390,
+    "timestamp": "2026-11-02T12:49:34.592244",
+    "data": "B-Coin Block 390",
+    "previous_hash": "0b7174f30e1d13ae87ff4be0e6d4cd68c16612b0b3edf2489ddd45ee079247be",
+    "hash": "00f9a9d032ab230af50d73cb221df113d18a9dc63b8a9e131d61d9a80b527f9e",
+    "nonce": 24,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 391,
+    "timestamp": "2026-11-02T12:49:35.098410",
+    "data": "B-Coin Block 391",
+    "previous_hash": "00f9a9d032ab230af50d73cb221df113d18a9dc63b8a9e131d61d9a80b527f9e",
+    "hash": "096467506d16c7a4298537f7a36ad6a03184a8b9af4e29a8d2df00af406501bb",
+    "nonce": 17,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 392,
+    "timestamp": "2026-11-02T12:49:35.604416",
+    "data": "B-Coin Block 392",
+    "previous_hash": "096467506d16c7a4298537f7a36ad6a03184a8b9af4e29a8d2df00af406501bb",
+    "hash": "09f6125d57f5a4e6f51add965fc10e2d55012ad3e9fb6435cc0cdd2747180374",
+    "nonce": 21,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 393,
+    "timestamp": "2026-11-02T12:49:36.110594",
+    "data": "B-Coin Block 393",
+    "previous_hash": "09f6125d57f5a4e6f51add965fc10e2d55012ad3e9fb6435cc0cdd2747180374",
+    "hash": "070e3f02374845c88e88a9ec47a2ce5f7dd8d5f1ac695bac9fc8dc0ad65fe1b2",
+    "nonce": 6,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 394,
+    "timestamp": "2026-11-02T12:49:36.616373",
+    "data": "B-Coin Block 394",
+    "previous_hash": "070e3f02374845c88e88a9ec47a2ce5f7dd8d5f1ac695bac9fc8dc0ad65fe1b2",
+    "hash": "018295e861a18aca7d61222feff85a7b60741cd50ef1800dadbb98d45e95949a",
+    "nonce": 22,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 395,
+    "timestamp": "2026-11-02T12:49:37.122650",
+    "data": "B-Coin Block 395",
+    "previous_hash": "018295e861a18aca7d61222feff85a7b60741cd50ef1800dadbb98d45e95949a",
+    "hash": "0c780b965ec4d645561806e633d523159fa28594e6d5fe9d8f1ae871c88c9535",
+    "nonce": 32,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 396,
+    "timestamp": "2026-11-02T12:49:37.628622",
+    "data": "B-Coin Block 396",
+    "previous_hash": "0c780b965ec4d645561806e633d523159fa28594e6d5fe9d8f1ae871c88c9535",
+    "hash": "05a08069deb42e426f0c6b0a0b742e821de7aa4081b2339768a66846aa0d3fdf",
+    "nonce": 39,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 397,
+    "timestamp": "2026-11-02T12:49:38.134557",
+    "data": "B-Coin Block 397",
+    "previous_hash": "05a08069deb42e426f0c6b0a0b742e821de7aa4081b2339768a66846aa0d3fdf",
+    "hash": "08e5b0774cdc3be610e48b694e5faa246b799bc9042f0183e91a345c1b89b46f",
+    "nonce": 29,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 398,
+    "timestamp": "2026-11-02T12:49:38.640719",
+    "data": "B-Coin Block 398",
+    "previous_hash": "08e5b0774cdc3be610e48b694e5faa246b799bc9042f0183e91a345c1b89b46f",
+    "hash": "00f487837209edb52e76902828a2f11e3243d4cd7f9a92aa0a8e02a3924f3a76",
+    "nonce": 7,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 399,
+    "timestamp": "2026-11-02T12:49:39.146772",
+    "data": "B-Coin Block 399",
+    "previous_hash": "00f487837209edb52e76902828a2f11e3243d4cd7f9a92aa0a8e02a3924f3a76",
+    "hash": "08d4c8978da92acaadeccbeb007c8bb016a4526822ccee73e719acedd7f12c53",
+    "nonce": 3,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 400,
+    "timestamp": "2026-11-02T12:49:39.652680",
+    "data": "B-Coin Block 400",
+    "previous_hash": "08d4c8978da92acaadeccbeb007c8bb016a4526822ccee73e719acedd7f12c53",
+    "hash": "0aee5630b19a3cbebeacaf141c30d95823aca5498fadd488ff715b93bfebde92",
+    "nonce": 13,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 401,
+    "timestamp": "2026-11-02T12:49:40.158447",
+    "data": "B-Coin Block 401",
+    "previous_hash": "0aee5630b19a3cbebeacaf141c30d95823aca5498fadd488ff715b93bfebde92",
+    "hash": "0d71e03193a73afdc709462300a0fb7b716007950bffc32b0731902a5e64152b",
+    "nonce": 6,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 402,
+    "timestamp": "2026-11-02T12:49:40.664191",
+    "data": "B-Coin Block 402",
+    "previous_hash": "0d71e03193a73afdc709462300a0fb7b716007950bffc32b0731902a5e64152b",
+    "hash": "0ddbb4a1366acee5493025ba55e139a2ff96ce56487d18ced148b34a7a47bec7",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 403,
+    "timestamp": "2026-11-02T12:49:41.170135",
+    "data": "B-Coin Block 403",
+    "previous_hash": "0ddbb4a1366acee5493025ba55e139a2ff96ce56487d18ced148b34a7a47bec7",
+    "hash": "0155d447c775eaad4ff473ef154ea315384c54efc971cf620259221fe7fba271",
+    "nonce": 35,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 404,
+    "timestamp": "2026-11-02T12:49:41.676197",
+    "data": "B-Coin Block 404",
+    "previous_hash": "0155d447c775eaad4ff473ef154ea315384c54efc971cf620259221fe7fba271",
+    "hash": "0cd7ecf5d92b0a1315ac7ae8d7e2880ccc75ca77663c864f996c413d668e1509",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 405,
+    "timestamp": "2026-11-02T12:49:42.182167",
+    "data": "B-Coin Block 405",
+    "previous_hash": "0cd7ecf5d92b0a1315ac7ae8d7e2880ccc75ca77663c864f996c413d668e1509",
+    "hash": "0d4be7d342d9062bfa2639aa6e00d3a00a103c14ec26c834027bbececc647fae",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 406,
+    "timestamp": "2026-11-02T12:49:42.688210",
+    "data": "B-Coin Block 406",
+    "previous_hash": "0d4be7d342d9062bfa2639aa6e00d3a00a103c14ec26c834027bbececc647fae",
+    "hash": "078e1782cbf7a8958019ef07573bbb0bdd1fdacaa94d31881ba34c64bd32ac76",
+    "nonce": 25,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 407,
+    "timestamp": "2026-11-02T12:49:43.194381",
+    "data": "B-Coin Block 407",
+    "previous_hash": "078e1782cbf7a8958019ef07573bbb0bdd1fdacaa94d31881ba34c64bd32ac76",
+    "hash": "0a33b8b4519daa9ec72c431b260068c96a7a3f674ab002bb7b2a8527ad0490bf",
+    "nonce": 4,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 408,
+    "timestamp": "2026-11-02T12:49:43.700259",
+    "data": "B-Coin Block 408",
+    "previous_hash": "0a33b8b4519daa9ec72c431b260068c96a7a3f674ab002bb7b2a8527ad0490bf",
+    "hash": "023e1c169e83db695f157228d519b5f5a9029846abf4f7434e1cfdaf242debd0",
+    "nonce": 8,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 409,
+    "timestamp": "2026-11-02T12:49:44.206277",
+    "data": "B-Coin Block 409",
+    "previous_hash": "023e1c169e83db695f157228d519b5f5a9029846abf4f7434e1cfdaf242debd0",
+    "hash": "058a01a242d6a18b3e0b9ffeba69c91563b0be42d6dc08608f3e991a28fff467",
+    "nonce": 7,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 410,
+    "timestamp": "2026-11-02T12:49:44.712198",
+    "data": "B-Coin Block 410",
+    "previous_hash": "058a01a242d6a18b3e0b9ffeba69c91563b0be42d6dc08608f3e991a28fff467",
+    "hash": "09cfb7507a430b4368fbc36ee7b1e3069bc72ead56a0da10068b5238aae6a103",
+    "nonce": 22,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 411,
+    "timestamp": "2026-11-02T12:49:45.218326",
+    "data": "B-Coin Block 411",
+    "previous_hash": "09cfb7507a430b4368fbc36ee7b1e3069bc72ead56a0da10068b5238aae6a103",
+    "hash": "0fdb964a091ae1f00b959c4e63a1fef4fda7d204b0eda6403aeb0546ee97a02c",
+    "nonce": 6,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 412,
+    "timestamp": "2026-11-02T12:49:45.724526",
+    "data": "B-Coin Block 412",
+    "previous_hash": "0fdb964a091ae1f00b959c4e63a1fef4fda7d204b0eda6403aeb0546ee97a02c",
+    "hash": "043c8f5ea42b2a0c8c58ea97064dd0922a15988d096545695883b2860458d281",
+    "nonce": 9,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 413,
+    "timestamp": "2026-11-02T12:49:46.233655",
+    "data": "B-Coin Block 413",
+    "previous_hash": "043c8f5ea42b2a0c8c58ea97064dd0922a15988d096545695883b2860458d281",
+    "hash": "0fc603935204cc7d0eac3d3901cc280859cb6eacded787d5b15acf5711cc5a70",
+    "nonce": 37,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 414,
+    "timestamp": "2026-11-02T12:49:46.739923",
+    "data": "B-Coin Block 414",
+    "previous_hash": "0fc603935204cc7d0eac3d3901cc280859cb6eacded787d5b15acf5711cc5a70",
+    "hash": "05397ce210742906f3919e07dd295a30973920ebf6c9e6ed5b680956862f84b6",
+    "nonce": 23,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 415,
+    "timestamp": "2026-11-02T12:49:47.246053",
+    "data": "B-Coin Block 415",
+    "previous_hash": "05397ce210742906f3919e07dd295a30973920ebf6c9e6ed5b680956862f84b6",
+    "hash": "0980d59491c13ea9f95bff8a5a76285cb811009b4f74874a7805a387fb8493ee",
+    "nonce": 9,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 416,
+    "timestamp": "2026-11-02T12:49:47.752213",
+    "data": "B-Coin Block 416",
+    "previous_hash": "0980d59491c13ea9f95bff8a5a76285cb811009b4f74874a7805a387fb8493ee",
+    "hash": "0775dba9418f05a8d35a87785e3491457a4d580428291872fc3f2b7a3f36d903",
+    "nonce": 15,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 417,
+    "timestamp": "2026-11-02T12:49:48.258245",
+    "data": "B-Coin Block 417",
+    "previous_hash": "0775dba9418f05a8d35a87785e3491457a4d580428291872fc3f2b7a3f36d903",
+    "hash": "025de2082dc7f3795573d94709424acf9e4e484db55293df27bf76ef06e35e63",
+    "nonce": 15,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 418,
+    "timestamp": "2026-11-02T12:49:48.764571",
+    "data": "B-Coin Block 418",
+    "previous_hash": "025de2082dc7f3795573d94709424acf9e4e484db55293df27bf76ef06e35e63",
+    "hash": "07d75f904912deb0dd1abba6142436685e86bdf2215f1a0b23d7c1737cad349a",
+    "nonce": 7,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 419,
+    "timestamp": "2026-11-02T12:49:49.270690",
+    "data": "B-Coin Block 419",
+    "previous_hash": "07d75f904912deb0dd1abba6142436685e86bdf2215f1a0b23d7c1737cad349a",
+    "hash": "0f244ca0dfa52407b44e6e33194329282fb2c4f4dcb0e600b8db5e24c7d8e73f",
+    "nonce": 5,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 420,
+    "timestamp": "2026-11-02T12:49:49.776722",
+    "data": "B-Coin Block 420",
+    "previous_hash": "0f244ca0dfa52407b44e6e33194329282fb2c4f4dcb0e600b8db5e24c7d8e73f",
+    "hash": "019fba3dc24b8c949f90aac547c717724a33e872dacf4ae29b3c2c0772303a1b",
+    "nonce": 18,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 421,
+    "timestamp": "2026-11-02T12:49:50.282806",
+    "data": "B-Coin Block 421",
+    "previous_hash": "019fba3dc24b8c949f90aac547c717724a33e872dacf4ae29b3c2c0772303a1b",
+    "hash": "0366c1c0ec8f327eb5e5aabe120473d9c6ba117392e20750ba361b9e9a7116d7",
+    "nonce": 5,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 422,
+    "timestamp": "2026-11-02T12:49:50.788918",
+    "data": "B-Coin Block 422",
+    "previous_hash": "0366c1c0ec8f327eb5e5aabe120473d9c6ba117392e20750ba361b9e9a7116d7",
+    "hash": "0cdaef199a587c0df4338c328386f9d6feb66173341138a726a13b371686471f",
+    "nonce": 20,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 423,
+    "timestamp": "2026-11-02T12:49:51.294932",
+    "data": "B-Coin Block 423",
+    "previous_hash": "0cdaef199a587c0df4338c328386f9d6feb66173341138a726a13b371686471f",
+    "hash": "005ee1a61ac99418b0b33db5cea73e911e5900c41e91dbfd95d33c3f1abb1d97",
+    "nonce": 10,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 424,
+    "timestamp": "2026-11-02T12:49:51.801113",
+    "data": "B-Coin Block 424",
+    "previous_hash": "005ee1a61ac99418b0b33db5cea73e911e5900c41e91dbfd95d33c3f1abb1d97",
+    "hash": "03879648eca18e3ddec399dd0ebb2069cd1ffe858457e5f42bf36c515bfbbc0c",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 425,
+    "timestamp": "2026-11-02T12:49:52.307117",
+    "data": "B-Coin Block 425",
+    "previous_hash": "03879648eca18e3ddec399dd0ebb2069cd1ffe858457e5f42bf36c515bfbbc0c",
+    "hash": "00d4a6f94f933d960c68bb2313930393d71d1cf488153f9e62fea9b53f381be5",
+    "nonce": 22,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 426,
+    "timestamp": "2026-11-02T12:49:52.813161",
+    "data": "B-Coin Block 426",
+    "previous_hash": "00d4a6f94f933d960c68bb2313930393d71d1cf488153f9e62fea9b53f381be5",
+    "hash": "0443b8e3eb83b22419b528c87fd9d4871431b3e944220868ed13679fc485ccea",
+    "nonce": 14,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 427,
+    "timestamp": "2026-11-02T12:49:53.319110",
+    "data": "B-Coin Block 427",
+    "previous_hash": "0443b8e3eb83b22419b528c87fd9d4871431b3e944220868ed13679fc485ccea",
+    "hash": "04725fe65707dbb702a505b801462b820f7a08b910ba09976f41f0645f943b00",
+    "nonce": 50,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 428,
+    "timestamp": "2026-11-02T12:49:53.825258",
+    "data": "B-Coin Block 428",
+    "previous_hash": "04725fe65707dbb702a505b801462b820f7a08b910ba09976f41f0645f943b00",
+    "hash": "0572c968b67d0a35654dd26c86616c7e37883a5b430159dbb575f89aec727623",
+    "nonce": 21,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 429,
+    "timestamp": "2026-11-02T12:49:54.331565",
+    "data": "B-Coin Block 429",
+    "previous_hash": "0572c968b67d0a35654dd26c86616c7e37883a5b430159dbb575f89aec727623",
+    "hash": "051c9e55ce9add98b7e891521824353d8c781f1de2623497a01e2ca72195ac42",
+    "nonce": 30,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 430,
+    "timestamp": "2026-11-02T12:49:54.838062",
+    "data": "B-Coin Block 430",
+    "previous_hash": "051c9e55ce9add98b7e891521824353d8c781f1de2623497a01e2ca72195ac42",
+    "hash": "01fd04aa81ede32fe7f326f2f7d268ec5b15cecfc29204d110c576dd5100d58f",
+    "nonce": 63,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 431,
+    "timestamp": "2026-11-02T12:49:55.343483",
+    "data": "B-Coin Block 431",
+    "previous_hash": "01fd04aa81ede32fe7f326f2f7d268ec5b15cecfc29204d110c576dd5100d58f",
+    "hash": "0ed60ed6656870076e32b36a1ea07ae03327b5bc1eae1d484e19d11718d6dc00",
+    "nonce": 17,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 432,
+    "timestamp": "2026-11-02T12:49:55.848845",
+    "data": "B-Coin Block 432",
+    "previous_hash": "0ed60ed6656870076e32b36a1ea07ae03327b5bc1eae1d484e19d11718d6dc00",
+    "hash": "045b45f08d3d290eaa9205d30512f2456862238f99cce2317cfacc753482fdc7",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 433,
+    "timestamp": "2026-11-02T12:49:56.354958",
+    "data": "B-Coin Block 433",
+    "previous_hash": "045b45f08d3d290eaa9205d30512f2456862238f99cce2317cfacc753482fdc7",
+    "hash": "0e7a304237d475b6f3e3e0acb8b2f85d6f509a98ffda7b3a135b0fd8434056ee",
+    "nonce": 36,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 434,
+    "timestamp": "2026-11-02T12:49:56.861142",
+    "data": "B-Coin Block 434",
+    "previous_hash": "0e7a304237d475b6f3e3e0acb8b2f85d6f509a98ffda7b3a135b0fd8434056ee",
+    "hash": "05fe609b3d826d49a07fa5c22aa8621e860287718bd7c0de97b68d89b0704feb",
+    "nonce": 9,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 435,
+    "timestamp": "2026-11-02T12:49:57.367403",
+    "data": "B-Coin Block 435",
+    "previous_hash": "05fe609b3d826d49a07fa5c22aa8621e860287718bd7c0de97b68d89b0704feb",
+    "hash": "08505476063c7702147525e773e47abee2492c85cd90f6475696f17951b533a2",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 436,
+    "timestamp": "2026-11-02T12:49:57.873668",
+    "data": "B-Coin Block 436",
+    "previous_hash": "08505476063c7702147525e773e47abee2492c85cd90f6475696f17951b533a2",
+    "hash": "0a1a9c3c381bc90e755d639e395f7cb57701d8ec7f8f6b3d60817c1d4e7a4e52",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 437,
+    "timestamp": "2026-11-02T12:49:58.380088",
+    "data": "B-Coin Block 437",
+    "previous_hash": "0a1a9c3c381bc90e755d639e395f7cb57701d8ec7f8f6b3d60817c1d4e7a4e52",
+    "hash": "0c03614398411953bf54d5eb0899e07fe7aaa5900ee49319f127ca1585ca4b81",
+    "nonce": 18,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 438,
+    "timestamp": "2026-11-02T12:49:58.886486",
+    "data": "B-Coin Block 438",
+    "previous_hash": "0c03614398411953bf54d5eb0899e07fe7aaa5900ee49319f127ca1585ca4b81",
+    "hash": "0b4598334e68cf8adfa0887fd7f3909386ac705eb5086e4de99eb14dff7167f8",
+    "nonce": 14,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 439,
+    "timestamp": "2026-11-02T12:49:59.392819",
+    "data": "B-Coin Block 439",
+    "previous_hash": "0b4598334e68cf8adfa0887fd7f3909386ac705eb5086e4de99eb14dff7167f8",
+    "hash": "03d7e1d2c33282c013f218e6bf80417ce8a6097d3ecdedd46c15837babe8f022",
+    "nonce": 2,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 440,
+    "timestamp": "2026-11-02T12:49:59.898923",
+    "data": "B-Coin Block 440",
+    "previous_hash": "03d7e1d2c33282c013f218e6bf80417ce8a6097d3ecdedd46c15837babe8f022",
+    "hash": "05ff1d6480283edc315f774561d47cbf6f9a2cb412e44f9e5df00162ea8708ee",
+    "nonce": 4,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 441,
+    "timestamp": "2026-11-02T12:50:00.405171",
+    "data": "B-Coin Block 441",
+    "previous_hash": "05ff1d6480283edc315f774561d47cbf6f9a2cb412e44f9e5df00162ea8708ee",
+    "hash": "052629a5e64a21d62babce863977252f0f5235ac8e50aa6d6f00cf36ae1cc66e",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 442,
+    "timestamp": "2026-11-02T12:50:00.911263",
+    "data": "B-Coin Block 442",
+    "previous_hash": "052629a5e64a21d62babce863977252f0f5235ac8e50aa6d6f00cf36ae1cc66e",
+    "hash": "082af42ab638938275fe1c1e7c2bb74965694bd8af77bd7f139039f0940fbaa6",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 443,
+    "timestamp": "2026-11-02T12:50:01.415961",
+    "data": "B-Coin Block 443",
+    "previous_hash": "082af42ab638938275fe1c1e7c2bb74965694bd8af77bd7f139039f0940fbaa6",
+    "hash": "0197214641209be07802760b751decfc947b7a596ca06d5c31a9179e44989b8f",
+    "nonce": 22,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 444,
+    "timestamp": "2026-11-02T12:50:01.922411",
+    "data": "B-Coin Block 444",
+    "previous_hash": "0197214641209be07802760b751decfc947b7a596ca06d5c31a9179e44989b8f",
+    "hash": "0c8c446ce6ce6b6b857c0844aa24e5507fe7bb3eb62b0153935807370ab7ec07",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 445,
+    "timestamp": "2026-11-02T12:50:02.428733",
+    "data": "B-Coin Block 445",
+    "previous_hash": "0c8c446ce6ce6b6b857c0844aa24e5507fe7bb3eb62b0153935807370ab7ec07",
+    "hash": "0d036b3a1e1898c831ec83b7c16d177a9074237579e0b66731b1c071fd205f29",
+    "nonce": 1,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 446,
+    "timestamp": "2026-11-02T12:50:02.934663",
+    "data": "B-Coin Block 446",
+    "previous_hash": "0d036b3a1e1898c831ec83b7c16d177a9074237579e0b66731b1c071fd205f29",
+    "hash": "0fa548e42a8bb44a09151ed0368b13f2af4f7169d8e065d2d61a6f42af5fdeba",
+    "nonce": 9,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 447,
+    "timestamp": "2026-11-02T12:50:03.440730",
+    "data": "B-Coin Block 447",
+    "previous_hash": "0fa548e42a8bb44a09151ed0368b13f2af4f7169d8e065d2d61a6f42af5fdeba",
+    "hash": "0a9c31770184168e2c9544d34c2f102eea8d15f89a345917ae89a21b5e69ba8b",
+    "nonce": 0,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 448,
+    "timestamp": "2026-11-02T12:50:03.946787",
+    "data": "B-Coin Block 448",
+    "previous_hash": "0a9c31770184168e2c9544d34c2f102eea8d15f89a345917ae89a21b5e69ba8b",
+    "hash": "06674363acad621ce95a14542f3d3ac6abb4aa4cd426c75e764f3ed666a87773",
+    "nonce": 17,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 449,
+    "timestamp": "2026-11-02T12:50:04.453072",
+    "data": "B-Coin Block 449",
+    "previous_hash": "06674363acad621ce95a14542f3d3ac6abb4aa4cd426c75e764f3ed666a87773",
+    "hash": "044f13373a960b5899832aa57df5db78f40fef4a3eaf3921f457b3cf6251c8f0",
+    "nonce": 11,
+    "miner": "wtanta84-rgb"
+  },
+  {
+    "index": 450,
+    "timestamp": "2026-11-02T12:50:04.959329",
+    "data": "B-Coin Block 450",
+    "previous_hash": "044f13373a960b5899832aa57df5db78f40fef4a3eaf3921f457b3cf6251c8f0",
+    "hash": "0661e12d38690d8c6ce855df8d24723bc2a3cb2cf273051c551e332f0fba2c64",
+    "nonce": 41,
+    "miner": "wtanta84-rgb"
   }
 ]
