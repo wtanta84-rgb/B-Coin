@@ -1,47 +1,56 @@
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>BCOIN 451 TRANSPARAN</title>
-<style>body{background:#000;color:#ffb700;font-family:monospace;padding:12px}
-.box{border:2px solid #ffb700;border-radius:14px;padding:14px;text-align:center;margin-bottom:14px}
-.green{border-color:#00ff88;color:#00ff88}
-a{color:#00ff88;word-break:break-all}
-</style></head><body>
-<div class="box green" id="top">Loading 451 Blocks...</div>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>B-Coin Explorer 451 - TRANSPARAN</title>
+<style>
+*{box-sizing:border-box}
+body{background:#050505;color:#e0e0e0;font-family:Consolas,monospace;margin:0;padding:10px}
+h1{color:#ffb700;text-align:center;margin:8px 0;font-size:22px}
+.box{border:1.5px solid #ffb700;border-radius:12px;padding:12px;margin-bottom:12px;background:#0f0f0f}
+.box.green{border-color:#00ff88;color:#00ff88;text-align:center}
+.box.red{border-color:#ff3344;color:#ff8888}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.tab{padding:8px 14px;border:1px solid #ffb700;border-radius:20px;cursor:pointer;background:#111}
+.tab.active{background:#ffb700;color:#000;font-weight:bold}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{color:#ffb700;text-align:left;border-bottom:1px solid #333;padding:6px}
+td{padding:6px;border-bottom:1px solid #222;word-break:break-all}
+a{color:#00ff88}
+.badge{background:#222;padding:2px 8px;border-radius:10px;font-size:11px}
+.search{width:100%;padding:10px;border-radius:8px;border:1px solid #ffb700;background:#000;color:#fff;margin-bottom:8px}
+</style>
+</head>
+<body>
+<h1>💰 B-COIN EXPLORER</h1>
+<div class="box green" id="summary">Loading blockchain.json...</div>
+
 <div class="box">
-Source: blockchain.json - Terbuka Untuk Umum<br>
-Auto Sync: <span id="sync">-</span> | Validasi: <span id="val">-</span><br><br>
-<a href="https://github.com/wtanta84-rgb/B-Coin/blob/main/blockchain.json" target="_blank">📂 Lihat blockchain.json ASLI</a><br>
-<a href="https://cdn.jsdelivr.net/gh/wtanta84-rgb/B-Coin@main/blockchain.json" target="_blank">📂 CDN (Anti Cache)</a>
+<strong>Source:</strong> ./blockchain.json (Lokal - Pasti Sinkron)<br>
+<strong>Sync:</strong> <span id="syncTime">-</span> | <strong>Status:</strong> <span id="chainStatus">Checking...</span><br>
+<strong>Link Raw:</strong> <a href="./blockchain.json" target="_blank">./blockchain.json</a> | <a href="https://github.com/wtanta84-rgb/B-Coin/blob/main/blockchain.json" target="_blank">Github</a>
 </div>
-<div class="box" style="text-align:left">
-Supply: <span id="supply">-</span> BCOIN | Blocks: <span id="blocks">-</span><br><br>
-<div id="wallets">Loading wallets...</div>
+
+<div class="tabs">
+<div class="tab active" data-t="wallets">👑 Wallets</div>
+<div class="tab" data-t="mining">⛏️ Mining</div>
+<div class="tab" data-t="transfer">💸 Transfer</div>
+<div class="tab" data-t="blocks">📦 All Blocks</div>
 </div>
+
+<div class="box">
+<input id="search" class="search" placeholder="Cari miner / wallet / hash... (contoh: wtanta84)">
+<div id="content">Loading...</div>
+</div>
+
 <script>
-async function load(){
-  const url=`https://cdn.jsdelivr.net/gh/wtanta84-rgb/B-Coin@main/blockchain.json?v=${Date.now()}`;
+let CHAIN=[];
+let BALANCES={};
+
+async function loadChain(){
+  const url=`./blockchain.json?v=${Date.now()}`;
   try{
-    const res=await fetch(url,{cache:'no-store'});
-    const chain=await res.json();
-    let ok=true;
-    for(let i=1;i<chain.length;i++){
-      if(chain[i].previous_hash!==chain[i-1].hash){ok=false;break;}
-    }
-    document.getElementById('top').innerHTML=`${chain.length} Blocks ${chain.length*50} BCOIN TRANSPARAN ✅ VALID<br>Blocks: ${chain.length} | Supply: ${chain.length*50} | Richest: wtanta84 👑 ${chain.length*50}<br><br>${ok?'✅ Chain VALID 100% - Tidak Ada Curang!':'❌ Chain Rusak'}`;
-    document.getElementById('supply').innerText=chain.length*50;
-    document.getElementById('blocks').innerText=chain.length;
-    const now=new Date().toLocaleTimeString('id-ID');
-    document.getElementById('sync').innerText=now;
-    document.getElementById('val').innerText=now+' - VALID';
-    const counts={};
-    chain.forEach(b=>counts[b.miner]=(counts[b.miner]||0)+1);
-    let html='💰 Top Wallets - Terbuka<br>';
-    Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([m,c])=>{
-      html+=`${m} ${m.includes('wtanta84')?'👑 BOSS':''} - ${c*50} BCOIN terverifikasi<br>`;
-    });
-    document.getElementById('wallets').innerHTML=html;
-  }catch(e){document.getElementById('top').innerText='Error load: '+e;}
-}
-load();
-</script>
-</body></html>
+    const r=await fetch(url,{cache:'no-store'});
+    if(!r
+PY
