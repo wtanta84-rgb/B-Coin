@@ -5603,5 +5603,291 @@
     "hash": "29b07aff9dd72692ce7f7103d17919ca060b5eadc0008c294964747ea1acda52",
     "nonce": 2,
     "miner": "BODOH1"
+  },
+  {
+    "index": 462,
+    "timestamp": "2026-11-02T20:59:25",
+    "data": "Auto Mine",
+    "previous_hash": "29b07aff9dd72692ce7f7103d17919ca060b5eadc0008c294964747ea1acda52",
+    "prev_hash": "29b07aff9dd72692ce7f7103d17919ca060b5eadc0008c294964747ea1acda52",
+    "hash": "8e678efd5acb494d6080bb90a3cb5b954ac49e98a53687fe2f8cb23b2c580fe9",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 463,
+    "timestamp": "2026-11-02T20:59:26",
+    "data": "Auto Mine",
+    "previous_hash": "8e678efd5acb494d6080bb90a3cb5b954ac49e98a53687fe2f8cb23b2c580fe9",
+    "prev_hash": "8e678efd5acb494d6080bb90a3cb5b954ac49e98a53687fe2f8cb23b2c580fe9",
+    "hash": "09254a678aaa6b608ba5a4e4d09027d14d89c0881062a4e270defee32c71d9b0",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 464,
+    "timestamp": "2026-11-02T20:59:28",
+    "data": "Auto Mine",
+    "previous_hash": "09254a678aaa6b608ba5a4e4d09027d14d89c0881062a4e270defee32c71d9b0",
+    "prev_hash": "09254a678aaa6b608ba5a4e4d09027d14d89c0881062a4e270defee32c71d9b0",
+    "hash": "da2a73351b87d5581591f9549a863ab48b3ccb5b91bb16cc8698ab02fb6cd7e9",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 465,
+    "timestamp": "2026-11-02T20:59:30",
+    "data": "Auto Mine",
+    "previous_hash": "da2a73351b87d5581591f9549a863ab48b3ccb5b91bb16cc8698ab02fb6cd7e9",
+    "prev_hash": "da2a73351b87d5581591f9549a863ab48b3ccb5b91bb16cc8698ab02fb6cd7e9",
+    "hash": "8889f22f184429b03c948e64aa6fe0cc222b3bffc5cd39aea6e1d2a7aac236b8",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 466,
+    "timestamp": "2026-11-02T20:59:31",
+    "data": "Auto Mine",
+    "previous_hash": "8889f22f184429b03c948e64aa6fe0cc222b3bffc5cd39aea6e1d2a7aac236b8",
+    "prev_hash": "8889f22f184429b03c948e64aa6fe0cc222b3bffc5cd39aea6e1d2a7aac236b8",
+    "hash": "de40413a1f089e763dadaa38e0ce90784895c793abf612cf1ba7a0e199f2b7c4",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 467,
+    "timestamp": "2026-11-02T20:59:33",
+    "data": "Auto Mine",
+    "previous_hash": "de40413a1f089e763dadaa38e0ce90784895c793abf612cf1ba7a0e199f2b7c4",
+    "prev_hash": "de40413a1f089e763dadaa38e0ce90784895c793abf612cf1ba7a0e199f2b7c4",
+    "hash": "a5d6b0b85b8078ac446a8a75b41fce065a49f2acc9b2eacac75f3ccfa86cf487",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 468,
+    "timestamp": "2026-11-02T20:59:34",
+    "data": "Auto Mine",
+    "previous_hash": "a5d6b0b85b8078ac446a8a75b41fce065a49f2acc9b2eacac75f3ccfa86cf487",
+    "prev_hash": "a5d6b0b85b8078ac446a8a75b41fce065a49f2acc9b2eacac75f3ccfa86cf487",
+    "hash": "e624942441e740245fe5c43fa904b9ff0b9bf3e0867f39ba590825160b37bb68",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 469,
+    "timestamp": "2026-11-02T20:59:36",
+    "data": "Auto Mine",
+    "previous_hash": "e624942441e740245fe5c43fa904b9ff0b9bf3e0867f39ba590825160b37bb68",
+    "prev_hash": "e624942441e740245fe5c43fa904b9ff0b9bf3e0867f39ba590825160b37bb68",
+    "hash": "5a12b92aefa7ba2bbbd6bdafc7ed6001cad3f6a1a95e4cd8d2e61b4ca2fdd2e0",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 470,
+    "timestamp": "2026-11-02T20:59:37",
+    "data": "Auto Mine",
+    "previous_hash": "5a12b92aefa7ba2bbbd6bdafc7ed6001cad3f6a1a95e4cd8d2e61b4ca2fdd2e0",
+    "prev_hash": "5a12b92aefa7ba2bbbd6bdafc7ed6001cad3f6a1a95e4cd8d2e61b4ca2fdd2e0",
+    "hash": "f6a0d15ddbddd94ec136d9cfa3a9375edea1e8c4fa4d260888acce1d0391a5a9",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 471,
+    "timestamp": "2026-11-02T20:59:39",
+    "data": "Auto Mine",
+    "previous_hash": "f6a0d15ddbddd94ec136d9cfa3a9375edea1e8c4fa4d260888acce1d0391a5a9",
+    "prev_hash": "f6a0d15ddbddd94ec136d9cfa3a9375edea1e8c4fa4d260888acce1d0391a5a9",
+    "hash": "0eaddee249dece966789edc5cd5c42e76c2ae1473d23ba87d3f6f17eea14dc65",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 472,
+    "timestamp": "2026-11-02T20:59:40",
+    "data": "Auto Mine",
+    "previous_hash": "0eaddee249dece966789edc5cd5c42e76c2ae1473d23ba87d3f6f17eea14dc65",
+    "prev_hash": "0eaddee249dece966789edc5cd5c42e76c2ae1473d23ba87d3f6f17eea14dc65",
+    "hash": "3d3b6a86a3c485e901505e4ed95a8a9f7ee7caaa4d9cc0db2d056fb2c1f25a20",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 473,
+    "timestamp": "2026-11-02T20:59:42",
+    "data": "Auto Mine",
+    "previous_hash": "3d3b6a86a3c485e901505e4ed95a8a9f7ee7caaa4d9cc0db2d056fb2c1f25a20",
+    "prev_hash": "3d3b6a86a3c485e901505e4ed95a8a9f7ee7caaa4d9cc0db2d056fb2c1f25a20",
+    "hash": "527a7533a1a5bb5332125d41266343e00d2aad1aab0d9610b5ced10f221f7a07",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 474,
+    "timestamp": "2026-11-02T20:59:44",
+    "data": "Auto Mine",
+    "previous_hash": "527a7533a1a5bb5332125d41266343e00d2aad1aab0d9610b5ced10f221f7a07",
+    "prev_hash": "527a7533a1a5bb5332125d41266343e00d2aad1aab0d9610b5ced10f221f7a07",
+    "hash": "d5e3c5b72102fc04d02b13be6201f3779ce02a369c6031d04b034bf47fe877df",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 475,
+    "timestamp": "2026-11-02T20:59:45",
+    "data": "Auto Mine",
+    "previous_hash": "d5e3c5b72102fc04d02b13be6201f3779ce02a369c6031d04b034bf47fe877df",
+    "prev_hash": "d5e3c5b72102fc04d02b13be6201f3779ce02a369c6031d04b034bf47fe877df",
+    "hash": "e735b4b7607a440fccca769bacda0dd5b77633442c332b9231e0a65088dce14e",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 476,
+    "timestamp": "2026-11-02T20:59:47",
+    "data": "Auto Mine",
+    "previous_hash": "e735b4b7607a440fccca769bacda0dd5b77633442c332b9231e0a65088dce14e",
+    "prev_hash": "e735b4b7607a440fccca769bacda0dd5b77633442c332b9231e0a65088dce14e",
+    "hash": "49ca74b667922ec4618e3794528aa0edb217847270b35865b2cd5b6a21ce5404",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 477,
+    "timestamp": "2026-11-02T20:59:48",
+    "data": "Auto Mine",
+    "previous_hash": "49ca74b667922ec4618e3794528aa0edb217847270b35865b2cd5b6a21ce5404",
+    "prev_hash": "49ca74b667922ec4618e3794528aa0edb217847270b35865b2cd5b6a21ce5404",
+    "hash": "b798e27d75aeed7e9ea7210775b416b7bdab8b98f2ed51a680d9c40ea4a4d3e4",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 478,
+    "timestamp": "2026-11-02T20:59:50",
+    "data": "Auto Mine",
+    "previous_hash": "b798e27d75aeed7e9ea7210775b416b7bdab8b98f2ed51a680d9c40ea4a4d3e4",
+    "prev_hash": "b798e27d75aeed7e9ea7210775b416b7bdab8b98f2ed51a680d9c40ea4a4d3e4",
+    "hash": "896ef98172aaa357d13627660dcb2c43efef8d325f8f1bacd6f840b07bfd523f",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 479,
+    "timestamp": "2026-11-02T20:59:51",
+    "data": "Auto Mine",
+    "previous_hash": "896ef98172aaa357d13627660dcb2c43efef8d325f8f1bacd6f840b07bfd523f",
+    "prev_hash": "896ef98172aaa357d13627660dcb2c43efef8d325f8f1bacd6f840b07bfd523f",
+    "hash": "e8ee8336bd80f0fb44ac1214d35406d070a681c32d2407365e0146dd64596e45",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 480,
+    "timestamp": "2026-11-02T20:59:53",
+    "data": "Auto Mine",
+    "previous_hash": "e8ee8336bd80f0fb44ac1214d35406d070a681c32d2407365e0146dd64596e45",
+    "prev_hash": "e8ee8336bd80f0fb44ac1214d35406d070a681c32d2407365e0146dd64596e45",
+    "hash": "f44e041dba789764cf4faef49790653c42dc716670d220f5323fa820cd905ec5",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 481,
+    "timestamp": "2026-11-02T20:59:54",
+    "data": "Auto Mine",
+    "previous_hash": "f44e041dba789764cf4faef49790653c42dc716670d220f5323fa820cd905ec5",
+    "prev_hash": "f44e041dba789764cf4faef49790653c42dc716670d220f5323fa820cd905ec5",
+    "hash": "7f39f2acd4a002c336d25db7e0187b8374f0445663247ba988105c6416116ecc",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 482,
+    "timestamp": "2026-11-02T20:59:56",
+    "data": "Auto Mine",
+    "previous_hash": "7f39f2acd4a002c336d25db7e0187b8374f0445663247ba988105c6416116ecc",
+    "prev_hash": "7f39f2acd4a002c336d25db7e0187b8374f0445663247ba988105c6416116ecc",
+    "hash": "7d2c0c2c5ac47372c971137578c7d5e803ce239ae79703bb2d80c0d93cc4fd87",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 483,
+    "timestamp": "2026-11-02T20:59:58",
+    "data": "Auto Mine",
+    "previous_hash": "7d2c0c2c5ac47372c971137578c7d5e803ce239ae79703bb2d80c0d93cc4fd87",
+    "prev_hash": "7d2c0c2c5ac47372c971137578c7d5e803ce239ae79703bb2d80c0d93cc4fd87",
+    "hash": "8f8baf7140627392655e3f229fd207be12a5eb75ec511d30f59e73fd38adb455",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 484,
+    "timestamp": "2026-11-02T20:59:59",
+    "data": "Auto Mine",
+    "previous_hash": "8f8baf7140627392655e3f229fd207be12a5eb75ec511d30f59e73fd38adb455",
+    "prev_hash": "8f8baf7140627392655e3f229fd207be12a5eb75ec511d30f59e73fd38adb455",
+    "hash": "8fd76bc663d1bed0450e5b6fbfa76c7ffe274153c606c78a33cf8a6a56b417cf",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 485,
+    "timestamp": "2026-11-02T21:00:01",
+    "data": "Auto Mine",
+    "previous_hash": "8fd76bc663d1bed0450e5b6fbfa76c7ffe274153c606c78a33cf8a6a56b417cf",
+    "prev_hash": "8fd76bc663d1bed0450e5b6fbfa76c7ffe274153c606c78a33cf8a6a56b417cf",
+    "hash": "0746cde8df57715bd6a39eb411ed2e80b6a6e69895ee62f229a6b05e71226632",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 486,
+    "timestamp": "2026-11-02T21:00:02",
+    "data": "Auto Mine",
+    "previous_hash": "0746cde8df57715bd6a39eb411ed2e80b6a6e69895ee62f229a6b05e71226632",
+    "prev_hash": "0746cde8df57715bd6a39eb411ed2e80b6a6e69895ee62f229a6b05e71226632",
+    "hash": "2dda6a5799f5e06392fa48cb14aa907da62443d5ec653afa5c56780cd91ed46a",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 487,
+    "timestamp": "2026-11-02T21:00:04",
+    "data": "Auto Mine",
+    "previous_hash": "2dda6a5799f5e06392fa48cb14aa907da62443d5ec653afa5c56780cd91ed46a",
+    "prev_hash": "2dda6a5799f5e06392fa48cb14aa907da62443d5ec653afa5c56780cd91ed46a",
+    "hash": "5eebce88a07b4af809ddc9b4796fb2f3d721f4b2cf8173b16aa5e819c7137724",
+    "nonce": 2,
+    "miner": "BODOH1"
+  },
+  {
+    "index": 488,
+    "timestamp": "2026-11-02T21:09:35",
+    "data": "hard mined",
+    "previous_hash": "5eebce88a07b4af809ddc9b4796fb2f3d721f4b2cf8173b16aa5e819c7137724",
+    "hash": "00002ac5e949dd09a68c39088b6487da090687653c5e8ed6fe80eb30d132a288",
+    "nonce": 63618,
+    "difficulty": 4
+  },
+  {
+    "index": 489,
+    "timestamp": "2026-11-02T21:12:12",
+    "data": "hard mined",
+    "previous_hash": "00002ac5e949dd09a68c39088b6487da090687653c5e8ed6fe80eb30d132a288",
+    "hash": "0000db3bda37d9242c0d94d7579ff6b8a674e06cc1725d7325d964bd4cff133e",
+    "nonce": 33953,
+    "difficulty": 4
+  },
+  {
+    "index": 490,
+    "timestamp": "2026-11-02T21:18:06",
+    "data": "hard mined DIFF 4",
+    "previous_hash": "0000db3bda37d9242c0d94d7579ff6b8a674e06cc1725d7325d964bd4cff133e",
+    "hash": "000048c7b671ac15914375cb7ad9ad8ba746bf132349525c426511be77dbd55b",
+    "nonce": 127841
   }
 ]
